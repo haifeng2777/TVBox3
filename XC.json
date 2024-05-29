@@ -70,7 +70,16 @@
                 "分类url":"https://www.laowang.co/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"
              }
         },
-     {"key":"短剧天堂4","name":"短剧天堂4","type":3,"jar": "","api":"csp_XBPQ","ext":{"简介":"祝您观影愉快","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类标题":">&&</a>","分类ID":"/vodtype/&&.html"}},
+   {
+      "key": "耐看 !",
+      "name": "💮耐看! ┃自简",
+      "type": 3,
+      "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "ext":{"主页url": "https://nkvod.com/",
+      "分类": "电影$1#电视$2#综艺$3#动漫$4#动作$6#战争$12#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#国产剧$13#港台剧 $14#日韩剧 $15#欧美剧 $16#其他剧$20",           
+      "分类url":"https://nkvod.com/type/{cateId}--{by}------{catePg}---{year}.html;;u0"}},
 
         { "key": "XBPQ_duanjutt",
             "name": "短剧天堂┃XBPQ",
