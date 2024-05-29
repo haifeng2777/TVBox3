@@ -58,7 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "jar": "",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.laowang.co/",
@@ -70,12 +70,12 @@
                 "分类url":"https://www.laowang.co/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"
              }
         },
-     {"key":"短剧天堂4","name":"短剧天堂4","type":3,"jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar","api":"csp_XBPQ","ext":{"简介":"祝您观影愉快","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类标题":">&&</a>","分类ID":"/vodtype/&&.html"}},
+     {"key":"短剧天堂4","name":"短剧天堂4","type":3,"jar": "","api":"csp_XBPQ","ext":{"简介":"祝您观影愉快","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类标题":">&&</a>","分类ID":"/vodtype/&&.html"}},
 
         { "key": "XBPQ_duanjutt",
             "name": "短剧天堂┃XBPQ",
              "type": 3,
-             "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+             "jar": "",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext":{
@@ -92,7 +92,7 @@
         { "key": "XBPQ_青苹果",
             "name": "青苹果┃XBPQ",
              "type": 3,
-             "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+             "jar": "",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext":{
@@ -115,7 +115,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "jar": "r",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://rebozj.pro/",
@@ -148,7 +148,7 @@
             "key": "jqqzx.cc#",
             "name": "剧圈圈┃自简#",
             "type": 3,
-            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "jar": "",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
