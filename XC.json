@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-//🐧裙：711368232
+
 
 {
 	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;A25BD9FDFFBEB39641ED95479FE5DA20",
@@ -8,6 +8,182 @@
 
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+
+               {
+                "key": "XBPQ_免费视频",
+                "name": "免费视频┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+                "ext": {
+                "分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
+				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
+				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+				"数组二次截取": "list\":[&&]",
+				"数组": "{&&}[不包含:]",
+				"图片": "vod_pic\":\"&&\"",
+				"标题": "vod_name\":\"&&\"",
+				"副标题": "+vod_remarks\":\"&&\"",
+				"链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+				"搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
+				"搜索模式": "1",
+				"搜索二次截取": "list\":[&&]",
+				"搜索数组": "{&&}[不包含:]",
+				"搜索图片": "vod_pic\"*\"&&\"",
+				"搜索标题": "vod_name\"*\"&&\"",
+				"搜索副标题": "type_name\":\"&&\"",
+				"搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+				"影片类型": "vod_class\"*\"&&\"",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+				"简介": "vod_content\"*\"&&\"",
+				"线路二次截取": "\"list\":[&&]",
+				"线路数组": "\"vod_play_from\":&&,",
+				"线路标题": "\"&&\"",
+				"播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+				"播放二次截取": "",
+				"播放列表": "表&&表",
+				"播放标题": "题&&题",
+				"播放链接": "链&&链",
+				"嗅探词": ".m3u8",
+				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+				"免嗅": "0",
+				"页面代理":"proxy"}
+			},
+
+        {
+            "key": "老王影视",
+            "name": "老王影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.laowang.co/",
+                "线路": "<div class=\"module-item\">&&</div>",
+                "图片": "data-src=\"&&\"",                
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "短剧$duanju#电影$movie#电视剧$tv#综艺$tvshow#动漫$animation",
+                "分类url":"https://www.laowang.co/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"
+             }
+        },
+     {"key":"短剧天堂4","name":"短剧天堂4","type":3,"jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar","api":"csp_XBPQ","ext":{"简介":"祝您观影愉快","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类标题":">&&</a>","分类ID":"/vodtype/&&.html"}},
+
+        { "key": "XBPQ_duanjutt",
+            "name": "短剧天堂┃XBPQ",
+             "type": 3,
+             "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "ext":{
+                "免嗅": "0",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "分类数组": "col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
+                "分类标题": ">&&</a>",
+                "分类ID": "/vodtype/&&.html",
+     "分类url": "https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "逆袭$1#甜宠$2#虐恋$3#穿越$4#都市$20#现代言情$21#古装$22#古代言情$23#战神$24#神医$25#神豪$26#超能$27#萌宝$28#复仇$29#脑洞$30#赘婿$31#玄幻$32#热血$33#其他$34"
+            }
+        }, 
+
+        { "key": "XBPQ_青苹果",
+            "name": "青苹果┃XBPQ",
+             "type": 3,
+             "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "ext":{
+                "主页url": "https://www.isoitc.com/",
+                "免嗅": "0",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "数组": "<div class=\"show_play\">&&</div>",
+                "线路数组":"<div class=\"con_juji_bg\">&&</div>",
+                "线路标题": "&&</a",
+                "分类ID": "/vodtype/&&.html",
+     "分类url": "https://www.isoitc.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$39#Tvb电影$36"
+            }
+        }, 
+       {
+            "key": "热播之家",
+            "name": "热播之家",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://rebozj.pro/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "https://rebozj.pro/search/-------------.html?wd={wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "href=\"#playlist*\"&&</li>[不包含:夸克4K#蓝光专享1#蓝光专享2]",
+                "线路标题": "+tab\">&&</a",
+                "播放列表数组": "<ul class=\"stui-content__playlist clearfix sort-list\"&&</ul>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "短剧$28#电影$1#电视剧$2#动漫$4#综艺$5",
+                "分类url": "https://rebozj.pro/show/{cateId}-{area}-------{catePg}---{year}.html"
+        }
+        },
+
+    {
+      "key": "黑木耳",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": ["剧情", "动作", "冒险", "同性", "喜剧", "奇幻", "恐怖", "悬疑", "惊悚", "灾难", "爱情", "犯罪", "科幻", "动画电影", "歌舞", "战争", "经典", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台", "古装", "虐恋", "逆袭", "悬疑", "神豪", "重生", "复仇", "穿越", "甜宠", "强者"]				
+			    },
+          {
+            "key": "jqqzx.cc#",
+            "name": "剧圈圈┃自简#",
+            "type": 3,
+            "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/Xbpq1.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.jqqzx.cc/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片":"data-original=\"&&\"",              
+                "搜索url": "https://www.jqqzx.cc/vodsearch.html?wd={wd}",
+                "线路": "<div> class=\"module-poster-item-info\">&&</div>",                
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "短剧$shuangju#电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi",
+                "分类url": "https://www.jqqzx.cc/vodshow/{area}/by/{by}/class/{class}/lang/{lang}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }
+        },
+
+    {
+      "key": "胖虎",
+      "name": "🐯┃胖虎┃影视",
+      "type": 3,
+      "jar": "https://cloud.lxweb.cn/f/qDZmfe/PandaQ240509.jar",
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+
+
+
+		
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com//yoursmile66/TVBox/main/sub/nmys.json"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
