@@ -227,6 +227,25 @@
         }
         },
 
+        {
+            "key": "短剧吧",
+            "name": "短剧吧┃自简",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://duanju8.cc/",
+                "搜索url": "https://duanju8.cc/search/-------------.html?wd={wd}&submit=",
+                "数组": "<li class=\"col-md-5 col-sm-4 col-xs-3\">&&</li>",
+                "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+                "分类url": "https://duanju8.cc/show/{cateId}--{by}------{catePg}---{year}.html"
+        }},
+
+		
     {
       "key": "胖虎",
       "name": "🐯┃胖虎┃影视",
