@@ -503,27 +503,7 @@
                 "分类url": "https://duanju8.cc/show/{cateId}--{by}------{catePg}---{year}.html"
         }},
 
-   {
-            "key": " 虾酱追剧",
-            "name": " 虾酱追剧",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
 
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.xiajiangzj.top/",
-                "线路": "<div class=\"module-item-pic\">&&</div>",
-                "图片": "data-original=\"&&\"",                
-                "播放数组": "<div class=\"module-play-list\">&&</div>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "短剧$28#电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url":"https://www.xiajiangzj.top/vod/show/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-             }
-        },
 
    {
             "key": " 蚂蚁影视",
