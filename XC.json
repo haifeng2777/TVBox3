@@ -601,7 +601,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#欧美剧$16"
       }
     },
-
+  { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
 
 
 		
