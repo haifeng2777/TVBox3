@@ -264,7 +264,9 @@
     "分类": "短剧$59#电影$1#电视剧$2#综艺$3#动漫$4"
             }
         }, 
- 
+     { "key": "剧迷网",  "name": "剧迷网", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url":"https://www.jagcys.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电视剧$dsj#电影$dianying#动漫$dongman#综艺$zongyi"}},
+
+{ "key": "宇航影视",  "name": "宇航影视", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +video-info-item video-info-content vod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
  
  
     {
