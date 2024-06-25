@@ -240,7 +240,7 @@
 	    "播放二次截取": "",
 		  "播放标题": "<span>&&</span>",
 		  "播放链接": "href=\"&&\"",
-      "分类url": "https://nhsyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;u0",
+      "分类url": "https://nhsyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;d0",
       "分类": "穿越$1#战神$2#重生$3#爱情$4#萌娃$gudai#神医$shenyi#古代$gudai#玄幻$xuanhuan#横屏短剧$hengpingduanju"
       }
     },  
