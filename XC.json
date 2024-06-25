@@ -526,7 +526,59 @@
                 "分类url":"http://www.mayiys.cc/ho/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html"
              }
         },
+        {
+            "key": "萝卜1",
+            "name": "萝卜|影视1",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+            "ext": {
+                "主页url": "https://cj.lbbb.cc/",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "<div class=\"module-tab-item tab-item&&</div[排序:中萝卜>大萝卜>老萝卜]",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "分类": "短剧$42#电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://cj.lbbb.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
+            }
+        },
+     {
+      "key": "电影",
+      "name": "┃莱坞电影┃",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"},
 
+        {
+            "key": "爱电影$",
+            "name": "爱电影+短剧",
+            "type": 3,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.gs4x7nq4.com/",
+                "线路数组": "<div class=\"sc-kUbfpu fmhnIX\">&&</div>",
+                "线路标题": "<div class=\"player_name\">海风播放器</div>",
+                "图片": "src=\"&&\"</div>",                
+                "标题": "<div class=\"title\">&&</div>",                
+                "播放列表数组": "class=\"sc-jtHLPo cCbGGv\">&&</div>",
+                "播放列表": " listitem\">&&</a>",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+                "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/page/{catePg};;d0"
+        }
+        },
 
 
 
