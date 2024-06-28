@@ -746,7 +746,37 @@
       }
     },
   { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
-
+         {
+            "key": "快看资源",
+            "name": "快看💰",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "热门短剧",  
+                "国产剧",
+                "韩国剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "动作片",
+                "科幻片",
+                "战争片",
+                "奇幻片",
+                "喜剧片",
+                "爱情片",
+                "恐怖片",
+                "犯罪片",
+                "悬疑片",
+                "惊悚片",
+                "剧情片",
+                "冒险片",
+                "记录片",
+                "综艺",
+                "动漫"
+            ]
+        },
 
 		
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
