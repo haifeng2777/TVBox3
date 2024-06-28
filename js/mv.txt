@@ -11,13 +11,13 @@
 https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/61zb.txt
 
 #我不是肥猫
-http://我不是.肥猫.love:63/TV/tvzb.txt
+http://我不是.肥猫.live/TV/tvzb.txt
 
-#自用直播
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
+#饭太硬
+https://www.huichunniao.cn/xh/lib/live.txt
 
-#移动直播
-https://agit.ai/lengniuge/api/raw/branch/master/live.txt
+#荷城茶秀
+http://rihou.cc:88/hccx/zb.txt
 
 #MV1
 https://agit.ai/lengniuge/mv/raw/branch/master/MV1.txt
