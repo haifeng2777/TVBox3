@@ -10,7 +10,6 @@
             "key": "啊哈DJ视频",
             "name": "啊哈DJ视频",
             "type": 3,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "直接播放": "1",
@@ -297,9 +296,9 @@
     "分类": "短剧$59#电影$1#电视剧$2#综艺$3#动漫$4"
             }
         }, 
-     { "key": "剧迷网",  "name": "剧迷网", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url":"https://www.jagcys.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电视剧$dsj#电影$dianying#动漫$dongman#综艺$zongyi"}},
+     { "key": "剧迷网",  "name": "剧迷网", "type": 3,"jar": "api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url":"https://www.jagcys.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电视剧$dsj#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
-{ "key": "宇航影视",  "name": "宇航影视", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +video-info-item video-info-content vod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{ "key": "宇航影视",  "name": "宇航影视", "type": 3,"jar": "api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +video-info-item video-info-content vod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
         {
             "key": "飞飞影视",
             "name": "飞飞影视|XBPQ",
@@ -352,8 +351,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",    
+      "filterable": 1,    
       "api": "csp_XBPQ",
       "ext": {                 
       "作者":"爱家",    
@@ -485,7 +483,6 @@
       "key": "耐看 !",
       "name": "💮耐看! ┃自简",
       "type": 3,
-      "jar": "http://152.32.170.60/haifeng2777/yemao/raw/branch/master/jar/xbpq.jar",
       "api": "csp_XBPQ",
       "playerType": 1,
       "ext":{"主页url": "https://nkvod.com/",
@@ -608,7 +605,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://duanju8.cc/",
@@ -648,7 +644,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
             "ext": {
                 "主页url": "https://cj.lbbb.cc/",
                 "影片类型": "module-info-tag\">&&立即播放",
@@ -674,7 +669,6 @@
             "key": "爱电影$",
             "name": "爱电影+短剧",
             "type": 3,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -778,7 +772,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#欧美剧$16"
       }
     },
-  { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar","api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
+  { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"jar": "api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
          {
             "key": "快看资源",
             "name": "快看💰",
@@ -1231,5 +1225,5 @@
     "api.htpan.net"
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;A25BD9FDFFBEB39641ED95479FE5DA20"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;A25BD9FDFFBEB39641ED95479FE5DA20"
 }
