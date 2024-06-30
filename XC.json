@@ -492,7 +492,7 @@
         { "key": "XBPQ_duanjutt",
             "name": "短剧天堂┃XBPQ",
              "type": 3,
-             "jar": "",
+             
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext":{
@@ -509,7 +509,7 @@
         { "key": "XBPQ_青苹果",
             "name": "青苹果┃XBPQ",
              "type": 3,
-             "jar": "",
+            
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext":{
@@ -772,7 +772,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#欧美剧$16"
       }
     },
-  { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"jar": "api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
+  { "key": "祥祥",  "name": "祥祥影视┃XBPQ", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"海风为您剧情介绍: +hl-content-text\">&&</span>","分类url":"http://141.147.146.105/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电影$1#电视剧$2#动漫$4#综艺$3"}},
          {
             "key": "快看资源",
             "name": "快看💰",
