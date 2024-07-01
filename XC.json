@@ -1225,22 +1225,17 @@
     "api.htpan.net"
   ],
 
- "lives": [
+ 
+  "lives": [
     {
-      "name": "live-1",
+      "name": "live",
       "type": 0,
+
       "url": "https://cloud.lxweb.cn/f/AEZ2ha/61zb.txt",
-      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },	
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 	
 	
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
