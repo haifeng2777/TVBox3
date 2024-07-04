@@ -25,7 +25,33 @@
                 "链接":"href=\"&&\""
         }
         },
- 
+        {
+            "key": "星辰影院",
+            "name": "星辰影院",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+
+            "ext": {
+                "主页url": "https://citytv.cc/",
+                "线路数组": "pull-right\">&&</li>",
+                "线路标题": "海风线路",
+		"播放数组": "stui-content__playlist&&</ul>",
+                "播放标题": "href=\"*\"&&</a[不包含:1080P]",
+                "播放链接": "href=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+                "分类url": "https://citytv.cc/tvs/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
+            }
+        },
+
+
+
+
+	  
        {
             "key": "爱看农民",
             "name": "🦊爱看农民┃XBPQ",
