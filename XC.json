@@ -291,24 +291,30 @@
             "ext": "https://cloud.lxweb.cn/f/2gdKIG/Movies.json"
         },
 
-
-
      {
       "key": "csp_XBPQ_爱你短剧",
       "name": "🦊爱你┃短剧",
       "type": 3,
+
       "api": "csp_XBPQ",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "主页url": "https://www.ainidj.com/",
         "影片类型": "module-info-tag\">&&立即播放",
-        "数组": "module-item-pic\">&&</div>",
-        "线路数组": "<div class=\"module-tab-item tab-item&&</div[排序:爱你短剧>爱你偶]",
+        //"数组": "module-item-pic\">&&</div>",
+        "线路数组": "data-dropdown-value=&&</div[排序:爱你短剧>爱你偶]",
         "线路标题": "<span>&&</span>",
-        "分类url": "https://www.ainidj.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "穿越$1#战神$2#重生$3#爱情$4#萌娃$gudai#神医$shenyi#古代$gudai#玄幻$xuanhuan#横屏短剧$hengpingduanju"
+        "播放数组": "class=\"module-blocklist\">&&</div>",
+	    "播放二次截取": "",
+		"播放标题": "<span>&&</span>",
+		"播放链接": "href=\"&&\"",
+        //"嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
+        //"免嗅": "0",
+        "分类url": "https://www.ainidj.com/vodshwo/{cateId}-{area}-{by}-{class}--------{year}.html",
+        "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$gudai#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
       }
     }, 
 
@@ -316,22 +322,28 @@
       "key": "csp_XBPQ_你好帅",
       "name": "🦊你好帅┃短剧",
       "type": 3,
+
       "api": "csp_XBPQ",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-      "主页url": "https://nhsyy.com/",
-      "简介": "color=\"*\"&&</a>",
-      "数组": "module-item-pic\">&&</div>",
-      "播放数组": "class=\"scroll-content\">&&</div>",
+        "主页url": "https://nhsyy.com/",
+        "简介": "color=\"*\"&&</a>",
+        "数组": "module-item-pic\">&&</div>",
+        "播放数组": "class=\"scroll-content\">&&</div>",
 	    "播放二次截取": "",
-		  "播放标题": "<span>&&</span>",
-		  "播放链接": "href=\"&&\"",
-      "分类url": "https://nhsyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;d0",
-      "分类": "穿越$1#战神$2#重生$3#爱情$4#萌娃$gudai#神医$shenyi#古代$gudai#玄幻$xuanhuan#横屏短剧$hengpingduanju"
+		"播放标题": "<span>&&</span>",
+		"播放链接": "href=\"&&\"",
+        "分类url": "https://nhsyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "穿越$fenlei1#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$gudai#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
       }
-    },  
+    }, 
+
+
+
+
  
  
          { "key": "XBPQ_ 新视觉",
