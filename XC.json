@@ -872,7 +872,27 @@
                 "动漫"
             ]
         },
-
+        {
+            "key": "骑士",
+            "name": "骑士|XBPQ",
+            "type": 3,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.74ev.com/",
+                "线路数组": "hl-tabs-btn hl-slide-swiper&&</a>",
+                "线路标题": "alt=\"*\"&&</a>",
+                "图片": "data-original=\"&&\"",                
+                "搜索url": "https://www.74ev.com/qsyy_so/-------------.html?wd={wd}&submit=",
+                "简介":"海风为您剧情介绍: +hl-content-text\">&&</em>",                
+                "分类": "短剧$26#电影$1#电视剧$2#动漫$4#综艺$3",
+                "分类url": "https://www.74ev.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+        }
+        },
 		
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com//yoursmile66/TVBox/main/sub/nmys.json"},
