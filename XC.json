@@ -47,7 +47,27 @@
                 "分类url": "https://citytv.cc/tvs/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
             }
         },
+        {
+            "key": "麦田影院",
+            "name": "麦田影院",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
 
+            "ext": {
+                "主页url": "https://mtyy1.com/",
+                "线路数组": "swiper-slide\">&&</a>",
+                "线路标题": "海风线路+fa ds-dianying\">&&</li>",
+		"播放数组": "anthology-list-play size\">&&</ul>",
+                "播放链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "分类": "短剧$5#电影$2#电视剧$1#综艺$3#动漫$4#纪录片$6",
+                "分类url": "https://mtyy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+            }
+        },
 
 
 
