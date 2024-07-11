@@ -938,7 +938,33 @@
                 "分类url": "https://www.74ev.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
         }
         },
-		
+{
+      "key": "csp_mgtva",
+      "name": "木瓜┃XBPQ",
+      "type": 3,
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "dianying&lianxuju&zongyi&dongman"
+      }
+    },
+
+      {
+      "key": "热播之家!",
+      "name": "热播之家┃XBPQ",
+      "type": 3,
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "短剧$28#电影$1#电视剧$2#动漫$4#综艺$5#纪录片$3#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#国产剧$13#港台剧$14#日韩剧$15#海外剧$16#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21",
+        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+
+
+	  
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com//yoursmile66/TVBox/main/sub/nmys.json"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
