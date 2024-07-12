@@ -73,7 +73,7 @@
                 "name": "兄弟┃XBPQ",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+
                 "ext": {
                 "搜索url": "https://www.brovod.com/ss/-------------/?wd={wd}",
                 "过滤词": "/zjm3/xdad#.js",
