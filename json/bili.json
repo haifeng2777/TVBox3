@@ -48,6 +48,32 @@
             "type_name": "8K",
             "type_id": "8K"
         },
+
+       {
+            "type_name": "番剧",
+            "type_id": "番剧"
+        },
+        {
+            "type_name": "综艺",
+            "type_id": "综艺"
+        },
+        {
+            "type_name": "娱乐",
+            "type_id": "娱乐"
+        },
+        {
+            "type_name": "运动",
+            "type_id": "运动"
+        },
+        {
+            "type_name": "时尚",
+            "type_id": "时尚"
+        },
+        {
+            "type_name": "科技",
+            "type_id": "科技"
+        },        
+        
         {
             "type_name": "美食",
             "type_id": "美食"
