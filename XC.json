@@ -68,7 +68,19 @@
                 "分类url": "https://mtyy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
             }
         },
-
+             {
+                "key": "XBPQ_兄弟",
+                "name": "兄弟┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+                "ext": {
+                "搜索url": "https://www.brovod.com/ss/-------------/?wd={wd}",
+                "过滤词": "/zjm3/xdad#.js",
+                "分类": "短剧$6#电影$1#连续剧$2#综艺$3#动漫$4#纪录$5",
+                "分类url": "https://www.brovod.com/show/{cateId}---{class}-----{catePg}---/"
+            }
+            },
 
 
 	  
