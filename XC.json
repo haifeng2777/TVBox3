@@ -828,7 +828,27 @@
    "分类": "短剧&电影&连续剧&综艺&动漫",
    "分类值": "28&1&2&3&4"
 	}},
-
+         {
+            "key": "CY影视!",
+            "name": "🎬️CY影视_XBPQ",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+            "ext": {
+                "主页url": "http://movie.yzcyj.net/",
+                "图片": "data-original=\"&&\"",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</span>[不包含:❤超清无广]",
+				//"播放数组": "video_list fn-clear\">&&</div>",
+                "分类": "短剧$32#电影$1#电视剧$2#动漫$4#综艺$3#直播$57",
+                "分类url": "http://movie.yzcyj.net/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+             }
+        },
 
 		
     {
