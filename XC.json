@@ -811,7 +811,23 @@
                 "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/page/{catePg};;d0"
         }
         },
-
+        {
+	"key": "csp_XBPQ_全网看1",
+        "name": "┃全网看┃XBPQ",
+        "type": 3,
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+  "主页url": "https://www.qkw1.cc/",
+   "搜索模式": "1",
+   "搜索url":"/search/-------------.html?wd={wd}",
+   "分类url": "https://www.qkw1.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
+   "分类": "短剧&电影&连续剧&综艺&动漫",
+   "分类值": "28&1&2&3&4"
+	}},
 
 
 		
