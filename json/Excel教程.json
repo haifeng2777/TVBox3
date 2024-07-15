@@ -1,39 +1,39 @@
 {
-  "classes": [
- 
-    
- {
-      "type_name": "VLOOKUP",
-      "type_id": "VLOOKUP"
-    },
-    {
-      "type_name": "VLOOKUP技巧",
-      "type_id": "VLOOKUP技巧"
-    },
-    {
-      "type_name": "VLOOKUP教程",
-      "type_id": "VLOOKUP教程"
-    },
-    {
-      "type_name": "VLOOKUP公式",
-      "type_id": "VLOOKUP公式"
-    },
-    {
-      "type_name": "VLOOKUP常用",
-      "type_id": "VLOOKUP常用"
-    },
-    {
-      "type_name": "VLOOKUP组合",
-      "type_id": "VLOOKUP组合"
-    },
+"classes":[
 
- {
-      "type_name": "VLOOKUP视频",
-      "type_id": "VLOOKUP视频"
-    },
-    {
-      "type_name": "VLOOKUP高级",
-      "type_id": "VLOOKUP高级"
+
+{
+"type_name":"VLOOKUP",
+"type_id":"VLOOKUP"
+},
+{
+"type_name":"VLOOKUP技巧",
+"type_id":"VLOOKUP技巧"
+},
+{
+"type_name":"VLOOKUP教程",
+"type_id":"VLOOKUP教程"
+},
+{
+"type_name":"VLOOKUP公式",
+"type_id":"VLOOKUP公式"
+},
+{
+"type_name":"VLOOKUP常用",
+"type_id":"VLOOKUP常用"
+},
+{
+"type_name":"VLOOKUP组合",
+"type_id":"VLOOKUP组合"
+},
+
+{
+"type_name":"VLOOKUP视频",
+"type_id":"VLOOKUP视频"
+},
+{
+"type_name":"VLOOKUP高级",
+"type_id":"VLOOKUP高级"
     },
     {
       "type_name": "VLOOKUP用法",
@@ -52,7 +52,10 @@
       "type_id": "数据透视表技巧"
     }
 
-    
+    {
+      "type_name": "搞笑",
+      "type_id": "搞笑"
+    } 
   
   ],
   "filter": {
