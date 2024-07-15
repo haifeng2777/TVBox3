@@ -718,7 +718,7 @@
       "key": "csp_可可",
       "name": "可可┃短剧",
       "type": 3,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haifeng2777/gao/main/jar/OK%2BFm%2BXBPQ%2BXYQH.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+
       "api": "csp_XBPQ",
       "ext": {"请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
  "数组":"class=\"module-item\">&&</div>" , 
@@ -815,7 +815,7 @@
 	"key": "csp_XBPQ_全网看1",
         "name": "┃全网看┃XBPQ",
         "type": 3,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/haifeng2777/TVBox3/main/jar/Xbpq1.jar",
+
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
@@ -837,7 +837,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+
             "ext": {
                 "主页url": "http://movie.yzcyj.net/",
                 "图片": "data-original=\"&&\"",
@@ -850,6 +850,33 @@
              }
         },
 
+        {
+            "key": "可可2",
+            "name": "❤可可2_XBPQ",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+
+            "ext": {
+                "主页url": "http://www.kmxibanyayu.com/",
+                "数组": "df8bc49af9f5ad83ae07349d0d4fbd58 stui-vodlist__box\"&&</div>",
+                "副标题":"pic-text text-right\">&&</span>",
+                "搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>",
+                "图片": "data-original=\"&&\"",
+                "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#电影解说$dianyingjieshuo",
+                "分类url": "http://www.kmxibanyayu.com/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+            }
+        },
+
+
+
+
+
+
+	  
 		
     {
       "key": "胖虎",
