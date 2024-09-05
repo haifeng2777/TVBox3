@@ -25,7 +25,23 @@
                 "链接":"href=\"&&\""
         }
         },
-        {
+       {
+            "key": "南风",
+            "name": "南风短剧┃XBPQ",
+            "type": 3,          
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.nanf.cc/djshow/{cateId}--------{catePg}---.html",
+                "分类": "古装穿越$2#甜宠虐恋$3#世纪重生$5#末世求生$7#都市牛人$1#灵异惊悚$4#修仙玄幻$6#海外短剧$8"
+            }
+        },
+	  
+	  
+	  {
             "key": "星辰影院",
             "name": "星辰影院",
             "type": 3,
