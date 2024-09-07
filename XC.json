@@ -39,7 +39,13 @@
                 "分类": "古装穿越$2#甜宠虐恋$3#世纪重生$5#末世求生$7#都市牛人$1#灵异惊悚$4#修仙玄幻$6#海外短剧$8"
             }
         },
-	  
+	    {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+    },  
 	  
 	  {
             "key": "星辰影院",
@@ -168,7 +174,7 @@
             "分类url": "http://www.bcdy.xyz/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
            }
- 
+ },
    
 
       {
@@ -286,24 +292,7 @@
 
  
  
-         { "key": "XBPQ_ 新视觉",
-            "name": " 新视觉┃XBPQ",
-             "type": 3,           
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-           
-            "playerType": "2",
-            "ext":{
-                "主页url": "https://www.80yy3.com/",
-                "数组": "<div class=\"module-item-pic\">&&</div>",
-                "线路数组":"data-dropdown-value=\"*>&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类ID": "/vodtype/&&.html",
-     "分类url": "https://www.80yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类": "短剧$59#电影$1#电视剧$2#综艺$3#动漫$4"
-            }
-        }, 
+
      { "key": "剧迷网",  "name": "剧迷网", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url":"https://www.jagcys.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$shuangwenduanju#电视剧$dsj#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
 { "key": "宇航影视",  "name": "宇航影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍: +video-info-item video-info-content vod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
