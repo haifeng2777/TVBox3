@@ -115,7 +115,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.gitmirror.com/haifeng2777/gao/main/jar/OK%2BFm%2BXBPQ%2BXYQH.jar",
+
             "ext": {
                 "主页url": "https://www.wwgz.cn/",
                 "数组二次截取": "list\":[&&]",
@@ -123,9 +123,9 @@
                 "图片": "vod_pic\":\"&&\"",
                 "线路数组": "<a&&/a>",             
                 "线路标题": "海风线路",
-				"播放数组": "soyurl\">&&</ul>",
+	        "播放数组": "soyurl\">&&</ul>",
                 "导演": "<font>&&</font>",				
-				"简介": "vod_content\"*\"&&\"",
+		"简介": "vod_content\"*\"&&\"",
                 "免嗅": "0",
                 "分类": "短剧$26#电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter-{letter}-area-{area}-lang-.html"
