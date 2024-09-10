@@ -73,6 +73,55 @@
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },  
 	  
+        {
+            "key": "FreeOK",
+            "name": "🦊FreeOK",
+            "type": 3,
+            "api": "csp_XBPQ",
+                "ext": {
+                "影片类型": "module-info-main\">&&</div立即播放",
+                "分类": "短剧$5#电影$1#电视剧$2#动漫$3#综艺$4",
+                "分类url": "https://www.freeokk.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+            }
+        },
+	{ "key": "目标",  
+"name": "🦊目标", 
+"type": 3,
+"api": "csp_XBPQ",
+"ext": { 
+"主页url": "https://tv.xmb.app/",
+
+"线路数组": "swiper-wrappertext-muted col-pd&&</div>",
+"线路标题": "&&</span>",
+"分类url":"https://tv.xmb.app/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+"分类":"短剧$5#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$6"}},  
+
+ { "key": "飞飞影视",  
+"name": "🦊飞飞影视", 
+"type": 3,
+"api": "csp_XBPQ",
+"ext": { 
+"主页url": "https://www.yxtxtz.com/",
+"数组": "class=\"myui-vodlist__box\">&&</div>",
+"线路数组": "data-toggle=&&</a>[排序:优质>爱坤>速播>红牛>蓝光2>蓝光1>蓝光9>蓝光9-1蓝光9-2>秒播]",
+"线路标题": ">&&</a>",
+//"播放数组": "class=\"btn btn-default\"",
+"播放标题": "\">&&</a>[不包含:дрр滈凊]",
+"播放链接": "href=\"&&\"",
+"嗅探词": ".m3u8",
+"分类url":"https://www.yxtxtz.com/ffsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+"分类":"短剧$5#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$6"}},	  
+	  
+    {
+      "key": "明渊",
+      "name": "🦊明渊〓采集",
+      "type": 1,
+      "api": "https://v.miuu.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": ["短剧","电影","电视","综艺","动漫","其他","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","国产剧","港台剧","日韩剧","欧美剧","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","记录片","海外剧","其他剧","大陆综艺","日韩综艺","欧美综艺","港台综艺","国产动漫","日韩动漫","欧美动漫","其他动漫","其他综艺","港台动漫"
+      ]
+    },	  
 	  {
             "key": "星辰影院",
             "name": "星辰影院",
