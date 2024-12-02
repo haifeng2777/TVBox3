@@ -17,8 +17,8 @@ searchable: 1,
 quickSearch: 1,
 filterable: 1,
 
-class_name: '电影&剧集&综艺&动漫&短剧&纪录&Netflix',
-class_url: 'dianying&juji&zongyi&dongman&duanju&jilupian&netflix',
+class_name: '短剧&电影&剧集&综艺&动漫&纪录&Netflix',
+class_url: 'duanju&dianying&juji&zongyi&dongman&jilupian&netflix',
 filter_def: {},
 
 play_parse: true,
