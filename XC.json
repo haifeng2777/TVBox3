@@ -53,8 +53,100 @@
 "西部片"
       ]
     },
+     {
+      "key": "好乐",
+      "name": "👶 好乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      //"jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "ext": {
+        "数组": "<a&&</div>[不包含:最新#最热#]",
+        "影片类型":"hl-dc-headwrap\">&&</div>",
+        "线路数组": "swiper-slide-active&&</a>",
+        "线路标题": "海风",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.haolev.com/leshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
 
-      {
+	  {
+      "key": "39",
+      "name": "👶39",
+      "type": 3,
+      "api": "csp_XBPQ",
+      //"jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "ext": {
+        "播放标题": "href=\"*\"&&</a[不包含:1080P]",
+        "简介": "class=\"col-pd\">&&</div>",
+        "分类url": "https://39ysm.cc/39/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;ak",
+        "分类": "电影$aiqing#电视剧$gangao#动漫$gcdm#综艺$dlzy"
+
+      }
+    },
+    {
+      "key": " Auete影视",
+      "name": "👶 Auete影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      //"jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "ext": {
+        "数组": "<a&&</a>",
+        "影片类型":"class=\"text-grey\">&&</span>",
+        "分类url": "https://auete.pro/{cateId}/{class}/index{catePg}.html[https://auete.pro/{cateId}/{class}/index.html]",
+        "分类": "电影$Movie#电视剧$Tv#动漫$Dm#综艺$Zy"
+      }
+    },	
+	   {
+      "key": "csp_Bili短剧",
+      "name": "🐞短剧·哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+     // "jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydf.540734621.xyz/QQ/json/Bili短剧.json"
+    },
+  {
+      "key": "白嫖者!",
+      "name": "👶白嫖者联盟!",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+        "简介": "+剧情介绍：&&</p >"
+      }
+    },	
+{
+      "key": "可可!",
+      "name": " 😝┃可可!┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydf.540734621.xyz/QQ/json/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"
+    },	
+    {
+      "key": "歪片星球js",
+      "name": "歪片星球 | js",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/js/%E6%AD%AA%E7%89%87%E6%98%9F%E7%90%83.js"
+    },
+
+
+
+
+
+
+	{
       "key": "酷8",
       "name": "🦊酷8",
       "type": 3,
