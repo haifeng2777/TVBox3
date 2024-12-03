@@ -1,11 +1,11 @@
 var rule = {
     title: '金牌影院',
-    host: 'https://www.cfkj86.com',
+    host: 'https://m.cfkj86.com/',
     url: '/vod/show/id/fyclass/page/fypage',
     searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
     headers: {
         'User-Agent': 'PC_UA',
-        'Referer': 'https://www.cfkj86.com/'
+        'Referer': 'https://m.cfkj86.com/'
     },
     searchable: 2,
     quickSearch: 0,
