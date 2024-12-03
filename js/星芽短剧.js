@@ -99,7 +99,7 @@ var rule = {
     VOD = {
             vod_name: data.title,
             vod_pic: data.cover_url,
-            vod_play_from: '秋秋',
+            vod_play_from: '海风',
             vod_play_url: urls.join('#')
         };
     }),
