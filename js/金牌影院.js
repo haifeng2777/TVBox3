@@ -1,11 +1,11 @@
 var rule = {
     title: '金牌影院',
-    host: 'https://m.cfkj86.com/',
+    host: 'https://m.ghw9zwp5.com/',
     url: '/vod/show/id/fyclass/page/fypage',
     searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
     headers: {
         'User-Agent': 'PC_UA',
-        'Referer': 'https://m.cfkj86.com/'
+        'Referer': 'https://m.ghw9zwp5.com/'
     },
     searchable: 2,
     quickSearch: 0,
@@ -22,7 +22,7 @@ var rule = {
         eval(getCryptoJS);
         let signkey = 'id=' + url_id + '&nid=' + jishu_id + '&key=cb808529bae6b6be45ecfab29a4889bc&t=' + t;
         let key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString();
-        let json_data = JSON.parse(request('https://cfkj86.com/api/mw-movie/anonymous/video/episode/url?id=' + url_id + '&nid=' + jishu_id, {
+        let json_data = JSON.parse(request('https://m.ghw9zwp5.com/api/mw-movie/anonymous/video/episode/url?id=' + url_id + '&nid=' + jishu_id, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
                 'deviceid': '58a80c52-138c-48fd-8edb-138fd74d12c8',
