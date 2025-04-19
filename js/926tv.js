@@ -26,7 +26,7 @@
         
         // 返回标准格式的播放地址（支持多个header参数）
         JSON.stringify({
-            parse: 0, // 直接播放
+            parse: 1, // 直接播放
             url: playUrl,
             header: {
                 "User-Agent": "MOBILE_UA",
