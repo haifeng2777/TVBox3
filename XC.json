@@ -242,17 +242,16 @@
       }
     },
 
-    {
-      "key": "甜圈短剧!",
-      "name": "🌸甜圈┃短剧!",
-      "type": 3,
-      "api": "csp_TianQuanGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/G7jzf7OK.png;md5;b29aa6ae932e739c2d440717f84b72c5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+        {
+            "key": "@甜圈",
+            "name": "🍧甜圈短剧✨蓝光秒播",
+            "type": 3,
+            "api": "https://8815.kstore.vip/tvbox/py/tianquan.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 
 {"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"奥特┃无广","type":3,"api":"csp_Auete", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
