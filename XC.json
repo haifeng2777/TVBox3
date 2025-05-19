@@ -38,17 +38,7 @@
         "分类url": "https://www.926003.tv/{cateId}"
       }
     },
-    {
-      "key": "甜圈短剧!",
-      "name": "🌸甜圈┃短剧!",
-      "type": 3,
-      "api": "csp_TianQuanGuard",
-      "jar": "https://3027.kstore.space/jar/G7jzf7OK.jar;md5;b29aa6ae932e739c2d440717f84b72c5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+
      {
       "key": "好剧屋",
       "name": "好剧屋｜短剧",
@@ -81,7 +71,7 @@
       "name": "🎧明星┃MV",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "jar": "https://3027.kstore.space/jar/%E5%93%94%E5%93%A9.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
       "playerType": 2,
       "searchable": 0,
       "changeable": 0,
