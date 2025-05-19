@@ -255,35 +255,7 @@
       }
     },
 
-	{
-            "key": "567影院",
-            "name": "5️⃣南瓜┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",          
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":{
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "主页url": "https://www.1234y.cc",
-    "数组": "link-hover&&</a",
-    "标题": "title=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    "副标题": "other\"><i>&&</i>",
-    "链接": "href=\"&&\"",
-    "线路数组": "playerico&&li>",
-    "线路标题": "</i>&&</",
-    "播放数组": "videourl clearfix&&</ul>",
-    "播放列表": "<a&&/a>",
-    "播放链接": "href=\"&&\"",
-    "播放标题": ">&&</a>",
-    "简介": "介绍：&&</div>",
-    "搜索模式": "1",
-    "搜索url": "https://www.1234y.cc/vodsearch/-------------.html?wd={wd}",
-    "分类url": "https://www.1234y.cc/vodtype/{cateId}-{catePg}.html",
-    "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman"
-}  },
+
      {
             "key": "樱花动漫",
             "name": "🌸樱花┃动漫",
@@ -397,29 +369,7 @@
         "分类url": "https://youzisp.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
-    {
-      "key": "!统一影视",
-      "name": "🌸统一☪!影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://ty1010.com/",
-        "请求头": "User-Agent$PC_UA",
-        "编码": "UTF-8",
-        "直接播放": "0",
-        "数组": "public-list-exp&&</a>",
-        "标题":"alt=\"&&\"[替换:封面图>>🌸]",
-        "副标题":"public-list-prb hide ft2\">&&</span>",
-        "图片":"data-src=\"&&\"",
-        "线路数组":"anthology-tab nav-swiper b-b br swiper-initialized swiper-horizontal swiper-pointer-events swiper-free-mode\">&&<div>",
-        "线路标题":"\">&&</span>",
-        "播放标题":"\">&&</a>",
-        "播放链接": "href=\"&&\"",
-        "搜索url": "https://ty1010.com/index.php/vod/search.html?wd={wd}",
-        "分类": "短剧$41#电影$2#电视剧$1#动漫$3#综艺$4",
-        "分类url": "https://ty1010.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}year/{year}.html"
-      }
-    },
+
 
 
 	{
@@ -809,32 +759,6 @@
     },
 
     {
-      "key": "爱看啦",
-      "name": "🌸☪爱看啦",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        //"请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "<a&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "module-poster-item-title\">&&</div>",
-        "副标题": "module-item-note\">&&</div>",
-        "直接播放": "0",
-        "线路数组": "data-dropdown-value=\"*\">&&</div>",
-        "线路标题": "<span>&&</span>",
-        "播放数组": "module-play-list\">&&</div>",
-        "播放列表": "<a&&</a>",
-        "播放标题": "<span>&&</span>",
-        "播放链接": "href=\"&&\"",
-        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
-        "分类url": "https://aik.la/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/[https://aik.la/movie/{cateId}/]",
-        "分类": "短剧$duanju#电影$dianying#连续剧$dianshiju#动漫$dongman#综艺$zongyi#纪录$jilupian"
-      }
-    },
-	
-
-    {
       "key": "XBPQ_海兔短剧",
       "name": "🌸☪海兔短剧",
       "type": 3,
@@ -960,7 +884,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类url": "https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "短剧$35#电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
