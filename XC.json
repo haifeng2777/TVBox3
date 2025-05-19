@@ -968,21 +968,6 @@
         },
 
 
-
-	  {
-      "key": "39",
-      "name": "👶39",
-      "type": 3,
-      "api": "csp_XBPQ",
-      //"jar": "https://yydf.540734621.xyz/QQ/txt/XB-BILI.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
-      "ext": {
-        "播放标题": "href=\"*\"&&</a[不包含:1080P]",
-        "简介": "class=\"col-pd\">&&</div>",
-        "分类url": "https://39ysm.cc/39/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;ak",
-        "分类": "电影$aiqing#电视剧$gangao#动漫$gcdm#综艺$dlzy"
-
-      }
-    },
     {
       "key": " Auete影视",
       "name": "👶 Auete影视",
