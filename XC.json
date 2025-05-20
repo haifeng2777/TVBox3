@@ -982,40 +982,7 @@
 
 {"key":"可可","name":"☕️可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://3027.kstore.space/json/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 
-     {
-      "key": "网飞",
-      "name": "💕网飞猫┃4K",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.ncat3.com:51111/",
-        "简介": "<p>&&</p>",
-        "导演": "导演:</div>&&</div>",
-        "主演": "演员:</div>&&</div>",
-        "影片状态": "备注:</div>&&</div>",
-        "影片类型": "detail-tags fs-margin-top fs-margin-bottom\"&&</div>",
-        "数组": "module-item\">&&/span>",
-        "标题": "title=\"&&\"",
-        "副标题": "<span>&&<",
-        "图片": "data-original=\"&&\"[替换:/vod1/>>https://vres.bqlpk.cn:443/vod1/]",
-        "链接": "href=\"&&\"",
-        "搜索url": "/search?os=pc&k={wd}",
-        "搜索数组": "search-result-list fs-margin-section\">&&search-result-item-main\">",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "网飞",
-        "搜索图片": "src=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "<span class=\"source-item-label\"&&/span>[排序:独家>独家1>独家2>独家3>蓝光1>蓝光2>蓝光2-1>蓝光2-2>蓝光3>蓝光8>蓝光7>FF线路>XL线路>HN线路>SB线路][不包含:YH线路]",
-        "线路标题": ">&&<",
-        "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;ak",
-        "分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"
-      }
-    }, 
- 
-
+{"key":"网飞猫","name":"☕️网飞猫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://3027.kstore.space/json/%E7%BD%91%E9%A3%9E%E7%8C%AB.json"},
 
 	{
       "key": "酷8",
