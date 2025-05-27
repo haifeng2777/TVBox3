@@ -39,6 +39,30 @@
       }
     },
 
+
+
+    {
+      "key": " 哔嘀影视",
+      "name": " 哔嘀影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "主页url": "https://www.wxdr99.com/",
+    //"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "简介": "detail col-pd\">&&</div>",
+    "数组": "stui-vodlist__thumb lazyload&&</div>",
+    "标题": "title=\"&&\"",
+    "副标题": "pic-text text-right\">&&</span>",
+    "图片": "data-original=\"&&\"",
+    "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+    "播放数组": "stui-content__playlist clearfix\">&&</ul",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "分类url": "https://www.wxdr99.com/wxdsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
+    },	  
      {
       "key": "好剧屋",
       "name": "好剧屋｜短剧",
