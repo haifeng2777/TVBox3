@@ -136,6 +136,31 @@
       }
     },
     {
+      "key": "nmdvd",
+      "name": "❤️农民",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "简介": "detail-sketch\">&&</span>",
+        "数组": "stui-vodlist__box\">&&</div>",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-text text-center\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "播放数组": "stui-content__playlist clearfix\">&&</ul>",
+        "播放列表": "<a&&/a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": "\">&&</a>",
+        "分类url": "https://www.nmdvd.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi"
+      }
+    },
+
+    {
       "key": "czvod",
       "name": "❤️厂长",
       "type": 3,
@@ -147,13 +172,39 @@
         //"请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "简介": "detail-sketch\">&&</span>",
-
-
+        "数组": "stui-vodlist__box\">&&</div>",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-text text-center\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "播放数组": "stui-content__playlist clearfix\">&&</ul>",
+        "播放列表": "<a&&/a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": "\">&&</a>",
         "分类url": "https://www.czvod.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian"
       }
     },
-
+    {
+      "key": " 7点电影",
+      "name": "❤️7点电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "主页url": "https://www.7.movie/",
+    //"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "简介": "detail col-pd\">&&</div>",
+    "数组": "pic\">&&</div>",
+    "标题": "title=\"&&\"",
+    "副标题": "item-status text-overflow\">&&</p>",
+    "图片": "data-original=\"&&\"[替换:amp;>>空]",
+    "线路数组": "swiper-slide ewave-tab&&</li>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "分类url": "https://www.7.movie/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "短剧$24#电影$20#电视剧$21#动漫$22#综艺$23"}
+    },
      {
       "key": "- 光影迷",
       "name": "❤️光影迷｜XBPQ",
