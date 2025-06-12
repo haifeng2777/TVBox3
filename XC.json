@@ -883,44 +883,7 @@
     },
 
 
-   {
-      "key": "555ys",
-      "name": "✨五五五✨影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":{     "编码": "UTF-8",
-    "请求头": "User-Agent$MOBILE_UA",
-    "发布地址": "https://5moviehub.com/",
-    "主页url": "https://www.4hiy2f95.wiki/",
-    "首页": "200",
-    "起始页": "1",
-    "分类url": "https://www.4hiy2f95.wiki/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-    "分类": "短剧$5#电影$1#电视剧$2#综艺$3#动漫$4",
-    "数组": "<a&&</a",
-    "图片": "data-original=\"&&\"[替换:amp;>>空]",
-    "标题": "title=\"&&\"",
-    "副标题": "✨+module-item-note\">&&</div",
-    "简介": "✨海风为您介绍剧情✨+class=\"col-pd\">&&</p",
-    "线路数组": "stui-pannel stui-pannel-bg clearfix\">&&</div",
-    "线路标题": "✨海风推荐✨+<img src=\"*\">&&</h3>",
-    "播放标题": "✨+\">&&</a",
-    "播放链接": "href=\"&&\"",
-    "跳转播放链接": "<iframe*src=\"&&\"",
-    "搜索请求头": "User-Agent$BOBILE_UA",
-    "搜索模式": "1",
-    "搜索url": "/index.php/ajax/suggest?mid=1&wd={wd}&page={pg}&limit=30",
-    "搜索二次截取": "list\":\\[&&\\]",
-    "搜索数组": "{&&}",
-    "搜索标题": "name\":\"&&\"",
-    "搜索图片": "pic\":\"&&\"",
-    "搜索副标题": "en\":\"&&\"",
-    "搜索链接": "/voddetail/+id\":&&,+.html",
-    "筛选": "1"
-   }
-	},
+
 		
 	{
             "key": "Vidhub",
@@ -941,24 +904,7 @@
         },
 
 
-         {
-            "key": "即看",
-            "name": "🐰即看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.jkv.app/",
-                "数组": "vodlist_thumb&&</a[不包含:下载APP]",
-                "标题": "title=\"&&\"",
-                "图片": "data-background-image=\"&&\"",
-                "简介": "content_desc context clearfix\">&&</div>",
-                "分类url": "https://www.jkv.app/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "短剧$53#电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"
-            }
-        },
+
     {
       "key": " Auete影视",
       "name": "👶 Auete影视",
