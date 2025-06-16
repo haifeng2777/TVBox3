@@ -38,6 +38,90 @@
         "分类url": "https://www.926003.tv/{cateId}"
       }
     },
+    {
+      "key": "gzvod",
+      "name": "🌸瓜子☪秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+        "简介":"简介:&&</div>",
+        "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
+        "主页url": "https://www.gzvod.cc/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "数组": "myui-vodbox-content&&</a>",
+        "标题": "title\">&&</div>",
+        "副标题": "tag text-overflow\">&&</div>",
+        "图片": "src=\"&&\"",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "简介": "info-intro\">&&</div>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
+        "分类": "短剧$5#电影$1#电视剧$2#动漫$4",
+        "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+
+
+    {
+      "key": "热播之家",
+      "name": "🌸热播☪之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.rebovod.com/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "数组": "myui-vodbox-content\">&&</div>",
+        "标题": "title\">&&</div>",
+        "副标题": "card-img\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "链接前缀":"https://www.gzvod.cc",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+        "分类": "短剧$5#最新Netfli$21#电影$1#电视剧$2#动漫$4",
+        "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+
+
+    {
+      "key": "雨见视频",
+      "name": "❤️雨见视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "http://yjsp.mxys8.com/",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+        "编码": "UTF-8",
+        "数组": "hl-item-thumb&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "state\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "线路数组": "javascript:void(0);\" alt=\"*\">&&</a>",
+        "播放数组": "hl-plays-list&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": "\">&&</a>",
+        "嗅探": "1",
+        "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "播放地址二次截取": "var player_&&</div>",
+        "播放地址截取": "\"url\":\"&&\"",
+        "嗅探前缀": "http://45.207.215.8:1981/players/?url=",
+        "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
 
 
 
@@ -538,32 +622,6 @@
         "搜索url": "https://youzisp.tv/vodsearch/-------------.html?wd={wd}",
         "分类": "短剧$remenduanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian",
         "分类url": "https://youzisp.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-      }
-    },
-
-
-
-	{
-      "key": "gzvod",
-      "name": "🌸瓜子☪秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.gzvod.cc/",
-        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
-        "数组": "<a&&</a>[不包含:添加时间#人气高低#评分高低]",
-        "标题": "title\">&&</div>",
-        "副标题": "tag text-overflow\">&&</div>",
-        "图片": "src=\"&&\"",
-        "导演": "导演:</div>&&主演",
-        "主演": "主演:</div>&&别名",
-        "简介": "info-intro\">&&</div>",
-        "播放标题": ">&&</",
-        "播放链接": "href=\"&&\"",
-        "倒序": "否",
-        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
-        "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3",
-        "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
 
