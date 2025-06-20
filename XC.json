@@ -65,6 +65,28 @@
         "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
+    {
+      "key": "剧屋",
+      "name": "🌸剧屋☪短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.juwu.tv/vod-show/1-----------/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "数组": "<a&&</a>",
+        "标题": "title\">&&</div>",
+        "副标题": "module-item-note\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "线路数组": "slide{1}&&<small",
+        "播放列表": "<a&&</a>",
+        "播放标题": "<span>&&</span>",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+        "分类": "🎬穿越$穿越#🎬神豪$神豪#🎬强者$强者#🎬悬疑$悬疑#🎬虐恋$虐恋#🎬逆袭$逆袭#🎬重生$重生#🎬复仇$复仇#🎬甜宠$甜宠#🎬古装$古装#🎬剧情$剧情",
+        "分类url": "https://www.juwu.tv/vod-show/1---{cateId}-----{catePg}---/"
+      }
+    },
 
 
     {
@@ -122,7 +144,31 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
-
+    {
+      "key": "subaibai",
+      "name": "🌸素白白☪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.subaibai.com/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "简介":"yp_context&&</p>",
+        "数组": "<li>&&</a>",
+        "标题": "alt=\"&&\"",
+        "副标题": "jidi\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "线路数组": "ypxingq_t\">&&</div",
+        "线路标题": "<span>&&</span>",        
+        "播放数组": "paly_list_btn\">&&</div>",
+        "播放列表": "<a&&</a>",
+        "播放标题": "\">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.subaibai.com/search?q={wd}",
+        "分类": "电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama",
+        "分类url": "https://www.subaibai.com/{cateId}/page/{catePg}"
+      }
+    },
 
 
     {
