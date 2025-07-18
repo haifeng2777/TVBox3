@@ -28,6 +28,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
+            "请求头": "User-Agent$PC_UA",
+            "编码": "UTF-8",
             "主页url":"https://www.kuaikaw.cn/browse/0/",
 	        "数组": "BrowseList_listItem__h7lD4\"&&</div>",
 	        "标题": "alt=\"&&\"",
