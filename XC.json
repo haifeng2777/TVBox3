@@ -675,9 +675,9 @@
 
         {
             "key": "@甜圈",
-            "name": "🍧甜圈短剧✨蓝光秒播",
+            "name": "🍧甜圈短剧✨",
             "type": 3,
-            "api": "https://8815.kstore.vip/tvbox/py/tianquan.py",
+            "api": "https://3027.kstore.space/json/%E7%94%9C%E5%9C%88%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
