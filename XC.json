@@ -19,7 +19,94 @@
             "searchable": 1,
             "changeable": 1
         },
+
     {
+      "key": "gzvod短剧",
+      "name": "🌸瓜子☪短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.gzvod.cc/",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+        "简介":"简介:&&</div>",
+        "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
+        "数组": "public-list-exp&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "简介": "id=\"height_limit\" class=\"text\">&&</div>",
+        "线路数组": "swiper-slide\"&&</a>",
+        "线路标题": "&nbsp;&&</a>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
+        "分类": "都市$都市#言情$言情#仙侠$仙侠#反转$反转#女恋$女恋#古装$古装#穿越$穿越#重生$重生#剧情$剧情#闪婚$闪婚",
+        "分类url": "https://www.gzvod.cc/index.php/vod/show/class/{cateId}/id/5/page/{catePg}.html"
+      }
+    },		
+		
+		
+    {
+      "key": "gzvod1",
+      "name": "🌸瓜子☪秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.gzvod.cc/",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+        "简介":"简介:&&</div>",
+        "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
+        "数组": "public-list-exp&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "简介": "id=\"height_limit\" class=\"text\">&&</div>",
+        "线路数组": "swiper-slide\"&&</a>",
+        "线路标题": "&nbsp;&&</a>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
+        "分类": "短剧$5#电影$1#电视剧$2#动漫$4",
+        "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+
+    {
+      "key": "热播之家!",
+      "name": "🌸热播☪之家!",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.rebovod.com/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "数组": "public-list-exp&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"",
+        "链接前缀":"https://www.rebovod.com",
+        "线路数组": "swiper-slide\"&&</a>",
+        "线路标题": "&nbsp;&&</a>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+        "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+
+
+
+
+		{
       "key": "XBPQ_红果短剧",
       "name": "🌸☪红果短剧",
       "type": 3,
@@ -142,33 +229,7 @@
         "分类url": "https://www.926003.tv/{cateId}"
       }
     },
-    {
-      "key": "gzvod",
-      "name": "🌸瓜子☪秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-        "简介":"简介:&&</div>",
-        "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
-        "主页url": "https://www.gzvod.cc/",
-        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
-        "数组": "myui-vodbox-content&&</a>",
-        "标题": "title\">&&</div>",
-        "副标题": "tag text-overflow\">&&</div>",
-        "图片": "src=\"&&\"",
-        "导演": "导演:</div>&&主演",
-        "主演": "主演:</div>&&别名",
-        "简介": "info-intro\">&&</div>",
-        "播放标题": ">&&</",
-        "播放链接": "href=\"&&\"",
-        "倒序": "否",
-        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
-        "分类": "短剧$5#电影$1#电视剧$2#动漫$4",
-        "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
+
     {
       "key": "剧屋",
       "name": "🌸剧屋☪短剧",
@@ -192,28 +253,6 @@
       }
     },
 
-
-    {
-      "key": "热播之家",
-      "name": "🌸热播☪之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.rebovod.com/",
-        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
-        "数组": "myui-vodbox-content\">&&</div>",
-        "标题": "title\">&&</div>",
-        "副标题": "card-img\">&&</div>",
-        "图片": "data-original=\"&&\"",
-        "链接前缀":"https://www.gzvod.cc",
-        "播放标题": ">&&</",
-        "播放链接": "href=\"&&\"",
-        "倒序": "否",
-        "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
-        "分类": "短剧$5#最新Netfli$21#电影$1#电视剧$2#动漫$4",
-        "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
 
 
     {
@@ -345,33 +384,46 @@
     "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#国漫$guochandongman#综艺$zongyi#体育赛事$dltyss"
       }
     },
-    {
-      "key": "zj",
-      "name": "❤️追剧TV",
+{
+      "key": "laopole",
+      "name": "❤️追剧网TV",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "短剧$duanju#电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+        "分类url": "https://www.laopole.com/vodshow/{cateId}--------{catePg}---/",
+        "分类": "短影片$duanyingpian#影院$fenlei1#连续剧$fenlei2#电视剧$dsj#动漫$fenlei4#综艺$fenlei3#体育赛事$tiyusaishi"
       }
     },
     {
-      "key": "iysdq",
-      "name": "❤️影视大全",
+      "key": "iysdq!",
+      "name": "❤️影视大全!",
       "type": 3,
       "api": "csp_XBPQ",
-      //"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/spiderh1223.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
+        "主页url": "https://www.iysdq.cc/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "简介": "id=\"height_limit\" class=\"text\">&&</div>",
+        "数组": "public-list-exp&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"",
+        "链接前缀":"https://www.iysdq.cc",
+        "线路数组": "swiper-slide\"&&</a>",
+        "线路标题": "&nbsp;&&</span>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
         "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
+
     {
       "key": "nmdvd",
-      "name": "❤️农民",
+      "name": "❤️农民影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -380,17 +432,17 @@
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
-        "简介": "detail-sketch\">&&</span>",
+        "简介": "stui-pannel_bd\">&&</div>",
         "数组": "stui-vodlist__box\">&&</div>",
         "标题": "title=\"&&\"",
-        "副标题": "pic-text text-center\">&&</span>",
+        "副标题": "pic-text text-right\">&&</span>",
         "图片": "data-original=\"&&\"",
         "播放数组": "stui-content__playlist clearfix\">&&</ul>",
         "播放列表": "<a&&/a>",
         "播放链接": "href=\"&&\"",
         "播放标题": "\">&&</a>",
-        "分类url": "https://www.nmdvd.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "短剧$duanju#电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi"
+        "分类url": "https://sltjw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "短剧$31#电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
 
@@ -403,19 +455,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        //"请求头": "User-Agent$MOBILE_UA",
+        "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "简介": "detail-sketch\">&&</span>",
         "数组": "stui-vodlist__box\">&&</div>",
         "标题": "title=\"&&\"",
-        "副标题": "pic-text text-center\">&&</span>",
+        "副标题": "text-right\">&&</span>",
         "图片": "data-original=\"&&\"",
         "播放数组": "stui-content__playlist clearfix\">&&</ul>",
         "播放列表": "<a&&/a>",
         "播放链接": "href=\"&&\"",
         "播放标题": "\">&&</a>",
-        "分类url": "https://www.czvod.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian"
+        "分类url": "https://www.czvod.cc/type/area/{area}/{cateId}/page/{catePg}/year/{year}.html[https://www.czvod.cc/type/{cateId}.html]",
+        "分类": "短剧$duanju#电影$dianying#电视剧$uji#动漫$dongman#综艺$zongyi#纪录片$jilupian"
       }
     },
     {
@@ -448,10 +500,10 @@
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "简介": "video-info-item video-info-content vod_content\">&&</div>",
-    "数组": "module-item-pic\">&&</div>",
-    "标题": "title=\"&&\"",
-    //"副标题": "video-class\">&&</span>",
-    "图片": "-src=\"&&\"",
+    "数组": "<a&&</a>",
+    "标题": "alt=\"&&\"",
+    "副标题": "tag text-overflow\">&&</div>",
+    "图片": "src=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</span>",
     "播放数组": "scroll-content\">&&</div>",
@@ -459,30 +511,12 @@
     "播放链接": "href=\"&&\"",
     "播放标题": "<span>&&</span>",
     "搜索url": "https://www.guangyingmi.com/search--------------/?wd={wd}",
-    "分类url": "https://www.guangyingmi.com/pianku-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
-    "分类": "短剧$duanju#电影$1#电视剧$2#动漫$4#综艺$3"
+    "分类url": "https://www.guangyingmi.com/pianku-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
       }
     },
 
-{ "key": "csp_五五五电影", 
-"name": "五五五电影", 
-"type": 3, 
-"api": "csp_XBPQ",
-"searchable": 1, 
-"quickSearch": 0, 
-"filterable": 1, 
- "ext": {
- "主页url":"https://www.55q0t5g6x2.shop/index/home.html",
- //"请求头": "User-Agent$MOBILE_UA",
- "编码": "UTF-8",
- "数组": "<a&&</a>[不包含:555电影]",
- "标题":"alt=\"&&\"",
- "副标题":"module-item-note\">&&</div>",
- "图片": "data-original=\"&&\"[替换:amp;n=0&amp;g=0n&amp;fmt=jpeg&amp;>>n=0&g=0n&fmt=jpeg&]",
- "播放数组":"<div class=\"module-play-list\">&&</div>", 
- "搜索url": "https://www.55q0t5g6x2.shop/vodsearch/-------------.html?wd={wd}", 
- "分类url": "https://www.55q0t5g6x2.shop/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
- "分类": "电影$1#连续剧$2#综艺$3#动漫$4#netflix$https://www.55q0t5g6x2.shop/label/netflix.html"} },
+
 
     {
       "key": " 4Klive",
@@ -509,29 +543,6 @@
         "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/"
       }
     },
-
-         {
-            "key": "即看",
-            "name": "🐰即看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.jkv.app/",
-                "数组": "<a&&</div[不包含:下载APP]",
-                "标题": "title=\"&&\"",
-                "图片": "data-background-image=\"&&\"",
-                "简介": "content_desc context clearfix\">&&</div>",
-                "播放列表": "<a&&</a>",
-                "播放标题": "\">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "分类url": "https://www.jkv.app/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "短剧$53#电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"
-            }
-        },
-
 
 
 
@@ -1706,7 +1717,36 @@
       }
     },
 
-
+    {
+      "key": "XBPQ_海洋听书",
+      "name": "🌸海洋☪听书",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "http://www.ychy.org/",
+        "简介": "<li>&&</li>",
+        "请求头": "User-Agent$okhttp/3.12.11",
+        "编码": "gb2312",
+        "数组": "<a&&</p>[不包含:海洋听书网首页]",
+        "图片": "<img src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "item2-txt&&</div>",
+        "直接播放": "0",
+        "线路数组": "play_con\">&&</div>",
+        "播放数组": "playlist\">&&</div>",
+        "播放标题": "_blank\">&&</a>",
+        "播放链接": "href='&&'",
+        "链接前缀":"http://www.ychy.org",
+        "嗅探词": ".mp3#.m4a#.mp3?#.m4a?",
+        "搜索url":"http://www.ychy.org/so.asp",
+        "分类":"网络玄幻&恐怖悬疑&传统武侠&都市言情&官场刑侦&历史军事&探险盗墓&职场商战&明朝那些事儿&评书下载&相声戏曲&人物传记&广播剧&百家讲坛&外语读物&有声文学&儿童读物&管理营销",
+        "分类值":"45&r17&r12&r13&r14&r15&r45&r81&r36&r3&r7&r16&r18&r32&r35&r41&r4&r6",
+        "分类url": "http://www.ychy.org/list/{cateId}-{catePg}.html"
+      }
+    },
 
 
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"}
@@ -2174,6 +2214,45 @@
       "type": 0,
       "url": "http://www.52sw.top:678/iptv/douyu.m3u"
     },
+
+
+    {
+      "name": "线路①",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "IPV6②",
+      "type": 0,
+      "url": "./lib/ipv6.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "电影③",
+      "type": 0,
+      "url": "./lib/dujuejiami.txt",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "MTV④",
+      "type": 0,
+      "url": "./lib/MTV.txt",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+
     {
       "name": "③④16万MV",
       "type": 0,
@@ -2181,12 +2260,6 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     },
-
-
-
-
-
-
 
 
 
