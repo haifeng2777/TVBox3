@@ -269,7 +269,7 @@
       "filterable": 1,
       "ext": {
         "主页url": "https://shasha.sbs/zh-hans/p/66",
-        "请求头": "User-Agent$MOBILE_UA",
+        "请求头": "User-Agent$okhttp/3.15",
         "编码": "UTF-8",
         "链接": "href=\"&&\"[替换:/v>>空]+/1",
         "数组": "visited&&</a>",
@@ -2249,3 +2249,4 @@
     }
 	]
 	}
+
