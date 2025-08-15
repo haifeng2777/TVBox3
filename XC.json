@@ -21,6 +21,35 @@
         },
 
     {
+      "key": "XBPQ_WWE赛事",
+      "name": "🌐格斗┃WWE☪🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.shuaijiao.cn/video/",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "数组": "<a&&play_mask",
+        "标题": "_blank\">&&</a>",        
+        "副标题": "class=\"share\">分享：&&</p>",
+        "图片": "src=\"&&\"",        
+        "线路标题": "<h1>&&</h1>",
+        "直接播放": "0", 
+        "播放数组": "shareVideoBox\">&&</div>",
+        "播放列表": "<a&&</a>",
+        "播放标题": "<span>&&</span>",
+        "播放链接": "href=\"javascript:viod(0)\" onclick=\"openUrl('&&')\"",
+        "分类url": "https://www.shuaijiao.cn/video/{cateId}/{year}/{catePg}.html",
+        "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#单场比赛$single"
+      }
+    },
+
+
+
+		{
       "key": "gzvod短剧",
       "name": "🌸瓜子☪短剧",
       "type": 3,
