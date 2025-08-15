@@ -264,12 +264,13 @@
       "name": "❤️傻傻短剧",
       "type": 3,
       "api": "csp_XBPQ",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "主页url": "https://shasha.sbs/zh-hans/p/66",
-        "请求头": "User-Agent$okhttp/3.15",
+        "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "链接": "href=\"&&\"[替换:/v>>空]+/1",
         "数组": "visited&&</a>",
@@ -2092,6 +2093,16 @@
     },
 
     {
+      "name": "ipv6咪咕高清",
+      "type": 0,
+      "url": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/fyzb/ipv6.m3u",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	
+	
+    {
       "name": "海风直播1",
       "type": 0,
       "url": "https://codeberg.org/hf2777/hf/raw/branch/main/3lin.txt",
@@ -2207,7 +2218,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	  
-{
+    {
       "name": "咪咕高清",
       "type": 0,
       "url": "http://go.work.gd/0/咪咕高清.m3u",
@@ -2249,4 +2260,3 @@
     }
 	]
 	}
-
