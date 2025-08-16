@@ -1,6 +1,6 @@
 ﻿{
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "spider": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+  "spider": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 
 
@@ -1947,4 +1947,5 @@
       "playerType": 1
     }
   ]
+
 }
