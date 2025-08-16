@@ -3,7 +3,7 @@
 
 {
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "spider": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 
 
 
@@ -2311,5 +2311,6 @@
     }
 	]
 	}
+
 
 
