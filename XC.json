@@ -2,8 +2,8 @@
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-	"spider": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-	"wallpaper": "https://深色壁纸.xxooo.cf/",
+"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 
 
 
@@ -19,7 +19,30 @@
             "searchable": 1,
             "changeable": 1
         },
-
+    {
+      "key": "XBPQ_dj耶",
+      "name": "🌸DJ耶☪耶耶",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://djyyy.com/shipin/",
+        "简介": "desc hidden-xs\">&&</p>",
+        "请求头": "User-Agent$PC_UA",
+        "编码": "UTF-8",
+        "数组": "<li>&&</a>",
+        "图片": "src=\"&&\"",
+        "标题": "station-list__title\">&&<div>",
+        "链接前缀":"https://djyyy.com",
+        "直接播放": "1",
+        "播放链接": "href=\"&&\"",
+        "搜索url":"https://www.hmdj.site/search.html?wd={wd}",
+        "分类":"最新发布$shipin/chezai#车载视频$shipin/chezai#夜店视频$sp/yedian#热舞视频$sp/rewu#舞曲视频$sp/wuqu#写真视频$sp/xiezhen#打碟视频$sp/dadie#车模视频$sp/chemo#国外视频$sp/guowai#串烧视频$sp/chuanshao",
+        "分类url": "https://www.djyyy.com/{cateId}/x_{catePg}.html"
+      }
+    },
     {
       "key": "XBPQ_WWE赛事",
       "name": "🌐格斗┃WWE☪🌐",
@@ -47,6 +70,34 @@
       }
     },
 
+    {
+      "key": "linheshequ",
+      "name": "❤️神马[广告]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.linheshequ.com/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?#.ts",
+        "编码": "UTF-8",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",
+        "副标题": "label littplus\">&&</em>",
+        "图片": "data-original=\"&&\"",
+        "简介": "vod-content\">&&</div>",
+        "线路数组": "#playlist&&</a>[排序:天堂>奇异>猫眼>优质>欧克>蓝光>腾讯>蓝鲸2K>4K]",
+        "线路标题": ">&&</a>",
+        "播放数组": "list-unstyled-play text-center play-list\">&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "搜索url": "https://www.linheshequ.com/vodsearch/{wd}-------------.html",
+        "分类url": "https://www.linheshequ.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+        "分类": "国产剧$22#电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
 
 
 		{
@@ -185,7 +236,35 @@
       }
     },
 
+    {
+      "key": "锦鲤",
+      "name": "❤️锦鲤☪短剧[js]",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://3027.kstore.space/drpy_js/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.js"
+    },
 
+
+    {
+      "key": "甜圈[js]",
+      "name": "❤️甜圈☪短剧[js]",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/hf2777/hf/raw/branch/main/js/%E7%94%9C%E5%9C%88.js"
+    },
+    {
+      "key": "番茄短剧[js]",
+      "name": "❤️[短]番茄☪短剧[js]",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://3027.kstore.space/drpy_js/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.js"
+    },
 
 
 		{
@@ -215,30 +294,7 @@
       }
     },
 
-    {
-      "key": "XBPQ_微云Tv",
-      "name": "🌸☪微云Tv",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "hl-content-wrap hl-content-hide\">&&</em>",
-        "请求头": "User-Agent$MOBILE_UA",
-        "数组": "hl-item-thumb hl-lazy&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "hl-lc-1 remarks\">&&</span>",
-        "直接播放": "0",
-        "线路数组": "javascript:void(0);&&</a>",
-        "线路标题": "&nbsp;&&</a>",
-        "播放列表": "<a&&</a>",
-        "播放标题": ">&&</a>",
-        "分类":"🦄短剧$duanju#🦄电影$dianying#🦄电视剧$lianxuju#🦄动漫$dongman#🦄综艺$zongyi",
-        "分类url": "https://www.weiyuntv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-      }
-    },
+
 
     {
       "key": "XBPQ_短剧窝",
@@ -1699,7 +1755,34 @@
       }
     },
 
-
+       {              
+       "key":"xbpq_m.5weiting",
+        "name":"📚六月听书[听]",
+        "type":3,
+        "api":"csp_XBPQ",
+        "searchable":0,
+        "quickSearch":0,
+        "changeable":1,
+        "ext":{               
+        "主页url": "http://m.5weiting.com/",
+        "请求头": "User-Agent$MOBILE_UA#Referer$http://m.5weiting.com/",
+        "编码": "UTF-8",
+        "简介":"book-intro tab-cont\"&&</div>",
+        "数组": "<a&&</a>",
+        "图片": "<img src=\"&&\"",
+        "标题": "<span class=\"status&&</h2>",
+        "线路数组": "class=\"operate-bar&&</div>",
+        "链接": "href=\"&&\"",
+        "播放数组": "book-list clearfix\">&&</div",
+        "播放列表": "<a&&</a>",
+        "播放标题": "list-item\">&&</a",
+        "播放链接": "href=\"&&\"",
+        "导演": "原著：&&</span>",
+        "主演":" 主播：&&</span>",
+        "搜索url":"http://m.5weiting.com/search/{wd}",
+        "嗅探词": ".mp3#.m4a#.m4a?#.mp3?",
+        "分类":"玄幻奇幻$t1#修真武侠$t2#恐怖灵异$t3#古今言情$t4#都市言情$t28#穿越重生$t5#粤语古仔$t6#网游小说$t7#评书大全$t8#相声小品$t9#百家讲坛$t10#通俗文学$t11#历史纪实$t12#军事$t13#悬疑推理$t14#官场商战$t15#儿童读物$t16#广播剧$t17#ebc5系列$t18#商业$t19#生活$t20#教材$t21#外文原版$t22#期刊杂志$t23#脱口秀$t27#戏曲$t24#",
+        "分类url":"http://m.5weiting.com/ys/{cateId}/o1/p{catePg};;d0mar"}},
     {
       "key": "评书@",
       "name": "📻评书@┃BPQ",
@@ -2311,7 +2394,3 @@
     }
 	]
 	}
-
-
-
-
