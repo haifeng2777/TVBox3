@@ -236,15 +236,6 @@
       }
     },
 
-    {
-      "key": "锦鲤",
-      "name": "❤️锦鲤☪短剧[js]",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://3027.kstore.space/drpy_js/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.js"
-    },
 
 
     {
@@ -267,30 +258,28 @@
     },
 
 
-		{
-      "key": "XBPQ_红果短剧",
-      "name": "🌸☪红果短剧",
+    {
+      "key": "红果短剧",
+      "name": "🌸红果☪短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": {
-        "简介": "title type\">&&love my-2",
+        "主页url": "https://www.hongguodj1.cc/",
         "请求头": "User-Agent$MOBILE_UA",
-        "数组": "pic&&</a>",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "bg\">&&</span>",
+        "编码": "UTF-8",
         "直接播放": "0",
-        //"线路数组": "javascript:;\">&&</a>",
-        "播放数组": "rows xx on\">&&</ul>",
-        "播放列表": "<a&&</a>",
-        "播放标题": ">&&</a>",
-        "分类标题": ">&&</a",
-        "分类ID": "href=\"/type/&&.html",
-        "分类数组": "<a&&/a></li>",
-        "分类url": "https://www.hongguodj.cc/type/{cateId}-{catePg}.html"
+        "数组": "<a&&</a>",
+        "标题":"alt=\"&&\"",
+        "副标题":"continu\">&&</span>",
+        "图片":"data-src=\"&&\"",
+        "线路数组":".p-list&&</a>",
+        "线路标题": ">&&</a>",
+        "播放标题":"\">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "倒序": "0",
+        "搜索url": "https://www.hongguodj1.cc/vod/search/wd/{wd}.html",
+        "分类": "短剧大全$duanjudaquan#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi#闪婚离婚$shanhunlihun",
+        "分类url": "https://www.hongguodj1.cc/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
 
@@ -402,6 +391,58 @@
       }
     },
 
+    {
+      "key": "XBPQ_微云Tv",
+      "name": "🌸☪微云Tv",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "hl-content-wrap hl-content-hide\">&&</em>",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "数组": "hl-item-thumb&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "remarks\">&&</span>",
+        "直接播放": "0",
+        "线路数组": "javascript:void(0);&&</a>",
+        "线路标题": "&nbsp;&&</a>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</a>",
+        "分类":"🦄短剧$duanju#🦄电影$dianying#🦄电视剧$lianxuju#🦄动漫$dongman#🦄综艺$zongyi",
+        "分类url": "https://www.weiyuntv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+      }
+    },	
+{
+    "key": "xbpq_ 稀饭影视", 
+    "name": "❤️稀饭｜影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "utf-8",
+        "简介": "✨+<p>&&</p>", 
+        "数组": "<a&&icon-play",  
+        "标题": "title=\"&&\"",  
+        "副标题": "✨+module-item-note\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": ">&&</span>",
+        "播放数组": "module-play-list-content&&</div>",
+        "播放列表": "<a&&</a>",
+        "播放标题": "✨+>&&</+✨",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "嗅探词": ".m3u8#.mp4",
+        "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3", 
+        "分类url": "https://xifanys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+    }
+},	
+	
+	
+	
     {
       "key": "雨见视频",
       "name": "❤️雨见视频",
@@ -727,7 +768,7 @@
                 "直接播放": "1",
                 "站名": "啊哈DJ网",
                 "直接播放": "1",
-                "分类url":"https://m.ahadj.com/music/{cateId}-{catePg}.html;;a",
+                "分类url":"https://m.ahadj.com/music/{cateId}-{catePg}.html;;ta",
                 "分类":"劲爆舞蹈视频$id-112#车载发烧视频$id-125#音乐派对视频$id-90#中文抒情视频$id-20#国外夜店视频$id-21#高清车展视频$id-58#粤语舞曲视频$id-114#英文抒情视频$id-46#日韩歌曲视频$id-50#串烧舞曲视频$id-62#钢管舞曲视频$id-64#国外舞曲视频$id-65#模特DJ视频$id-161#DJ打碟视频$id-163#中文夜店视频$id-180",
                 "起始页": "1",
                 "数组二次截取":"shiping_box2\">&&</div>",
@@ -1755,6 +1796,23 @@
       }
     },
 
+        {
+            "key": "m.huanting",
+            "name": "📚一夜｜听书",
+            "type": 3,
+            "jar": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "bookintro\">&&</section>",
+                "播放数组": "class=\"press\"&&</ul>",
+                "播放列表": "<li>&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "分类": "玄幻武侠$xuanhuan#鬼故事$kongbu#言情$dushi#爽文$shuangwen#异能$chaoneng#谍战$diezhan#法医$fayi#官场$guanchang#穿越$chuanyue#女频$nvpin#军事历史$junshi#刑侦推理$xingzhen#职场商战$shangzhan#网游竞技$wangyou#",
+                "分类url": "https://m.huanting.cc/{cateId}/{catePg}.html"
+            }
+        },
+	
        {              
        "key":"xbpq_m.5weiting",
         "name":"📚六月听书[听]",
@@ -1817,7 +1875,97 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy#相声随身听$https://www.xsmp3.com/"
       }
     },
+   {
+      "key": "XBPQ_ting39",
+      "name": "🌐39幻听┃网🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.ting39.com/",
+        "请求头": "User-Agent$MOBILE_UA",
+        "简介": "book-des\">&&</div>",
+        "编码": "UTF-8",
+        "链接前缀":"https://www.ting39.com",
+        "数组": "thumb&&</a>",
+        "标题": "title=\"&&\"",        
+        //"副标题": "pic-text text-right\">&&</span>",
+        "图片": "data-original=\"&&\"",        
+        "线路标题": "title-h\" style=\"width:460px;\">&&<h2>", 
+        "播放数组": "playlist\">&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href='&&'",
+        "嗅探词": ".mp3#.m4a",
+        "分类url": "https://www.ting39.com/book/{cateId}/lastupdate/{catePg}.html",
+        "分类": "全部有声$all#玄幻奇幻$xhqh#影视原著$ysyz#武侠仙侠$wxxx#穿越架空$cyjk#悬疑推理$xytl#科幻竞技$khjj#历史军事$lsjs#现代言情$xdyq#青春校园$qcxy#古代言情$gdyq#文学名著$wxmz#乡村生活$xcsh#儿童频道$ertong#国学经典$gxjd#博闻杂谈$bxzt#职场干货$zcgh#名家传记$mjcj#档案纪实$dajs#相声曲艺$xsqy#自我提升$zwts#明星电台$mxdt#其他有声$qita"
+      }
+    },
 
+
+
+
+
+   {
+      "key": "XBPQ_念音听书",
+      "name": "🌐念音┃收费🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.ting15.com/",
+        "请求头": "User-Agent$手机",
+        "编码": "UTF-8",
+        "简介": "intro\">&&</div>",
+        "链接前缀":"https://m.ting15.com",
+        "链接": "href=\"&&\"",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音：&&</p>",
+        "图片": "src=\"&&\"",        
+        "线路数组": "playlist\">&&</div>", 
+        "播放数组": "<div class=\"plist\">&&</div>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": "voice/getvoice?mediaid=#.mp3#.m4a",
+        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;ak",
+        "分类": "武侠玄幻$wuxiaxuanhuan#恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue"
+      }
+    },
+
+    {
+      "key": "XBPQ_评书大全",
+      "name": "🌐单田芳┃评书🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "http://www.pingshu5.net/",
+        //"请求头": "User-Agent$MOBILE_UA",
+        "简介": "col-pd\">&&</div>",
+        "编码": "UTF-8",
+        "链接前缀":"http://www.pingshu5.net",
+        "数组": "thumbnail\">&&</div>",
+        "标题": "title=\"&&\"",        
+        //"副标题": "pic-text text-right\">&&</span>",
+        "图片": "src=\"&&\"",        
+        "直接播放": "0", 
+        "播放数组": "<ul>&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".mp3#.m4a",
+        "分类url": "http://www.pingshu5.net/{cateId}/",
+        "分类": "单田芳评书$pbook#袁阔成评书$ykc#连丽如评书$llr#刘兰芳评书$llf"
+      }
+    },
     {
       "key": "XBPQ_海洋听书2",
       "name": "🌸海洋☪听书[手机]",
@@ -2246,7 +2394,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "直播",
+      "name": "直播2",
       "type": 0,
       "url": "https://4key.cn/FP",
       "playerType": 1,
@@ -2256,17 +2404,16 @@
     },
 
 	
+    {
+      "name": "Gather.电视直播3",
+      "type": 0,
+      "url": "https://tv-1.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  {
-            "name": "🇨🇳海风直播2",
-            "type": 0,
-            "url": "https://git.acwing.com/abai/tv/-/raw/main/iptv.txt",
-			//"playerType":1 ,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
- {
-            "name": "🇨🇳海风直播3",
+            "name": "🇨🇳海直播4",
             "type": 0,
             "url": "http://zozo.myartsonline.com/0/zb2.txt",
 			//"playerType":1 ,
