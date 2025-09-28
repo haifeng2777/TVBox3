@@ -206,7 +206,22 @@
     "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
     },			 
 		 
-		 
+{
+    "key": "wap.mogudong.com", 
+    "name": "⭕80S｜电影", 
+    "type": 3, 
+    "jar": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar", 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "数组": "lazyload&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-text text-right\">&&</span>",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "简介": "desc detail\">&&</p>", 
+        "分类url": "https://wap.mogudong.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak"
+ }
+},		 
 		 {
             "key": "一起看",
             "name": "🐰一起看",
@@ -983,17 +998,7 @@
 	
 	{"key": "📺 电视直播 | JAR", "name": "📺 电视直播 | JAR", "type": 3, "jar": "https://ghfast.top/https://raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/custom_spider_20241201.tms;md5;6b91ce48a399c77ff06f4f3773d59643","api": "csp_Live2Vod", "searchable": 0, "changeable": 0, "ext": "https://ghfast.top/https://raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/json/remote_live.json"},
 
-    {
-      "key": "如意采集",
-      "name": "☪如意🌸采集",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "categories": [
-        "短剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","360体育","3736足球","3836篮球","3936网球","4036斯诺克","451预告片"
-      ],
-      "searchable": 1,
-      "quickSearch": 1
-    },
+
       {
       "key": "360*",
       "name": "🛝360〓采集",
@@ -1126,73 +1131,7 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "黑木耳┃采集",
-      "name": "黑木耳┃采集",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "playUrl": "https://hoplayer.com/index.html?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "剧情片",
-        "动作片",
-        "冒险片",
-        "同性片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "动作片",
-        "国产剧",
-        "国产动漫",
-        "欧美动漫",
-        "日本动漫",
-        "韩国动漫",
-        "港台动漫",
-        "其它动漫",
-        "韩剧",
-        "日剧",
-        "悬疑片",
-        "惊悚片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "动画电影",
-        "短剧",
-        "泰剧",
-        "台剧",
-        "欧美剧",
-        "新马剧",
-        "其他剧",
-        "战争片",
-        "经典片",
-        "网络电影",
-        "其它片",
-        "国产综艺",
-        "港台综艺",
-        "韩国综艺",
-        "日本综艺",
-        "欧美综艺",
-        "港剧",
-        "合集短剧",
-        "虐恋短剧",
-        "逆袭短剧",
-        "悬疑短剧",
-        "神豪短剧",
-        "重生短剧",
-        "复仇短剧",
-        "穿越短剧",
-        "甜宠短剧",
-        "强者短剧",
-        "萌宝短剧",
-        "其它短剧",
-        "逆袭短剧"
-      ],
-      "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-      }
-    },
+
 
 	
 	{
@@ -1273,20 +1212,6 @@
 
 
 
-    {
-      "key": " Auete影视",
-      "name": "👶 Auete影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "数组": "<a&&</a>",
-        "影片类型":"class=\"text-grey\">&&</span>",
-        "分类url": "https://auete.cc/{cateId}/index{catePg}.html[https://auete.cc/{cateId}/index.html]",
-        "分类": "电影$Movie#电视剧$Tv#动漫$Dm#综艺$Zy"
-      }
-    },
-
-
 {"key":"可可","name":"☕️可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://3027.kstore.space/json/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 
 {"key":"网飞猫","name":"☕️网飞猫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://3027.kstore.space/json/%E7%BD%91%E9%A3%9E%E7%8C%AB.json"},
@@ -1345,7 +1270,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-        "主页url": "https://www.gs4x7nq4.com/",
+        "主页url": "https://kuhh4jo.com/",
         "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "简介": "</label>&&</div>",
         "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
@@ -1356,7 +1281,7 @@
         "图片": "https+://obs.yinruifei.com+obs.yinruifei.com&&\"",
         "标题": "vodName\":\"&&\"",
         "副标题": "vodRemarks\":\"&&\"",
-        "链接": "https://www.gs4x7nq4.com/detail/+vodId\":&&,",
+        "链接": "https://kuhh4jo.com/detail/+vodId\":&&,",
         "导演": "导演:</div>&&主演",
         "主演": "主演:</div>&&别名",
         "线路标题": "player_name\">&&</div>",
@@ -1366,21 +1291,10 @@
         "搜索url": "https://www.gs4x7nq4.com/vod/search/{wd}",
         "搜索副标题": "class=\"boottom\"*<div>&&</div",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+        "分类url": "https://kuhh4jo.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }},
 
 
-      {
-      "key": "河狸",
-      "name": "河狸 | [资]",
-      "type": 1,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "https://www.heli888.cc/api.php/provide/vod/",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "categories": ["短剧","电影","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧"]              
-    },
 
 
 {
@@ -1628,18 +1542,8 @@
     },
 
 
-    {
-      "key": "黑木耳",
-      "name": "黑木耳",
-      "type": 1,
-      "api": "https://www.heimuer.tv/api.php/provide/vod",
-      "playUrl": "https://player.heimuer.tv/index.html?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": ["剧情", "动作", "冒险", "同性", "喜剧", "奇幻", "恐怖", "悬疑", "惊悚", "灾难", "爱情", "犯罪", "科幻", "动画电影", "歌舞", "战争", "经典", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台", "古装", "虐恋", "逆袭", "悬疑", "神豪", "重生", "复仇", "穿越", "甜宠", "强者"]				
-			    },
 
-{ "key": "火", "name": "火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories": ["短剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","灾难片","悬疑片","犯罪片","奇幻片"]},
+{ "key": "火", "name": "火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories": ["短剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","灾难片","悬疑片","犯罪片","奇幻片"]},
 
 
 
@@ -2311,7 +2215,7 @@
   "lives": [
 
     {
-      "name": "海风直播1点开有奖",
+      "name": "海风直播1点开换源",
       "type": 0,
       "url": "https://3027.kstore.space/zb311.txt",
       "playerType": 2,
@@ -2319,16 +2223,14 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-    {
-      "name": "ipv6咪咕高清",
+ {
+      "name": "V4-饭太硬",
       "type": 0,
-      "url": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/fyzb/ipv6.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
-      "ua": "okhttp/5.0.0-alpha.14",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+	
 	
     {
       "name": "海风直播1",
@@ -2350,14 +2252,7 @@
     },
 
 	
-    {
-      "name": "Gather.电视直播3",
-      "type": 0,
-      "url": "https://tv-1.iill.top/m3u/Gather",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
  {
             "name": "🇨🇳海直播4",
             "type": 0,
@@ -2368,15 +2263,7 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
 
-        {
-            "name": "🎥日后电视",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk",
-			//"playerType":1 ,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
+
 
 
 
@@ -2390,15 +2277,7 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
 
-             {
-            "name": "🇨🇳酷live",
-            "url": "https://v0-i47p.5588888.xyz/api/v3/file/get/33064/ku9home.txt?sign=7aaiexfYZhthft73DxlsT5J_QJ0EnWCd8u1p1fYZYZI%3D%3A0",
-            "type": 0,
-            "playerType": 1,
-            "ua": "okhttp/3.12.13",
-            "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
+
 
 {
             "name": "🇨🇳山东移动iptv",
