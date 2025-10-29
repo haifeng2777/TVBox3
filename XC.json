@@ -433,7 +433,28 @@
       }
     },
 
-
+{
+    "key": "歪片星球", 
+    "name": "🧿歪片┃星球", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "播放请求头": "User-Agent$MOBILE_UA",
+        "简介": "module-info-introduction-content\">&&</div>", 
+        "数组": "<a&&</a", 
+        "图片": "data-src=\"&&\"", 
+        "标题": "alt=\"&&\"", 	
+		"副标题": "module-item-note\">&&</div>",
+        "线路数组": "aria-controls=\"panel&&</div>",
+		"线路标题": ">&&</small",
+		"播放数组": "module-play-list\">&&</div>",
+		"播放标题": ">&&</span>",
+		"播放链接": "href=\"&&\"",
+        "嗅探词": "cdn4.ryplay4.com#index.m3u8#.m3u8#.mp4",
+        "分类url": "https://waipian18.com/show-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/", 
+        "分类": "短剧$duanju#电影$dianying#电视剧$juji#动漫$dongman#Netflix影片$https://waipian16.com/show---year-Netflix--------2024/#综艺$zongyi#纪录片$jilupian"
+    }
+},
 
     {
       "key": "剧屋",
