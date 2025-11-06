@@ -92,8 +92,32 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://3027.kstore.space/drpy_js/%E7%99%BE%E5%BA%A6%E7%9F%AD%E5%89%A7.js"
-    },    	
+      "ext": "https://d.kstore.dev/download/3027/drpy_js/%E7%99%BE%E5%BA%A6%E7%9F%AD%E5%89%A7.js"
+    },    
+
+    {
+      "key": "围观短剧[短][js]",
+      "name": "9围观短剧[短][js]",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://d.kstore.dev/download/3027/drpy_js/%E5%9B%B4%E8%A7%82%E7%9F%AD%E5%89%A7%5B%E7%9F%AD%5D.js"
+    },    
+    {
+      "key": "91电视[直][js]",
+      "name": "91电视[直][js]",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://d.kstore.dev/download/3027/drpy_js/91%E7%94%B5%E8%A7%86%5B%E7%9B%B4%5D.js"
+    },
+   	
 	
 	{"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {
@@ -321,7 +345,7 @@
       "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://3027.kstore.space/drpy_js/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.js"
+      "ext": "https://d.kstore.dev/download/3027/drpy_js/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.js"
     },
 
 
@@ -2392,4 +2416,3 @@
     }
 	]
 	}
-
