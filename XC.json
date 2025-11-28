@@ -2,7 +2,7 @@
 
 
 {
-	"spider": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	"spider": "https://gh-proxy.com/raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
@@ -245,23 +245,7 @@
     "分类url": "https://www.wxdr99.com/wxdsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
     },			 
-		 
-{
-    "key": "wap.mogudong.com", 
-    "name": "⭕80S｜电影", 
-    "type": 3, 
-    "jar": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar", 
-    "api": "csp_XBPQ", 
-    "ext": {
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "pic-text text-right\">&&</span>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "简介": "desc detail\">&&</p>", 
-        "分类url": "https://wap.mogudong.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak"
- }
-},		 
+		 	 
 		 {
             "key": "一起看",
             "name": "🐰一起看",
@@ -567,9 +551,10 @@
         "播放链接": "href=\"&&\"",
         "播放标题": "\">&&</a>",
         "嗅探": "1",
-        "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "播放地址二次截取": "var player_&&</div>",
+        "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",        
+		"播放地址二次截取": "var player_&&</div>",
         "播放地址截取": "\"url\":\"&&\"",
+        //"跳转播放链接": "var player_*\"url\":\"&&\"",
         "嗅探前缀": "http://45.207.215.8:1981/players/?url=",
         "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
         "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
@@ -577,54 +562,7 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "XBPQ_wftfsw.com",
-      "name": "🌸素白白☪影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$okhttp/3.12.11",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "text-right\">&&</span>",
-        "分类":"短剧$74#电影$54#电视剧$62#动漫$52#综艺$69",
-        "分类url": "http://www.wftfsw.com/jianli_show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-      }
-    },
 
- 
-     {
-      "key": "-八戒影院",
-      "name": "八戒｜影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-    "请求头": "User-Agent$MOBILE_UA$https://www.bajie7.com",
-    "编码": "UTF-8",
-    "简介": "details-content-default\">&&</span>",
-    "数组": "video-pic loading&&</a>",
-    "标题": "title=\"&&\"",
-    "副标题": "score\">&&</span>",
-    "图片": "data-original=\"&&\"",
-    "线路数组": "#con_playlist_&&</a>",
-    "线路标题": "\">&&</a>",
-    "播放列表": "<a&&/a>",
-    "播放链接": "href=\"&&\"",
-    "播放标题": "\">&&</a>",
-    //"跳转解析": "https://www.dbjiexi.com/jx/?url=[替换:.com/jx/?url=>>.com:966/jx/?url=]",
-
-    //"嗅探词": ".mp4#.m3u8#index.m3u8#vip.ffzy-play8.com/#cdn.yzzy28-play.com/",
-        //"嗅探过滤词": "p=#h2",
-    "搜索url": "https://cheduodian.com/vod/search/?wd={wd}",
-    "分类url": "https://www.bajie7.com/{cateId}/{catePg}-0-all-0-0-0-0-0",
-    "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#国漫$guochandongman#综艺$zongyi#体育赛事$dltyss"
-      }
-    },
 {
       "key": "laopole",
       "name": "❤️追剧网TV",
@@ -662,30 +600,24 @@
       }
     },
 
-    {
-      "key": "nmdvd",
-      "name": "❤️农民影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "简介": "stui-pannel_bd\">&&</div>",
-        "数组": "stui-vodlist__box\">&&</div>",
-        "标题": "title=\"&&\"",
-        "副标题": "pic-text text-right\">&&</span>",
-        "图片": "data-original=\"&&\"",
-        "播放数组": "stui-content__playlist clearfix\">&&</ul>",
-        "播放列表": "<a&&/a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": "\">&&</a>",
-        "分类url": "https://sltjw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "短剧$31#电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
+{
+    "key": "农民影视", 
+    "name": "🧿农民┃影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA", 
+        "编码": "utf-8", 
+		"主页url": "http://www.chinaneurology.org/as/6.html",
+        "数组": "item-con\">&&</div>", 
+        "图片": "src=\"&&\"", 
+        "标题": "title=\"&&\"", 
+		"副标题": "state\">&&</span>",
+        "线路标题": "🔥+tab-nav\">&&</a>",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://www.chinaneurology.org/as/{cateId}-{catePg}.html" 
+    }
+},
 
     {
       "key": "czvod",
@@ -812,25 +744,25 @@
       }
     },
 
-        {
-            "key": "啊哈DJ视频",
-            "name": "啊哈DJ视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "直接播放": "1",
-                "站名": "啊哈DJ网",
-                "直接播放": "1",
-                "分类url":"https://m.ahadj.com/music/{cateId}-{catePg}.html;;ta",
-                "分类":"劲爆舞蹈视频$id-112#车载发烧视频$id-125#音乐派对视频$id-90#中文抒情视频$id-20#国外夜店视频$id-21#高清车展视频$id-58#粤语舞曲视频$id-114#英文抒情视频$id-46#日韩歌曲视频$id-50#串烧舞曲视频$id-62#钢管舞曲视频$id-64#国外舞曲视频$id-65#模特DJ视频$id-161#DJ打碟视频$id-163#中文夜店视频$id-180",
-                "起始页": "1",
-                "数组二次截取":"shiping_box2\">&&</div>",
-                "数组": "class=\"shiping_img&&/a>",
-                "标题":"<h2>&&</h2>",
-                "图片":"src=\"&&\"",
-                "链接":"href=\"&&\""
-        }
-        },
+{
+    "key": "xbpq_啊哈DJ", 
+    "name": "❤️啊哈｜视频", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "jar": "https://codeberg.org/hf2777/hf/raw/branch/main/XBPQ.jar",
+    "ext": {
+        "请求头": "User-Agent@Mozilla/5.0 (Linux；；Android 9；；M973Q Build/PQ3B.190801.10161630；；wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36",
+        "主页url": "https://m.ahadj.com/music/id-123-1.html", 
+        "数组": "shiping_img&&</a>",  
+        "标题": "<h2>&&</h2>",  
+        "图片": "src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "直接播放": "1",
+        "嗅探词": ".mp3#.mp4?#.m3u8?#.m3u8#.mp4",
+        "分类": "劲爆舞蹈视频$112#车载发烧视频$125#音乐派对视频$90#中文抒情视频$20#国外夜店视频$21#高清车展视频$58#粤语舞曲视频$114#英文抒情视频$46#日韩歌曲视频$50#串烧舞曲视频$62#钢管舞曲视频$64#国外舞曲视频$65#模特DJ视频$161#DJ打碟视频$163#中文夜店视频$180", 
+        "分类url": "https://m.ahadj.com/music/id-{cateId}-{catePg}.html;;t"
+    }
+},
 
     {
       "key": "DG音乐仓",
