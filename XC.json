@@ -47,7 +47,7 @@
       }
     },
     {
-      "key": "XBPQ_WWE赛事",
+      "key": "XBPQ_摔角网",
       "name": "🌐格斗┃WWE☪🌐",
       "type": 3,
       "api": "csp_XBPQ",
@@ -55,9 +55,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "主页url": "https://www.shuaijiao.cn/video/",
-        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://www.shuaijiao.cn/video/wwe/",
+        "请求头": "User-Agent$PC_UA",
         "编码": "UTF-8",
+        "链接前缀":"https://www.shuaijiao.cn",
         "数组": "<a&&play_mask",
         "标题": "_blank\">&&</a>",        
         "副标题": "class=\"share\">分享：&&</p>",
@@ -69,7 +70,7 @@
         "播放标题": "<span>&&</span>",
         "播放链接": "href=\"javascript:viod(0)\" onclick=\"openUrl('&&')\"",
         "分类url": "https://www.shuaijiao.cn/video/{cateId}/{year}/{catePg}.html",
-        "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#单场比赛$single"
+        "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#Lucha$lucha#单场比赛$single#其他赛事$other"
       }
     },
 
@@ -255,7 +256,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-    "主页url": "https://v.zrxgnxddxw.com/",
+    "主页url": "https://www.zunboli.com/",
     "数组": "part-2by3&&</li",
     "嗅探词": ".m3u8#.mp4",
     "图片": "data-original=\"&&\"",
@@ -269,9 +270,9 @@
     "播放链接": "href=\"&&\"",
     "播放标题": "✨+title=\"&&\"",
     "倒序": "1",
-    "搜索url": "https://v.zrxgnxddxw.com/search.php?page={pg}&searchword={wd}&searchtype=",
+    "搜索url": "https://www.zunboli.com/search.php?page={pg}&searchword={wd}&searchtype=",
     "分类": "电影$1#电视剧$2#动漫$4#短剧$30#抖音短剧$43#快手短剧$44#综艺$3",
-    "分类url": "https://v.zrxgnxddxw.com/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&area={area}&year={year}",
+    "分类url": "https://www.zunboli.com/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&area={area}&year={year}",
     "排序": "时间&人气&评分",
     "排序值": "time&hits&score"
             }
