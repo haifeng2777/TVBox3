@@ -704,7 +704,7 @@
         "分类ID": "href=\"/music/id-&&-1.html", 
         "二次截取": "yinyue_list&&page_box", 
         "数组": "<li&&</li", 
-        "图片": "<img class=\"z_img\" src=\"&&\"||https://pic.rmb.bdstatic.com/bjh/250801/beautify/4efa8f92ac23b3601483eed12f6d6507.jpeg", 
+        "图片": "img\" src=\"&&\"", 
         "标题": "<h*>&&</h", 
         "副标题": "icon-huo\">&&</span", 
         "链接": "href=\"&&\"", 
