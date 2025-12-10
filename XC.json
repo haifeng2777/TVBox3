@@ -22,30 +22,7 @@
         },
 
 
-		{
-      "key": "XBPQ_dj耶",
-      "name": "🌸DJ耶☪耶耶",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://djyyy.com/shipin/",
-        "简介": "desc hidden-xs\">&&</p>",
-        "请求头": "User-Agent$PC_UA",
-        "编码": "UTF-8",
-        "数组": "<li>&&</a>",
-        "图片": "src=\"&&\"",
-        "标题": "station-list__title\">&&<div>",
-        "链接前缀":"https://djyyy.com",
-        "直接播放": "1",
-        "播放链接": "href=\"&&\"",
-        "搜索url":"https://www.hmdj.site/search.html?wd={wd}",
-        "分类":"最新发布$shipin/chezai#车载视频$shipin/chezai#夜店视频$sp/yedian#热舞视频$sp/rewu#舞曲视频$sp/wuqu#写真视频$sp/xiezhen#打碟视频$sp/dadie#车模视频$sp/chemo#国外视频$sp/guowai#串烧视频$sp/chuanshao",
-        "分类url": "https://www.djyyy.com/{cateId}/x_{catePg}.html"
-      }
-    },
+
     {
       "key": "XBPQ_摔角网",
       "name": "🌐格斗┃WWE☪🌐",
@@ -139,6 +116,42 @@
         "分类": "国产剧$22#电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
+{
+    "key": "xbpq_红果果短剧", 
+    "name": "❤️红果果┃短剧", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA", 
+        "编码": "UTF-8",  
+        "数组": "l-list-box rel\">&&</li", 
+        "标题": "tim-title\">&&</h2>", 
+        "图片": "data-original=\"&&\"", 
+        "副标题": "💠+b\">&&</span+💠",
+        "线路标题": "swiper-wrapper\"&&</div>",
+        "播放标题": ">&&</div", 
+        "播放链接": "href=\"&&\"", 
+        "跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "分类": "精选短剧$jingxuanduanju#穿越短剧$chuanyueduanju#古装短剧$guzhuangduanju#逆袭短剧$nixiduanju#都市短剧$dushiduanju#福利短剧$fuliduanju", 
+        "分类url": "https://www.hongguoguo.tv/vod/show/id/{cateId}/page/{catePg}.html"
+    }
+},
+{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
+    {
+            "key": "csp_biubiu_酷云影院",
+            "name": "酷云影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://kuyun123.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+            }
+        },
+
 
 
 		{
@@ -391,7 +404,7 @@
         "副标题": "pic-text text-right\">&&</span>",
         "直接播放": "0",
         "线路数组": "#playlist&&</a>",
-        //"线路标题": "&nbsp;&&</a>",
+
         "播放列表": "<a&&</a>",
         "播放标题": ">&&</a>",
         "分类":"🦄短剧$21#🦄电影$1#🦄电视剧$2#🦄动漫$4#🦄综艺$3",
@@ -728,7 +741,32 @@
       "changeable": 0,
       "ext": "https://d.kstore.dev/download/3027/json/ych.json"
     },
-
+    {
+      "key": "XBPQ_dj耶",
+      "name": "🌸DJ耶☪耶耶",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://djyyy.com/shipin/",
+        "简介": "desc hidden-xs\">&&</p>",
+        "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； M973Q Build/PQ3B.190801.10161630；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36",
+        "编码": "UTF-8",
+        "数组": "<li>&&</a>",
+        "图片": "src=\"&&\"",
+        "标题": "station-list__title\">&&<div>",
+        "链接前缀":"https://djyyy.com",
+        "直接播放": "1",
+        "播放链接": "href=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".mp3#.mp4?#.m3u8?#.m3u8#.mp4#.m4a",
+        "搜索url":"https://www.djyyy.com/search.php?ac=dj&key={wd}",
+        "分类":"最新发布$shipin/chezai#车载视频$shipin/chezai#夜店视频$sp/yedian#热舞视频$sp/rewu#舞曲视频$sp/wuqu#写真视频$sp/xiezhen#打碟视频$sp/dadie#车模视频$sp/chemo#国外视频$sp/guowai#串烧视频$sp/chuanshao",
+        "分类url": "https://djyyy.com/{cateId}/x_{catePg}.html"
+      }
+    },
      {
       "key": "秀儿｜影视",
       "name": "秀儿｜影视",
@@ -775,7 +813,7 @@
       "key": "人人｜影视",
       "name": "人人｜影视",
       "type": 3,
-      //"jar": "https://play.iptv365.org/%E6%BD%87%E6%B4%92/spider.jar",
+
       "api": "csp_XBPQ",
       "ext": {
               "请求头": "User-Agent$MOBILE_UA",
@@ -816,7 +854,7 @@
     "链接": "href=\"&&\"",
     "线路数组": "href=\"javascript:void(0);\" alt=\"*\">&&</a>",
     "线路标题": "🌸+</i>&&</",
-    //"播放数组": "videourl clearfix&&</ul>",
+
     "播放列表": "<a&&/a>",
     "播放链接": "href=\"&&\"",
     "播放标题": ">&&</a>",
@@ -877,7 +915,7 @@
         "线路标题": "<span>&&</span>",
         "播放标题": "<span>&&</span>",
         "播放链接": "href=\"&&\"",
-        //"跳转播放链接": "var now=\"&&\"",
+
         "跳转解析":"https://art.playr.top/?url=",
         "搜索url": "https://www.tdys.cc/sso/-------------.html?wd={wd}",
         "分类": "电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi",
@@ -895,8 +933,7 @@
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://www.mahuage1.com/",
-        //"请求头": "User-Agent$MOBILE_UA",
-        //"编码": "text/html#UTF-8",
+
         "直接播放": "0",
         "数组": "hl-item-thumb hl-lazy&&</a>[不包含:最新#排行]",
         "标题": "title=\"&&\"",
@@ -1168,7 +1205,7 @@
       "filterable": 1,
       "ext": {
 	  "主页url": "http://www.ijianpin.com/",
-	  //"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+
 	  "图片": "data-original=\"&&\"",
 	  "标题": "title=\"&&\"",
 	  "影片类型": "<div class=\"module-info-tag\">&&立即播放",
@@ -1762,6 +1799,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
+	    {
+      "name": "D佬体育",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+	
     {
       "name": "海风直播2",
       "type": 0,
@@ -1807,7 +1855,7 @@
             "name": "🇨🇳海直播5",
             "type": 0,
             "url": "http://zozo.myartsonline.com/0/zb2.txt",
-			//"playerType":1 ,
+
             "ua": "okhttp/3.12.11",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
