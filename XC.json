@@ -122,18 +122,19 @@
     "type": 3, 
     "api": "csp_XBPQ", 
     "ext": {
-        "请求头": "User-Agent$MOBILE_UA", 
+        "请求头": "User-Agent@Mozilla/5.0 (Linux；；Android 9；；M973Q Build/PQ3B.190801.10161630；；wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36", 
         "编码": "UTF-8",  
-        "数组": "l-list-box rel\">&&</li", 
+        "数组": "<a&&</li", 
         "标题": "tim-title\">&&</h2>", 
-        "图片": "data-original=\"&&\"", 
+        "图片": "data-original=\"&&\"[替换:https://mtzy1.com>>https://mtzy2.com]", 
         "副标题": "💠+b\">&&</span+💠",
-        "线路标题": "swiper-wrapper\"&&</div>",
+        "线路数组": "swiper-slide on swiper-slide-active&&</a>",
         "播放标题": ">&&</div", 
-        "播放链接": "href=\"&&\"", 
-        "跳转播放链接": "var vid=*\";var now=\"&&\"",
-        "分类": "精选短剧$jingxuanduanju#穿越短剧$chuanyueduanju#古装短剧$guzhuangduanju#逆袭短剧$nixiduanju#都市短剧$dushiduanju#福利短剧$fuliduanju", 
-        "分类url": "https://www.hongguoguo.tv/vod/show/id/{cateId}/page/{catePg}.html"
+        "播放链接": "href=\"&&\"",
+        "嗅探词": "index.m3u8#.m3u8#.mp4",
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "分类": "精选短剧$jingxuanduanju#穿越短剧$chuanyueduanju#古装短剧$guzhuangduanju#逆袭短剧$nixiduanju#都市短剧$dushiduanju", 
+        "分类url": "https://www.hongguoguo.tv/vod/show/id/{cateId}/page/{catePg}.html;;d0"
     }
 },
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
