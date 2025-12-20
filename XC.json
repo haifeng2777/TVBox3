@@ -50,7 +50,37 @@
         "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#Lucha$lucha#单场比赛$single#其他赛事$other"
       }
     },
-
+        {   "key": "【短剧】七猫短剧",
+            "name": "🔰 七猫【短剧】",
+            "type": 3,           
+            "api": "csp_XBPQ",
+            //"jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+            "ext": {
+    "主页url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name=穿越&page=1",
+    "编码": "UTF-8",
+    "请求头": "User-Agent$MOBILE_UA",
+    "播放请求头": "User-Agent$MOBILE_UA",
+    "网站地址": "https://api.cenguigui.cn/",
+    "数组": "{&&}",
+    "图片": "\"image_link\": \"&&\"",
+    "标题": "\"title\": \"&&\"",
+    "副标题": "\"total_num\": \"&&\"",
+    "链接": "id\": \"&&\"",
+    "链接前缀": "https://api-v1.cenguigui.cn/api/duanju/qimao/?id=",
+    "线路数组": "\"data\": {&&}",
+    "线路标题": "海风专线",
+    "播放数组": "play_list\": [&&]",
+    "播放列表": "{&&}",
+    "播放标题": "\"sort\": \"&&\"",
+    "播放链接": "\"video_url\": \"&&\"",
+    "跳转播放链接": "\"video_h265_url\": \"&&\"",
+    "搜索url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name={wd}&page={pg}",
+    "简介": "海风祝您观影愉快！👉-+\"intro\": \"&&\"",
+    "分类": "推荐&新剧&奔跑吧推荐&都市情感&虐恋&逆袭&复仇&豪门总裁&都市&家庭&甜宠&古装&女性成长&重生&打脸虐渣&穿越&萌宝&真假千金&赘婿&战神&强者回归&闪婚&小人物&玄幻仙侠&追妻火葬场&职场&乡村&马甲&搞笑&悬疑&奇幻&神医&娱乐明星&商战&权谋&婚姻&欢喜冤家&神豪&高手下山&异能&年代&漫剧&系统&社会话题&青春校园&宅斗&民国&替身&银发&宫斗&穿书&先婚后爱&致富&团宠&女强&武侠&女帝&种田经商&扮猪吃虎&灵异&科幻&破镜重圆&脑洞&金手指&兵王&暗恋&偷听心声&志怪&女总裁&末世&修仙&大女主&现代言情&替嫁&古代言情&古代&正能量&玄学&双重生&契约婚姻&青梅竹马&婚恋&二次元&王妃&女扮男装&皇后&现实题材&鉴宝&后悔流&古穿今&直播&皇帝&真假少爷&校园&久别重逢&奶爸&历史&娱乐圈&伦理&",
+    "分类值": "*",
+    "分类url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name={cateId}&page={catePg};;mrcRA"
+  }
+    },
     {
       "key": "百度短剧[短]",
       "name": "🧿百度┃短剧[js]",
