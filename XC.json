@@ -15,7 +15,7 @@
             "key": "豆瓣采集资源",
             "name": "豆瓣 | 采集",
             "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
@@ -50,48 +50,37 @@
         "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#Lucha$lucha#单场比赛$single#其他赛事$other"
       }
     },
-        {   "key": "【短剧】七猫短剧",
-            "name": "🔰 七猫【短剧】",
+
+          {   "key": "短剧搜索",
+            "name": "🔰短剧搜索【短剧】",
             "type": 3,           
             "api": "csp_XBPQ",
-            //"jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
             "ext": {
-    "主页url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name=穿越&page=1",
+    "主页url": "https://api.xingzhige.com/API/playlet/?keyword=穿越&page=1",
     "编码": "UTF-8",
     "请求头": "User-Agent$MOBILE_UA",
     "播放请求头": "User-Agent$MOBILE_UA",
-    "网站地址": "https://api.cenguigui.cn/",
+    "网站地址": "https://api.xingzhige.com/",
     "数组": "{&&}",
-    "图片": "\"image_link\": \"&&\"",
+    "图片": "\"cover\": \"&&\"",
     "标题": "\"title\": \"&&\"",
-    "副标题": "\"total_num\": \"&&\"",
-    "链接": "id\": \"&&\"",
-    "链接前缀": "https://api-v1.cenguigui.cn/api/duanju/qimao/?id=",
+    "副标题": "\"type\": \"&&\"",
+    "链接": "book_id\": \"&&\"",
+    "链接前缀": "https://api.xingzhige.com/API/playlet/?book_id=",
     "线路数组": "\"data\": {&&}",
     "线路标题": "海风专线",
-    "播放数组": "play_list\": [&&]",
+    "播放数组": "video_list\": [&&]",
     "播放列表": "{&&}",
-    "播放标题": "\"sort\": \"&&\"",
-    "播放链接": "\"video_url\": \"&&\"",
-    "跳转播放链接": "\"video_h265_url\": \"&&\"",
-    "搜索url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name={wd}&page={pg}",
-    "简介": "海风祝您观影愉快！👉-+\"intro\": \"&&\"",
+    "播放标题": "\"title\": \"&&\"",
+    "播放链接": "https://api.xingzhige.com/API/playlet/?video_id=+video_id\": \"&&\"",
+    "跳转播放链接": "https://www.kuaikanys.net/jiexi/jiekou-1/?url=+url\": \"&&\"",
+    "搜索url": "https://api.xingzhige.com/API/playlet/?keyword={wd}&page={pg}",
+    "简介": "海风祝您观影愉快！👉-+\"desc\": \"&&\"",
     "分类": "推荐&新剧&奔跑吧推荐&都市情感&虐恋&逆袭&复仇&豪门总裁&都市&家庭&甜宠&古装&女性成长&重生&打脸虐渣&穿越&萌宝&真假千金&赘婿&战神&强者回归&闪婚&小人物&玄幻仙侠&追妻火葬场&职场&乡村&马甲&搞笑&悬疑&奇幻&神医&娱乐明星&商战&权谋&婚姻&欢喜冤家&神豪&高手下山&异能&年代&漫剧&系统&社会话题&青春校园&宅斗&民国&替身&银发&宫斗&穿书&先婚后爱&致富&团宠&女强&武侠&女帝&种田经商&扮猪吃虎&灵异&科幻&破镜重圆&脑洞&金手指&兵王&暗恋&偷听心声&志怪&女总裁&末世&修仙&大女主&现代言情&替嫁&古代言情&古代&正能量&玄学&双重生&契约婚姻&青梅竹马&婚恋&二次元&王妃&女扮男装&皇后&现实题材&鉴宝&后悔流&古穿今&直播&皇帝&真假少爷&校园&久别重逢&奶爸&历史&娱乐圈&伦理&",
     "分类值": "*",
-    "分类url": "https://api-v1.cenguigui.cn/api/duanju/qimao/?name={cateId}&page={catePg};;mrcRA"
+    "分类url": "https://api.xingzhige.com/API/playlet/?keyword={cateId}&page={catePg};;mrcRA"
   }
-    },
-    {
-      "key": "百度短剧[短]",
-      "name": "🧿百度┃短剧[js]",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://d.kstore.dev/download/3027/drpy_js/%E7%99%BE%E5%BA%A6%E7%9F%AD%E5%89%A7.js"
-    },    
+        }, 
 
     {
       "key": "围观短剧[短][js]",
@@ -183,64 +172,58 @@
             }
         },
 
-
-
-		{
+    {
       "key": "gzvod短剧",
-      "name": "🌸瓜子☪短剧",
+      "name": "🌸瓜子☪影视短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "主页url": "https://www.gzvod.cc/",
+        "主页url": "https://www.fuuxing.com/",
         "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
         "简介":"简介:&&</div>",
         "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
-        "数组": "public-list-exp&&</a>",
+        "数组": "col-xs-4 col-md-3 col-lg-2\">&&</li>",
         "标题": "title=\"&&\"",
-        "副标题": "public-list-prb hide ft2\">&&</span>",
-        "图片": "data-src=\"&&\"",
-        "导演": "导演:</div>&&主演",
-        "主演": "主演:</div>&&别名",
-        "简介": "id=\"height_limit\" class=\"text\">&&</div>",
-        "线路数组": "swiper-slide\"&&</a>",
-        "线路标题": "&nbsp;&&</a>",
+        "副标题": "ik8lzhbwrznv item-status text-overflow\">&&</p>",
+        "图片": "data-original=\"&&\"",
+        "导演": "导演:&&</span>",
+        "主演": "主演:&&</span>",
+        "简介": "text text-row text-row-2\">&&</div>",
+        "线路数组": "#ewave-playlist&&</li>",
+        "线路标题": ">&&<em></em>",
         "播放标题": ">&&</",
         "播放链接": "href=\"&&\"",
         "倒序": "否",
         "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
-        "分类": "都市$都市#言情$言情#仙侠$仙侠#反转$反转#女恋$女恋#古装$古装#穿越$穿越#重生$重生#剧情$剧情#闪婚$闪婚",
-        "分类url": "https://www.gzvod.cc/index.php/vod/show/class/{cateId}/id/5/page/{catePg}.html"
+        "分类": "短剧$40#电影$1#电视剧$2#综艺$3#动漫$4#穿越重生$33#反转爽剧$34#言情总裁$35#现代都市$36#古装仙侠$37#悬疑烧脑$38#",
+        "分类url": "https://www.fuuxing.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
-    },		
+    },	
 		
 		
     {
-      "key": "gzvod1",
-      "name": "🌸瓜子☪秒播",
+      "key": "gzxiongna",
+      "name": "🌸瓜子☪影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "主页url": "https://www.gzvod.cc/",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-        "简介":"简介:&&</div>",
+        "请求头": "User-Agent$okhttp/3.15",
+        "编码": "UTF-8",
+        "简介":"bottom-detail\">&&</p>",
         "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
-        "数组": "public-list-exp&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "public-list-prb hide ft2\">&&</span>",
-        "图片": "data-src=\"&&\"",
-        "导演": "导演:</div>&&主演",
-        "主演": "主演:</div>&&别名",
-        "简介": "id=\"height_limit\" class=\"text\">&&</div>",
-        "线路数组": "swiper-slide\"&&</a>",
-        "线路标题": "&nbsp;&&</a>",
+        "主页url": "https://www.gzxiongna.com/",
+        "数组": "<a&&</p>",
+        "标题": "alt=\"&&\"",
+        "副标题": "c-hDImTG\">&&</div>",
+        "图片": "data-original=\"&&\"/",
+        "导演": "导演:&&</p>",
+        "主演": "主演:&&</p>",
         "播放标题": ">&&</",
         "播放链接": "href=\"&&\"",
         "倒序": "否",
-        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
-        "分类": "短剧$5#电影$1#电视剧$2#动漫$4",
-        "分类url": "https://www.gzvod.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+        "搜索url": "https://www.gzxiongna.com/UzYsSYi/-------------.html?wd={wd}",
+        "分类": "短剧$44#电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.gzxiongna.com/Ngv4hSN/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.gzxiongna.com/0bCvlyE/{cateId}.html]"
       }
     },
 
@@ -1839,7 +1822,15 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "http://tv.html-5.me/ii/811345.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 	
     {
       "name": "海风直播2",
