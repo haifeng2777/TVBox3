@@ -9,8 +9,24 @@
 
 
 
-
-{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃刷新一下源才能出来","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
+    {
+      "key": "金蝉",
+      "name": "☀金蝉🔹影视",
+      "type": 1,
+      "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
+      "playUrl": "https://jx.xmflv.com/?url="
+    },
+{
+    "key": "热播影视大全",
+    "name": "热播影视大全｜APP",
+    "type": 3,
+    "api": "https://3027.kstore.space/drpy_js/RJAPP.js",
+    "ext": "http://v.rbotv.cn"
+},
+{"key":"花小猪影视","name":"🐷花猪｜App","type":3,"api":"csp_AppGet","jar": "http://rihou.cc:88/jar/vox.jar;md5;d6b28ad9bed7048741554643610480a0","ext":{"host":"https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt","datakey":"j8sr6d93yp49db3p","ua":"okhttp/3.10.0","api":"2"}},
+{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t9/djuu.php"},	
+	
+	{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃刷新一下源才能出来","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
         {
             "key": "豆瓣采集资源",
             "name": "豆瓣 | 采集",
