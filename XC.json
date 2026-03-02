@@ -8,13 +8,31 @@
 	"sites":[
 
 
+{
+    "key": "小镇影视", 
+    "name": "小镇｜影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "线路数组": "<a data-toggle=\"tab\"&&/a>", 
+        "线路标题": ">&&<", 
+        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html", 
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+    }
+},
 
     {
-      "key": "金蝉",
-      "name": "☀金蝉🔹影视",
-      "type": 1,
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
-      "playUrl": "https://jx.xmflv.com/?url="
+      "key": "面包影视",
+      "name": "面包｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+    "简介": "简介：&&"
+   }
     },
 {
     "key": "热播影视大全",
@@ -24,7 +42,50 @@
     "ext": "http://v.rbotv.cn"
 },
 {"key":"花小猪影视","name":"🐷花猪｜App","type":3,"api":"csp_AppGet","jar": "http://rihou.cc:88/jar/vox.jar;md5;d6b28ad9bed7048741554643610480a0","ext":{"host":"https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt","datakey":"j8sr6d93yp49db3p","ua":"okhttp/3.10.0","api":"2"}},
+
 {"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t9/djuu.php"},	
+
+{"key":"csp_xBPQ_奇优","name":"🅱️奇优影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+    "主页url":"http://www.qiyoudy4.com/",    
+    "简介":"在线免费观看，&&</div>",    
+    "主演":"主演：&&</p>",    
+    "导演":"导演：&&</p>",    
+    "影片类型":"类型：&&立即播放",    
+    "影片状态":"更新：&&</p>",    
+    "数组":"<div class=\"stui-vodlist__box\">&&</a>",   
+    "图片":"data-original=\"&&\"",    
+    "标题":"title=\"&&\"",    
+    "副标题":"text-right\">&&</span>",    
+    "链接":"href=\"&&\"",    
+    "搜索url":"/search.php;post;searchword={wd}",    
+    "搜索数组":"v-thumb stui-vodlist__thumb&&</a>",    
+    "搜索图片":"data-original=\"&&\"",    
+    "搜索标题":"title=\"&&\"",   
+    "搜索副标题":"text-right\">&&</span>",    
+    "搜索链接":"href=\"&&\"",    
+    "线路数组":"data-toggle=\"tab\"&&</li>",    
+    "线路标题":">&&</a>",    
+    "播放数组":"stui-content__playlist clearfix&&</ul>",    
+    "播放列表":"<li>&&</li>",    
+    "播放标题":">&&</a>",        
+    "分类url":"http://www.qiyoudy4.com/list/{cateId}_{catePg}.html[http://www.qiyoudy4.com/list/{cateId}.html];;ak",    
+    "分类":"电影$1#电视剧$2#动漫$3#综艺$4"
+}},
+
+{
+    "key": "永乐影视1", 
+    "name": "永乐｜影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA", 
+        "编码": "UTF-8", 
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43", 
+        "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+    }
+},
+
 	
 	{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃刷新一下源才能出来","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
         {
