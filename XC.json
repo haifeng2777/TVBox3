@@ -1280,43 +1280,18 @@
             "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
                 "简介": "bookintro\">&&</section>",
                 "播放数组": "class=\"press\"&&</ul>",
                 "播放列表": "<li>&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
-                "分类": "玄幻武侠$xuanhuan#鬼故事$kongbu#言情$dushi#爽文$shuangwen#异能$chaoneng#谍战$diezhan#法医$fayi#官场$guanchang#穿越$chuanyue#女频$nvpin#军事历史$junshi#刑侦推理$xingzhen#职场商战$shangzhan#网游竞技$wangyou#",
-                "分类url": "https://m.huanting.cc/{cateId}/{catePg}.html"
+                "分类": "玄幻武侠$xuanhuan#恐怖悬疑$kongbu#都市言情$dushi#爽文$shuangwen#异能$chaoneng#谍战$diezhan#法医$fayi#官场$guanchang#职场商战$shangzhan#女频$nvpin#军事历史$junshi#刑侦推理$xingzhen#职场商战$shangzhan#网游竞技$wangyou#",
+                "分类url": "https://www.ting27.com/{cateId}/{catePg}.html"
             }
         },
-       {              
-       "key":"xbpq_m.5weiting!",
-        "name":"📚六月听书[听]!",
-        "type":3,
-        "api":"csp_XBPQ",
-        "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
-        "searchable":0,
-        "quickSearch":0,
-        "changeable":1,
-        "ext":{               
-        "主页url": "http://m.5weiting.com/",
-        "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；；M973Q Build/PQ3B.190801.10161630；；wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36",
-        "编码": "UTF-8",
-        "图片代理":"1",
-        "简介":"book-intro tab-cont\"&&</div>",
-        "数组": "<a&&</li>",
-        "标题": "</span>&&</h2>",
-        "线路数组": "book-list-wrapper tab-cont\">&&</div>",
-        "链接": "href=\"&&\"",
-        "播放数组": "book-list clearfix\">&&</div",
-        "播放标题": "list-item\">&&</a",
-        "播放链接": "href=\"&&\"",
-        "导演": "原著：&&</span>",
-        "主演":" 主播：&&</span>",
-        "搜索url":"http://m.5weiting.com/search/{wd}",
-        "嗅探词": ".mp3#.m4a#.m4a?#.mp3?",
-        "分类":"玄幻奇幻$t1#修真武侠$t2#恐怖灵异$t3#古今言情$t4#都市言情$t28#穿越重生$t5#粤语古仔$t6#网游小说$t7#评书大全$t8#相声小品$t9#百家讲坛$t10#通俗文学$t11#历史纪实$t12#军事$t13#悬疑推理$t14#官场商战$t15#儿童读物$t16#广播剧$t17#ebc5系列$t18#商业$t19#生活$t20#教材$t21#外文原版$t22#期刊杂志$t23#脱口秀$t27#戏曲$t24#",
-        "分类url":"http://m.5weiting.com/ys/{cateId}/o1/p{catePg};;d0mar"}},
+
 
     {
       "key": "评书@",
@@ -1352,34 +1327,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy#相声随身听$https://www.xsmp3.com/"
       }
     },
-   {
-      "key": "XBPQ_ting39",
-      "name": "🌐39幻听┃网🌐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.ting39.com/",
-        "请求头": "User-Agent$MOBILE_UA",
-        "简介": "book-des\">&&</div>",
-        "编码": "UTF-8",
-        "链接前缀":"https://www.ting39.com",
-        "数组": "thumb&&</a>",
-        "标题": "title=\"&&\"",        
-        //"副标题": "pic-text text-right\">&&</span>",
-        "图片": "data-original=\"&&\"",        
-        "线路标题": "title-h\" style=\"width:460px;\">&&<h2>", 
-        "播放数组": "playlist\">&&</ul>",
-        "播放列表": "<a&&</a>",
-        "播放标题": ">&&</a>",
-        "播放链接": "href='&&'",
-        "嗅探词": ".mp3#.m4a",
-        "分类url": "https://www.ting39.com/book/{cateId}/lastupdate/{catePg}.html",
-        "分类": "全部有声$all#玄幻奇幻$xhqh#影视原著$ysyz#武侠仙侠$wxxx#穿越架空$cyjk#悬疑推理$xytl#科幻竞技$khjj#历史军事$lsjs#现代言情$xdyq#青春校园$qcxy#古代言情$gdyq#文学名著$wxmz#乡村生活$xcsh#儿童频道$ertong#国学经典$gxjd#博闻杂谈$bxzt#职场干货$zcgh#名家传记$mjcj#档案纪实$dajs#相声曲艺$xsqy#自我提升$zwts#明星电台$mxdt#其他有声$qita"
-      }
-    },
+
 
 
 
@@ -1507,9 +1455,6 @@
         "分类url": "http://m.ychy.org/list/{cateId}-{catePg}.html;;ak"
       }
     },
-
-
-
 
 
 
