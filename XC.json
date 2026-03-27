@@ -480,6 +480,29 @@
         "现代都市"
       ]
     }, 
+{
+        "key": "短剧网", 
+        "name": "🎦短剧网🔹短剧", 
+        "type": 3, 
+        "api": "csp_XBPQ", 
+        "ext": {
+                "主页url": "https://idsp.cc/type/1.html",
+                "简介": "fed-drop-boxs fed-drop-tops fed-matp-v\">&&</div>", 
+                "数组": "<a&&</li>", 
+                "标题": "title=\"&&\"", 
+                "图片": "data-original=\"&&\"", 
+                "副标题": "fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>", 
+                "线路数组": "#playlist&&</a>", 
+                "线路标题": "🌸+</i>&&</", 
+                "播放数组": "myui-content__list scrollbar sort-list clearfix\"&&</ul>", 
+                "分类url": "https://idsp.cc/type/{cateId}-{catePg}.html", 
+                "分类": "穿越$2#爽剧$3#重生$1#都市$5#悬疑$7#剧情$8#古代$6#言情$4"
+        }
+},
+
+
+
+
     {
       "key": "官方4K专线",
       "name": "🚀┃99影院┃🚀专线",
@@ -730,59 +753,9 @@
       }
     },
 
-          {   "key": "短剧搜索",
-            "name": "🔰短剧搜索【短剧】",
-            "type": 3,           
-            "api": "csp_XBPQ",
-            "ext": {
-    "主页url": "https://api.xingzhige.com/API/playlet/?keyword=穿越&page=1",
-    "编码": "UTF-8",
-    "请求头": "User-Agent$MOBILE_UA",
-    "播放请求头": "User-Agent$MOBILE_UA",
-    "网站地址": "https://api.xingzhige.com/",
-    "数组": "{&&}",
-    "图片": "\"cover\": \"&&\"",
-    "标题": "\"title\": \"&&\"",
-    "副标题": "\"type\": \"&&\"",
-    "链接": "book_id\": \"&&\"",
-    "链接前缀": "https://api.xingzhige.com/API/playlet/?book_id=",
-    "线路数组": "\"data\": {&&}",
-    "线路标题": "海风专线",
-    "播放数组": "video_list\": [&&]",
-    "播放列表": "{&&}",
-    "播放标题": "\"title\": \"&&\"",
-    "播放链接": "https://api.xingzhige.com/API/playlet/?video_id=+video_id\": \"&&\"",
-    "跳转播放链接": "https://www.kuaikanys.net/jiexi/jiekou-1/?url=+url\": \"&&\"",
-    "搜索url": "https://api.xingzhige.com/API/playlet/?keyword={wd}&page={pg}",
-    "简介": "海风祝您观影愉快！👉-+\"desc\": \"&&\"",
-    "分类": "推荐&新剧&奔跑吧推荐&都市情感&虐恋&逆袭&复仇&豪门总裁&都市&家庭&甜宠&古装&女性成长&重生&打脸虐渣&穿越&萌宝&真假千金&赘婿&战神&强者回归&闪婚&小人物&玄幻仙侠&追妻火葬场&职场&乡村&马甲&搞笑&悬疑&奇幻&神医&娱乐明星&商战&权谋&婚姻&欢喜冤家&神豪&高手下山&异能&年代&漫剧&系统&社会话题&青春校园&宅斗&民国&替身&银发&宫斗&穿书&先婚后爱&致富&团宠&女强&武侠&女帝&种田经商&扮猪吃虎&灵异&科幻&破镜重圆&脑洞&金手指&兵王&暗恋&偷听心声&志怪&女总裁&末世&修仙&大女主&现代言情&替嫁&古代言情&古代&正能量&玄学&双重生&契约婚姻&青梅竹马&婚恋&二次元&王妃&女扮男装&皇后&现实题材&鉴宝&后悔流&古穿今&直播&皇帝&真假少爷&校园&久别重逢&奶爸&历史&娱乐圈&伦理&",
-    "分类值": "*",
-    "分类url": "https://api.xingzhige.com/API/playlet/?keyword={cateId}&page={catePg};;mrcRA"
-  }
-        }, 
 
-    {
-      "key": "围观短剧[短][js]",
-      "name": "9围观短剧[短][js]",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://d.kstore.dev/download/3027/drpy_js/%E5%9B%B4%E8%A7%82%E7%9F%AD%E5%89%A7%5B%E7%9F%AD%5D.js"
-    },    
-    {
-      "key": "91电视[直][js]",
-      "name": "91电视[直][js]",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://d.kstore.dev/download/3027/drpy_js/91%E7%94%B5%E8%A7%86%5B%E7%9B%B4%5D.js"
-    },
+
+
    	
 	
 	{"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
@@ -1970,7 +1943,20 @@
         "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
       }
     },
-
+    {
+      "key": "天微世界听书",
+      "name": "📚世界🔹听书",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/tw.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "sp": "BookTing"
+      },
+      "timeout": 10
+    },
    {
       "key": "XBPQ_念音听书",
       "name": "🌐念音┃收费🌐",
