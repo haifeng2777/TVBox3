@@ -32,8 +32,34 @@
         "分类": "短剧$36#电影$1#电视剧$2#动漫$4#综艺$3#动画片$35#女频恋爱$37#反转爽剧$38#年代穿越$39#脑洞悬疑$40#现代都市$41#古装仙侠$42#热血剧情$43"
     }
 },
+      {"key": "csp_XYQBiu_TVB云播","name": "TVB云播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://3027.kstore.space/json/TVB%E4%BA%91%E6%92%AD.json"},
 
-        {
+{
+    "key": "XBPQ_TVB云播", 
+    "name": "TVB｜云播(XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "主页url": "http://www.hzzxhg.com/", 
+        "数组": "show_play\">&&</li>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "tc_wz\">&&</p>",
+        "图片": "data-original=\"&&\"", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "tab-switch swiper-slide&&</li>", 
+        "线路标题": ">&&</a>", 
+        "播放数组": "con_c2_list\">&&</ul>", 
+        "播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "yplx_c3 hidden-mobile\">&&</div>", 
+        "分类url": "http://www.hzzxhg.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+        "分类": "短剧$2#电视剧$3#电影$1#综艺$5#动漫$4#国产剧$38#古装短剧$26#现代短剧$27#逆袭短剧$28#悬疑短剧$29#重生短剧$31#穿越短剧$33"
+}},
+
+
+	  {
          "key":"猫TV直播",
          "name":"猫TV直播",        
          "type": 3,
@@ -443,36 +469,7 @@
 
 
 
-{
-    "key": "策驰影院1", 
-    "name": "✨策驰影院✨", 
-    "type": 3, 
-    "api": "csp_XBPQ", 
-    "searchable": 1, 
-    "quickSearch": 1, 
-    "filterable": 1, 
-    "ext": {
-        "请求头": "User-Agent$MOBILE_UA", 
-        "编码": "UTF-8", 
-        "主页url": "https://m.suzfcw.cn/", 
-        "数组": "stui-vodlist__box\">&&</div>", 
-        "图片": "data-original=\"&&\"", 
-        "标题": "title=\"&&\"",  
-        "副标题": "✨+pic-text text-right\">&&</span>", 
-        "线路数组": "clearfix\">&&</div>", 
-        "线路标题": ">&&</h3>", 
-        "播放数组": "stui-content__playlist clearfix\">&&</ul>", 
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&/a>", 
-        "播放链接": "href=\"&&\"",
-        "简介": "✨+detail col-pd\">&&</div>", 
-        "跳转播放链接": "var player=*\"url\":\"&&\"", 
-        "嗅探词": "index.m3u8#.m3u8#.mp4#.m3u8?#play.modujx11.com", 
-        "搜索url":"https://m.suzfcw.cn/vodsearch/{wd}----------{pg}---.html",
-        "分类": "短剧$36#电影$1#电视剧$2#动漫$4#综艺$3#动画片$35", 
-        "分类url": "https://m.suzfcw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-    }
-},
+
 
         {
             "key": "✨楓林網1✨",
@@ -526,7 +523,7 @@
     "简介": "简介：&&"
     }
     },
- 
+    
 {
     "key": "热播影视大全",
     "name": "热播影视大全｜APP",
@@ -700,40 +697,6 @@
         "分类": "WWE$wwe#TNA$tna#ROH$roh#AEW$aew#Lucha$lucha#单场比赛$single#其他赛事$other"
       }
     },
-{
-    "key": "策驰影院", 
-    "name": "✨策驰影院✨", 
-    "type": 3, 
-    "api": "csp_XBPQ", 
-    "searchable": 1, 
-    "quickSearch": 1, 
-    "filterable": 1, 
-    "ext": {
-        "请求头": "User-Agent$MOBILE_UA", 
-        "编码": "UTF-8", 
-        "主页url": "https://m.suzfcw.cn/", 
-        "数组": "stui-vodlist__box\">&&</div>", 
-        "图片": "data-original=\"&&\"", 
-        "标题": "title=\"&&\"",  
-        "副标题": "✨+pic-text text-right\">&&</span>", 
-        "线路数组": "clearfix\">&&</div>", 
-        "线路标题": ">&&</h3>", 
-        "播放数组": "stui-content__playlist clearfix\">&&</ul>", 
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&/a>", 
-        "播放链接": "href=\"&&\"",
-        "简介": "✨+detail col-pd\">&&</div>", 
-        "跳转播放链接": "var player=*\"url\":\"&&\"", 
-        "嗅探词": "index.m3u8#.m3u8#.mp4#.m3u8?#play.modujx11.com", 
-        "搜索url":"https://m.suzfcw.cn/vodsearch/{wd}----------{pg}---.html",
-        "分类": "短剧$36#电影$1#电视剧$2#动漫$4#综艺$3#动画片$35", 
-        "分类url": "https://m.suzfcw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-    }
-},
-
-
-
-   	
 	
 	{"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {
@@ -1508,7 +1471,7 @@
 {"name":"🐱喵喵短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
-{"key":"csp_FirstAid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8}},
+
 
 
 
