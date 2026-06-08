@@ -6,7 +6,110 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
+
 {
+    "key": "cc_555电影2", 
+    "name": "🔥┃555┃电影2", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 1, 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://www.555yy8.com/", 
+        "数组": "<a&&</a>[不包含:555电影]", 
+        "图片": "data-original=\"&&\"[替换:amp;>>空]", 
+        "标题": "module-poster-item-title\">&&</div>", 
+        "链接": "href=\"&&\"", 
+        "副标题": "module-item-note\">&&</div>", 
+        "搜索模式": "1", 
+        "嗅探词": ".m3u8#index.m3u8#tos-#.mp4", 
+        "搜索url": "https://www.shzqjfls.com/vodsearch/{wd}----------{Pg}---.html", 
+        "线路数组": "data-dropdown-value=&&/div>", 
+        "线路标题": "🌸+<span>&&</small>+🌸", 
+        "播放列表": "<a&&/a>", 
+        "播放标题": ">&&</span>",         
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "line-height: 20px;\">&&</div>", 
+        "分类": "擦边短剧$126#电视剧$2#电影$1#综艺$3#动漫$4#Netflix美剧$https://www.555yy8.com/label/netflix.html#福$124", 
+        "分类url": "https://www.555yy8.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"     
+    }
+},	
+{
+    "key": "XBPQ_天天影院 ", 
+    "name": "天天｜影院 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36#Referer$https://www.baixiaotangtop.com/",
+        "主页url": "https://www.baixiaotangtop.com/", 
+        "数组": "ewave-vodlist__box\">&&</div>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "pic-text text-right\">&&</span>",
+        "图片": "data-original=\"&&\"", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "#playlist&&</a>", 
+        "线路标题": ">&&</a>", 
+        "播放数组": "ewave-content__playlist clearfix column8 overflow\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "ewave-pannel_bd\">&&</div>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://www.baixiaotangtop.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+        "分类": "短剧$36#电视剧$2#电影$1#综艺$3#动漫$4"
+}},	
+	
+{
+    "key": "XBPQ_枫叶影院 ", 
+    "name": "枫叶｜4K影院 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1#Referer$https://www.tjtcdl.com/",
+        "主页url": "https://www.tjtcdl.com/", 
+        "数组": "public-list-div public-list-bj\">&&</div>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"[替换:https://gimg0.baidu.com/gimg/app=2001&amp;n=0&amp;g=0n&amp;fmt=jpeg&amp;src=>>https://]", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "swiper-slide\">&&</a>", 
+        "线路标题": "</i>&&</span>", 
+        "播放数组": "anthology-list-play size\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "this-desc\">&&</div>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://www.tjtcdl.com/cupfox-list/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+        "分类": "短剧$5#电视剧$2#电影$1#综艺$3#动漫$4"
+}},	
+	
+       {
+            "key": "DJWQ",
+            "name": "DJ舞曲-PY",
+            "type": 3,
+            "api": "https://3027.kstore.space/py/DJ%E8%88%9E%E6%9B%B21.py"       
+        },	
+		{
+			"key": "hipy_js_瓜子影视",
+			"name": "瓜子影视",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+		},	
+	
+	
+	{
     "key": "cc_独播库", 
     "name": "🛀┃独播┃库", 
     "type": 3, 
@@ -57,7 +160,59 @@
         "分类url": "http://www.hzzxhg.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
         "分类": "短剧$2#电视剧$3#电影$1#综艺$5#动漫$4#国产剧$38#古装短剧$26#现代短剧$27#逆袭短剧$28#悬疑短剧$29#重生短剧$31#穿越短剧$33"
 }},
-
+{
+    "key": "XBPQ_麦田影院 ", 
+    "name": "麦田｜影院 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$MOBILE_UA#Referer$https://www.mtyy1.cc/",
+        "主页url": "https://www.mtyy1.cc/", 
+        "数组": "public-list-exp&&</a>", 
+        "标题": "module-poster-item-title\">&&</div>", 
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "swiper-slide&&</a>", 
+        "线路标题": "</i>&&</span>", 
+        "播放数组": "anthology-list-play size\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "this-desc\">&&</div>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://www.mtyy1.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+        "分类": "短剧$26#电视剧$2#电影$1#综艺$3#动漫$4"
+}},
+{
+    "key": "XBPQ_不知名短剧 ", 
+    "name": "不知名｜短剧 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$MOBILE_UA#Referer$https://duanju.com.de/",
+        "主页url": "https://duanju.com.de/", 
+        "数组": "stui-vodlist__box\">&&</div>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "pic-text text-right\">&&</span>",
+        "图片": "data-original=\"&&\"", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "#playlist&&</a>", 
+        "线路标题": ">&&</a>", 
+        "播放数组": "stui-content__playlist clearfix sort-list\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "desc detail\">&&</p>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://duanju.com.de/show/1---{cateId}-----{catePg}---.html", 
+        "分类": "总裁&大女主&战神&神医&赘婿&神豪&大男主&青梅竹马&欢喜冤家&小人物&穿越&重生&追爱&破镜重圆&马甲&异能&爱情&闪婚&系统&传承觉醒&亲情&追妻&虐渣&娱乐圈&脑洞",
+        "剧情值": "*"
+}},
 
 	  {
          "key":"猫TV直播",
