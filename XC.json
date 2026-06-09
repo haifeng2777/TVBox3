@@ -7,6 +7,38 @@
 
 	"sites":[
 
+    {
+            "key": "csp_ 星光短剧",
+            "name": "❤️星光┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                //"请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "副标题": "pic-text text-right\">&&</span>",
+                "线路数组": "#playlist&&</a>",
+                "线路标题": "✨+>&&</a>",
+                "播放数组": "myui-content__list sort-list clearfix&&</ul>",
+                "播放标题": "✨+>&&</a",
+                "跳转播放链接": "var vid=*\";var now=\"&&\"",
+	            "简介": "sketch hidden-sm hidden-xs\">&&</span>",
+                "分类url": "https://zili-sh.com/djdq/{cateId}-{catePg}.html",
+                "分类": "短剧$djdq#重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8"
+            }
+        },	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 {
     "key": "cc_555电影2", 
     "name": "🔥┃555┃电影2", 
