@@ -16,7 +16,7 @@
     "quickSearch": 1, 
     "filterable": 1, 
     "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
+        "请求头": "User-Agent$PC_UA",
         "主页url": "https://www.555yy8.com/", 
         "数组": "<a&&</a>[不包含:555电影]", 
         "图片": "data-original=\"&&\"[替换:amp;>>空]", 
@@ -31,6 +31,7 @@
         "播放列表": "<a&&/a>", 
         "播放标题": ">&&</span>",         
         "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
         "简介": "line-height: 20px;\">&&</div>", 
         "分类": "擦边短剧$126#电视剧$2#电影$1#综艺$3#动漫$4#Netflix美剧$https://www.555yy8.com/label/netflix.html#福$124", 
         "分类url": "https://www.555yy8.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"     
