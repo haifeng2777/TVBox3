@@ -6,7 +6,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
 
     {
             "key": "csp_ 星光短剧",
@@ -50,18 +50,18 @@
 			"order_num": 0,
 			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
 		},	
-		
+	{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
 {
     "key": "cc_555电影2", 
     "name": "🔥┃555┃电影2", 
     "type": 3, 
     "api": "csp_XBPQ", 
-    "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+    //"jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
     "searchable": 1, 
     "quickSearch": 1, 
     "filterable": 1, 
     "ext": {
-        "请求头": "User-Agent$PC_UA#Referer$https://www.555yy8.com/",
+        "请求头": "User-Agent@Mozilla/5.0 (Linux；；Android 9；；M973Q Build/PQ3B.190801.10161630；；wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36",
         "主页url": "https://www.555yy8.com/", 
         "数组": "<a&&</a>[不包含:555电影]", 
         "图片": "data-original=\"&&\"[替换:amp;>>空]", 
@@ -73,7 +73,7 @@
         "搜索url": "https://www.shzqjfls.com/vodsearch/{wd}----------{Pg}---.html", 
         "线路数组": "data-dropdown-value=&&/div>", 
         "线路标题": "🌸+<span>&&</small>+🌸", 
-        //"播放列表": "<a&&/a>", 
+        "播放列表": "<a&&/a>", 
         "播放标题": ">&&</span>",         
         "跳转播放链接": "var player=*\"url\":\"&&\"",
         "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
