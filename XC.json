@@ -51,7 +51,44 @@
 			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
 		},	
 	{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
-{
+
+	{
+    "key": "cc_开心影院|", 
+    "name": "🔥┃开心┃影院|", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 1, 
+    "ext": {
+            "请求头": "User-Agent$MOBILE_UA#Referer$https://jx56.org/",
+        "主页url": "https://jx56.org/vtype/1.html", 
+        "数组": "stui-vodlist__thumb img-shadow&&</p>", 
+        "图片": "src=\"&&\"", 
+        "标题": "title=\"&&\"", 
+        "链接": "href=\"&&\"", 
+        "副标题": "pic-text text-right\">&&</span>", 
+        "搜索模式": "1", 
+        "嗅探词": ".m3u8#index.m3u8#tos-#.mp4", 
+        "搜索url": "https://jx56.org/vodsearch/{wd}----------{Pg}---.html", 
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>", 
+        "线路标题": "🌸+title\">&&</h3>+🌸", 
+        "播放数组": "stui-content__playlist column10 clearfix\">&&</ul>",
+        "播放链接": "href='&&'", 
+        "播放标题": ">&&</a>",         
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "desc detail hidden-xs\">&&</p>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类": "短视频$36#电视剧$2#电影$1#综艺$3#动漫$4#国产剧$13#港台剧$14", 
+        "分类url": "https://jx56.org/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"     
+    }
+},
+	
+	
+	
+	
+	
+	{
     "key": "cc_555电影2", 
     "name": "🔥┃555┃电影2", 
     "type": 3, 
