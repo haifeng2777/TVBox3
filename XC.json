@@ -6,6 +6,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
+{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 
     {
             "key": "csp_ 星光短剧",
@@ -26,7 +27,7 @@
                 "跳转播放链接": "var vid=*\";var now=\"&&\"",
 	            "简介": "sketch hidden-sm hidden-xs\">&&</span>",
                 "分类url": "https://zili-sh.com/djdq/{cateId}-{catePg}.html",
-                "分类": "短剧$djdq#重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8"
+                "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8"
             }
         },	
 	
@@ -38,17 +39,29 @@
 	
 	
 	
-	
+		{
+			"key": "hipy_js_瓜子影视",
+			"name": "瓜子影视",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+		},	
+		
 {
     "key": "cc_555电影2", 
     "name": "🔥┃555┃电影2", 
     "type": 3, 
     "api": "csp_XBPQ", 
+    "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
     "searchable": 1, 
     "quickSearch": 1, 
     "filterable": 1, 
     "ext": {
-        "请求头": "User-Agent$PC_UA",
+        "请求头": "User-Agent$PC_UA#Referer$https://www.555yy8.com/",
         "主页url": "https://www.555yy8.com/", 
         "数组": "<a&&</a>[不包含:555电影]", 
         "图片": "data-original=\"&&\"[替换:amp;>>空]", 
@@ -60,7 +73,7 @@
         "搜索url": "https://www.shzqjfls.com/vodsearch/{wd}----------{Pg}---.html", 
         "线路数组": "data-dropdown-value=&&/div>", 
         "线路标题": "🌸+<span>&&</small>+🌸", 
-        "播放列表": "<a&&/a>", 
+        //"播放列表": "<a&&/a>", 
         "播放标题": ">&&</span>",         
         "跳转播放链接": "var player=*\"url\":\"&&\"",
         "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
@@ -129,18 +142,7 @@
             "type": 3,
             "api": "https://3027.kstore.space/py/DJ%E8%88%9E%E6%9B%B21.py"       
         },	
-		{
-			"key": "hipy_js_瓜子影视",
-			"name": "瓜子影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
-		},	
-	
+
 	
 	{
     "key": "cc_独播库", 
@@ -936,7 +938,7 @@
         "分类url": "https://www.hongguoguo.tv/vod/show/id/{cateId}/page/{catePg}.html;;d0"
     }
 },
-{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
 
     {
             "key": "csp_biubiu_酷云影院",
