@@ -50,7 +50,7 @@
 			"order_num": 0,
 			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
 		},	
-	{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
+	{"key":"csp_Gz11360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
 
 	{
     "key": "cc_开心影院|", 
@@ -84,39 +84,39 @@
     }
 },
 {
-    "key": "cc_七味网", 
-    "name": "🔥┃七味网┃电影", 
-    "type": 3, 
-    "api": "csp_XBPQ", 
-    "searchable": 1, 
-    "quickSearch": 1, 
-    "filterable": 1, 
-    "ext": {
-        "发布地址": "https://www.qn63.com/",
-        "主页url": "https://www.qwmp4.com/", 
-        "数组": "li-img\">&&</div>", 
-        "图片": "src=\"&&\"", 
-        "标题": "title=\"&&\"", 
-        "链接": "href=\"&&\"", 
-        "副标题": ">&&</span>", 
-        "搜索模式": "1", 
-        "嗅探词": ".m3u8#index.m3u8#tos-#.mp4", 
-        //"搜索url": "https://www.qwnull.com/vs/{wd}----------{Pg}---.html", 
-        "线路二次截取": "<ul class=\"py-tabs\">&&</ul>",
-        "线路数组": "<li&&</li>", 
-        "线路标题": ">&&<div", 
-        "播放数组": "<ul class=\"player&&</ul>",
-        "播放列表": "<li>&&</li>", 
-        "播放标题": ">&&</a>",         
-        "简介": "请勿相信影片中的广告，以免上当受骗。+sqjj_a\" style=\"display: none;\">&&</p>", 
-        "分类": "短剧$30#电影$1#电视剧$2#综艺$3#动漫$4", 
-        "剧情": "古装&复仇&强者&悬疑&甜宠&神豪&穿越&虐恋&逆袭&重生&萌宝||科幻&动作&喜剧&爱情&冒险&儿童&歌舞&音乐&奇幻&动画&恐怖&惊悚&丧尸&战争&传记&纪录&犯罪&悬疑&西部&灾难&古装&武侠&家庭&短片&校园&文艺&运动&青春&同性&励志&人性&美食&女性&治愈&历史||科幻&动作&喜剧&爱情&冒险&儿童&歌舞&音乐&奇幻&动画&恐怖&惊悚&丧尸&战争&传记&纪录&犯罪&悬疑&西部&灾难&古装&武侠&家庭&短片&校园&文艺&运动&青春&同性&励志&人性&美食&女性&治愈&历史||*||*||*",
-        "剧情值":"*",
-        "分类url": "https://www.qwmp4.com/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
-        "跳转播放链接": "var player=*\"url\":\"&&\""
-    }
-},	
-	
+        "key": "cc_七味网", 
+        "name": "🔥┃七味网┃电影", 
+        "type": 3, 
+        "api": "csp_XBPQ", 
+        "searchable": 1, 
+        "quickSearch": 1, 
+        "filterable": 1, 
+        "ext": {
+                "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64: x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+                "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64: x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36#Referer$https://www.qnmp4.com", 
+                "发布地址": "https://www.qn63.com/", 
+                "主页url": "https://www.qwmp4.com/", 
+                "数组": "li-img\">&&</div>", 
+                "图片": "src=\"&&\"", 
+                "标题": "title=\"&&\"", 
+                "链接": "href=\"&&\"", 
+                "副标题": ">&&</span>", 
+                "搜索模式": "1", 
+                "嗅探词": ".m3u8#index.m3u8#tos-#.mp4", 
+                "线路二次截取": "<ul class=\"py-tabs\">&&</ul>", 
+                "线路数组": "<li&&</li>", 
+                "线路标题": ">&&<div", 
+                "播放数组": "<ul class=\"player&&</ul>", 
+                "播放列表": "<li>&&</li>", 
+                "播放标题": ">&&</a>", 
+                "简介": "请勿相信影片中的广告，以免上当受骗。+sqjj_a\" style=\"display: none;\">&&</p>", 
+                "分类": "短剧$30#电影$1#电视剧$2#综艺$3#动漫$4", 
+                "剧情": "古装&复仇&强者&悬疑&甜宠&神豪&穿越&虐恋&逆袭&重生&萌宝||科幻&动作&喜剧&爱情&冒险&儿童&歌舞&音乐&奇幻&动画&恐怖&惊悚&丧尸&战争&传记&纪录&犯罪&悬疑&西部&灾难&古装&武侠&家庭&短片&校园&文艺&运动&青春&同性&励志&人性&美食&女性&治愈&历史||科幻&动作&喜剧&爱情&冒险&儿童&歌舞&音乐&奇幻&动画&恐怖&惊悚&丧尸&战争&传记&纪录&犯罪&悬疑&西部&灾难&古装&武侠&家庭&短片&校园&文艺&运动&青春&同性&励志&人性&美食&女性&治愈&历史||*||*||*", 
+                "剧情值": "*", 
+                "分类url": "https://www.qwmp4.com/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+                "跳转播放链接": "var player=*\"url\":\"&&\""
+        }
+},
 	
 	
 	
