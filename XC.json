@@ -49,22 +49,39 @@
     },	
 	
 	
-			{
-			"key": "hipy_js_瓜子影视1",
-			"name": "瓜子影视1",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
-		},
+
 	
-	
+	{
+      "key": "XBPQ_瓜子影视", 
+      "name": "💖瓜子影视", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            //"请求头": "User-Agent$MOBILE_UA#Referer$https://www.gzxiongna.com/", 
+            "编码": "UTF-8", 
+            "主页url": "https://www.gzxiongna.com/", 
+            "数组": "<a&&</a>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "name\">&&</p>", 
+            "链接": "href=\"&&\"", 
+            "副标题": "c-hDImTG 79f28&&</div>", 
+            "线路数组": "hl-tabs-btn&&</a>", 
+            "线路标题": ">&&</a>", 
+            "播放数组": "hl-plays-list hl-sort-list hl-plays-more clearfi&&</ul>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var player=*\"url\":\"&&\"",
+            "导演":"导演:&&</p>",    
+            "主演":"主演:&&</p>",
+            "简介": "bottom-detail\">&&</p>",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://www.gzxiongna.com/Ngv4hSN/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+            "分类": "短剧$44#电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+},
 		{
 			"key": "hipy_js_瓜子影视2",
-			"name": "瓜子影视2",
+			"name": "瓜子影视",
 			"type": 3,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 			"searchable": 1,
@@ -1802,19 +1819,21 @@
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "简介": "bookintro\">&&</section>",
-	            "数组": "<a&&</a>",
-	            "图片": "data-original=\"&&\"",
-	            "标题": ">&&</h4>",
-                "播放数组": "class=\"press\"&&</ul>",
+                "简介": "内容介绍：&&</p>",
+                "导演":"作者：+作者：&&</a>",    
+                "主演":"播音：+播音：&&</a>",
+	            "数组": "style-img clearfix\">&&</div>",
+	            "图片": "src=\"&&\"",
+	            "标题": "alt=\"&&\"",
+                "播放数组": "ul-36 clearfix\">&&</ul>",
                 //"播放列表": "<li>&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
-                "分类": "玄幻武侠$xuanhuan#恐怖悬疑$kongbu#都市言情$dushi#爽文$shuangwen#异能$chaoneng#谍战$diezhan#法医$fayi#官场$guanchang#职场商战$shangzhan#女频$nvpin#军事历史$junshi#刑侦推理$xingzhen#职场商战$shangzhan#网游竞技$wangyou#",
-                "分类url": "https://www.ting27.com/{cateId}/{catePg}.html"
+                "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
+                "分类": "玄幻$221#言情$222#都市$223#恐怖$224#惊悚$225#推理$226#武侠$227#历史$228#军事$229#穿越$2210#科幻$2211#网游$2212#评书$2213#戏曲$2214#笑话$2215#儿童$2216#财经$2217#广播$2218#诗歌$2219#文学$2220#粤语$2221#经典$2222#相声小品$2223#百家讲坛$2224",
+                "分类url": "https://22ting.com/html/{cateId}-{catePg}.html"
             }
         },
-
 
     {
       "key": "评书@",
