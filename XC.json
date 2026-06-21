@@ -30,7 +30,93 @@
                 "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8"
             }
         },	
-	
+	{
+      "key": "XBPQ_短剧网", 
+      "name": "💖985短剧网", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            "请求头": "User-Agent$Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36#Referer$https://www.985djw.com/", 
+            "编码": "UTF-8", 
+            "主页url": "https://www.985djw.com/", 
+            "数组": "stui-vodlist__item\">&&</li>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "title=\"&&\"", 
+            "链接": "href=\"&&\"", 
+            "副标题": "pic-text text-right\">&&</span>", 
+            "线路数组": "stui-pannel__head clearfix\">&&</div>[不包含:全集高清正版视频在线观看]", 
+            "线路标题": ">&&</span>", 
+            "播放数组": "stui-content__playlist clearfix\">&&</ul>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var player=*\"url\":\"&&\"",
+            "导演":"导演:&&</p>",    
+            "主演":"主演:&&</p>",
+            "简介": "bottom-detail\">&&</p>",
+            "搜索url":"https://www.985djw.com/vodsearch/{wd}----------{Pg}---/",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://www.985djw.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}/", 
+            "分类": "抖音短剧$douyinduanju#热门电影$dianying#电视剧$dianshiju#动漫$dongman#综艺节目$zongyijiemu#韩剧$hanju#体育赛事$tiyusaishi",
+    "剧情": "穿越&都市&古装&悬疑||动作&喜剧&爱情&科幻&恐怖&剧情&战争&家庭&奇幻&魔幻&冒险&歌舞&院线&悬疑&惊悚&犯罪&警匪&枪战&网络电影&古装&灾难&传记&华语&纪实&青春&历史||空||空||空||空||空||空",
+        "剧情值": "*"
+   }  
+    },
+{
+      "key": "XBPQ_天天影视", 
+      "name": "💖天天影视", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            "请求头": "User-Agent@Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.3#Referer$https://www.manual-sex.com/", 
+            "编码": "UTF-8", 
+            "主页url": "https://www.fsjynt.com/", 
+            "简介":"data hidden-xs\">&&</p>",
+            "数组": "myui-vodlist__box\">&&</div>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "title=\"&&\"", 
+            "链接": "href=\"&&\"", 
+            "副标题": "pic-text text-right\">&&</span>", 
+            "线路数组": "#playlist&&</a>", 
+            "线路标题": ">&&</a>", 
+            "播放数组": "myui-content__list sort-list clearfix&&</ul>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var player_aaaa=*\"url\":\"&&\"",
+            "导演":"导演：&&</p>",    
+            "主演":"主演：&&</p>",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://www.fsjynt.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+            "分类": "短剧$36#电影$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#电视剧$2#国产剧$13#香港剧$14#台湾剧$20#欧美剧$16#韩国剧$15#日本剧$21#泰国剧$34#其它剧$22#动漫$4#大陆动漫$34#综艺$3#爽文短剧$37#女频恋爱$38#反转爽剧$39#古装仙侠$40#年代穿越$41#脑洞悬疑$42#现代都市$43"
+      }
+},
+{
+      "key": "XBPQ_88影视网", 
+      "name": "💖88影视", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            "请求头": "User-Agent@Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.3#Referer$https://www.manual-sex.com/", 
+            "编码": "UTF-8", 
+            "主页url": "https://www.88ystv.com/", 
+            "简介":"剧情简介:&&</div>",
+            "数组": "p1 m1\">&&</p>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "name\">&&</p>", 
+            "链接": "href=\"&&\"", 
+            "副标题": "other\">&&</p>", 
+            //"线路数组": "tab-down mb clearfix\">&&</div>", 
+            "线路标题": "</i>&&/li>[不包含:APP下载#历史记录]", 
+            "播放数组": "id=\"vlink&&</div>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var mac_flag=*',mac_url=unescape('&&')",
+            "导演":"导演：&&</dd>",    
+            "主演":"主演：&&</dd>",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://www.88ystv.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html", 
+            "分类": "电影$1#电视剧$2#动漫$4#综艺$3#其他剧$29"
+      }
+},
 	
 	
     {
@@ -1809,7 +1895,6 @@
 				"分类": "传统相声全集$xsmj#郭德纲全部$gdg#德云社$dys#相声新势$xsxsl#青曲社相声$qqs#马三立$msl#郭德纲单口$gdg-dk#郭德纲于谦$gdg-yq#郭德纲张文顺$gdg-zws#郭德纲李菁$gdg-lj#郭德纲徐德亮$gdg-xdl#郭德纲何云伟$gdg-hyw#郭德纲曹云金$gdg-cyj#郭德纲王玥波$gdg-wyb#郭德纲王文林$gdg-wwl"
       }
     },
-
         {
             "key": "m.huanting",
             "name": "📚一夜｜听书",
@@ -1826,14 +1911,15 @@
 	            "图片": "src=\"&&\"",
 	            "标题": "alt=\"&&\"",
                 "播放数组": "ul-36 clearfix\">&&</ul>",
-                //"播放列表": "<li>&&</li>",
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var vid=\"*\";var now=\"&&\"",
                 "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
                 "分类": "玄幻$221#言情$222#都市$223#恐怖$224#惊悚$225#推理$226#武侠$227#历史$228#军事$229#穿越$2210#科幻$2211#网游$2212#评书$2213#戏曲$2214#笑话$2215#儿童$2216#财经$2217#广播$2218#诗歌$2219#文学$2220#粤语$2221#经典$2222#相声小品$2223#百家讲坛$2224",
                 "分类url": "https://22ting.com/html/{cateId}-{catePg}.html"
             }
         },
+
 
     {
       "key": "评书@",
@@ -1873,40 +1959,7 @@
 
 
 
-   {
-      "key": "XBPQ_有听网",
-      "name": "🌐有听┃网🌐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://m.ting15.com/",
-        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 9; M973Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
-        "编码": "UTF-8",
-        "图片代理":"1",
-        "简介": "intro\">&&</div>",
-        "链接前缀":"https://m.ting15.com",
-        "链接": "href=\"&&\"",
-        "数组": "<a&&</a>",
-        "标题": "alt=\"&&\"",        
-        "副标题": "播音:+<p>播音：&&</p>",
-        "图片": "<img src=\"&&\"",        
-        "导演":"作者:+<p>作者：&&</p>",    
-        "主演":"播音:+<p>播音：&&</p>",
-        "线路数组": "playlist\">&&</div>",
-        "线路标题": "<h2>&&<h2>", 
-        "播放数组": "class=\"plist\">&&</div>",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#voice/getvoice?mediaid=",
-        "搜索url":"https://m.ting15.com/?s=ting-search-wd-{wd}-p-{pg}.html",
-        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;d0",
-        "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
-      }
-    },
+
     {
       "key": "天微世界听书",
       "name": "📚世界🔹听书",
@@ -2027,13 +2080,43 @@
         "分类url": "http://m.ychy.org/list/{cateId}-{catePg}.html;;ak"
       }
     },
-
-
-
-{"key":"斗鱼","name":"🐟斗鱼直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+   {
+      "key": "XBPQ_有听网",
+      "name": "🌐有听网┃收费🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.ting15.com/",
+        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 9; M973Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
+        "编码": "UTF-8",
+        "图片代理":"1",
+        "简介": "intro\">&&</div>",
+        "链接前缀":"https://m.ting15.com",
+        "链接": "href=\"&&\"",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+<p>播音：&&</p>",
+        "图片": "<img src=\"&&\"",        
+        "导演":"作者:+<p>作者：&&</p>",    
+        "主演":"播音:+<p>播音：&&</p>",
+        "线路数组": "playlist\">&&</div>",
+        "线路标题": "<h2>&&<h2>", 
+        "播放数组": "class=\"plist\">&&</div>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#voice/getvoice?mediaid=",
+        "搜索url":"https://m.ting15.com/?s=ting-search-wd-{wd}-p-{pg}.html",
+        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;d0",
+        "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
+      }
+    },
 {"key":"有声小说吧","name":"📚有声小说吧","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"},
 
-
+{"key":"斗鱼","name":"🐟斗鱼直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json","cookie":""}}
 ],
@@ -2109,8 +2192,24 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "综合直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
 
-	    {
+
+	{
       "name": "D佬体育",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
@@ -2246,14 +2345,37 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-
     {
-      "name": "平台直播",
+      "name": "虎牙一起看",
       "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "playerType": 2
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
     }
 	],
 
