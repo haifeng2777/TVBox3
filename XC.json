@@ -30,6 +30,67 @@
                 "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8"
             }
         },	
+
+	{
+      "key": "XBPQ_城市电影网", 
+      "name": "💖城市电影", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            //"请求头": "User-Agent$MOBILE_UA#Referer$https://m.icsip.net/", 
+            "编码": "UTF-8", 
+            "主页url": "https://m.icsip.net/", 
+            "简介":"data hidden-xs\">&&</p>",
+            "数组": "myui-vodlist__box\">&&</p>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"", 
+            "副标题": "pic-text text-right\">&&</span>", 
+            "线路数组": "#playlist&&</a>", 
+            "线路标题": ">&&/span>", 
+            "播放数组": "myui-content__list sort-list clearfix&&</ul>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var player_aaaa=*\"url\":\"&&\"",
+            "导演":"导演：&&</p>",    
+            "主演":"主演：&&</p>",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://m.icsip.net/csshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+            "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#网络短剧$wangluoduanju"
+      }
+},
+
+{
+      "key": "XBPQ_战狼影院", 
+      "name": "💖战狼影院", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "ext": {
+            "请求头": "User-Agent$MOBILE_UA#Referer$https://www.ynzbqy.com/", 
+            "编码": "UTF-8", 
+            "主页url": "https://www.ynzbqy.com/", 
+            "简介":"detail col-pd\">&&</div>",
+            "数组": "<a&&</p>", 
+            "图片": "data-original=\"&&\"", 
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"", 
+            "副标题": "pic-text text-right\">&&</span>", 
+            "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>", 
+            "线路标题": ">&&/h3>", 
+            "播放数组": "stui-content__playlist clearfix&&</ul>",  
+            "播放标题": ">&&</a>", 
+            "播放链接": "href=\"&&\"", 
+            "跳转播放链接": "var player_aaaa=*\"url\":\"&&\"",
+            "导演":"导演：&&</p>",    
+            "主演":"主演：&&</p>",
+            "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts", 
+            "分类url": "https://www.ynzbqy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+            "分类": "短剧$36#电影$1#电视剧$2#动漫$4#综艺$3#动画片$35#女频恋爱$37#反转爽剧$38#年代穿越$39#脑洞悬疑$40#现代都市$41#古装仙侠$42#热血剧情$43"
+      }
+},
+
+
+
 	{
       "key": "XBPQ_短剧网", 
       "name": "💖985短剧网", 
