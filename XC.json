@@ -7,7 +7,131 @@
 
 	"sites":[
 
-
+    {
+      "key": " 哔嘀影视",
+      "name": " 哔嘀影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "主页url": "https://www.wxdr99.com/",
+    //"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "简介": "detail col-pd\">&&</div>",
+    "数组": "stui-vodlist__thumb lazyload&&</div>",
+    "标题": "title=\"&&\"",
+    "副标题": "pic-text text-right\">&&</span>",
+    "图片": "data-original=\"&&\"",
+    "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+    "播放数组": "stui-content__playlist clearfix\">&&</ul",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "分类url": "https://www.wxdr99.com/wxdtp/{cateId}-{catePg}.html",
+    "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
+    },
+         {
+            "key": "一起看",
+            "name": "🐰一起看",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+    "主页url": "https://www.zunboli.com/",
+    "数组": "part-2by3&&</li",
+    "嗅探词": ".m3u8#.mp4",
+    "图片": "data-original=\"&&\"",
+    "标题": "html\">&&</a",
+    "副标题": "✨+text-center\">&&</span>",
+    "链接": "href=\"&&\"",
+    "简介": "✨指间的黑客为您介绍剧情✨-+qqmt5-matp-v\">&&</div>",
+    "线路二次截取": "<dt class=\"tabt3\">&&</dt><dd",
+    "线路数组": "<span&&</span>",
+    "线路标题": "✨+png\">&&<+【共+5px; \">&&</+】",
+    "播放链接": "href=\"&&\"",
+    "播放标题": "✨+title=\"&&\"",
+    "倒序": "1",
+    "跳转播放链接": "var vid=*\";var now=\"&&\"",
+    "搜索url": "https://v.zrxgnxddxw.com/search.php?page={pg}&searchword={wd}&searchtype=",
+    "分类": "电影$1#电视剧$2#动漫$4#短剧$30#抖音短剧$43#快手短剧$44#综艺$3",
+    "分类url": "https://www.zunboli.com/ddlt/{cateId}-{catePg}.html",
+    "排序": "时间&人气&评分",
+    "排序值": "time&hits&score"
+            }
+        },	
+    {
+      "key": "红果短剧",
+      "name": "🌸红果☪短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.hongguodj1.cc/",
+        "请求头": "User-Agent$手机",
+        "编码": "UTF-8",
+        "直接播放": "0",
+        "数组": "<a&&</a>",
+        "标题":"alt=\"&&\"",
+        "副标题":"continu\">&&</span>",
+        "图片":"data-src=\"&&\"",
+        "线路数组":".p-list&&</a>[不包含:爱奇艺]",
+        "线路标题": ">&&</a>",
+        "播放标题":"\">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "倒序": "0",
+        "跳转播放链接": "data-jiexi=\"&&\"+data-play=\"&&\"",
+        "搜索url": "https://www.hongguodj1.cc/vod/search/wd/{wd}.html",
+        "分类": "短剧大全$duanjudaquan#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi#闪婚离婚$shanhunlihun",
+        "分类url": "https://www.hongguodj1.cc/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },	
+    {
+      "key": "VS影视",
+      "name": "🍩VS影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "图片代理": "0",
+        "主页url": "https://t.xy-zg.com",
+        "分类url": "https://t.xy-zg.com/type/{cateId}-{catePg}.html;;mrc",
+        "分类": "电影&剧集&综艺&动漫&短剧",
+        "分类值": "1&2&3&4&25",
+        "数组": "videopic lazy\"&&</a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "note textbg\">&&<",
+        "链接": "href=\"&&\"",
+        "导演": "导演：&&</li>",
+        "主演": "主演：&&</li>",
+        "简介": "【请不要相信视频中的广告，以免上当受骗！】+<div class=\"plot\">&&</div>",
+        "线路数组": "\\#playlist\"&&</a>",
+        "线路标题": "title=\"&&\"",
+        "播放数组": "<ul class=\"playlistlink&&</ul>",
+        "播放列表": "<a&&/a>",
+        "播放标题": "title=\"&&\"",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".mp4#.m3u8",
+        "跳转播放链接": "var now=\"&&\"",
+        "搜索请求头": "User-Agent$MOBILE_UA",
+        "搜索url": "https://t.xy-zg.com/search.php?page={pg}&searchword={wd}&searchtype=",
+        "搜索模式": "1",
+        "搜索数组": "videopic\"&&</h3>",
+        "搜索标题": "<a*>&&</a",
+        "搜索图片": "background: url(&&)",
+        "搜索副标题": "note textbg\">&&<",
+        "搜索链接": "href=\"&&\""
+      }
+    },	
+	
+	
+	
+	
+	
     {
             "key": "csp_ 星光短剧",
             "name": "❤️星光┃短剧",
@@ -179,21 +303,7 @@
       }
 },
 	
-	
-    {
-      "key": "csp_GuaZi",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "sites": "",
-        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
-      },
-      "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-    },	
+
 	
 	
 
@@ -237,7 +347,7 @@
 			"order_num": 0,
 			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
 		},	
-	{"key":"csp_Gz11360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
+	
 
 	{
     "key": "cc_开心影院|", 
@@ -1189,7 +1299,7 @@
         "线路数组": "swiper-slide on swiper-slide-active&&</a>",
         "播放标题": ">&&</div", 
         "播放链接": "href=\"&&\"",
-        "嗅探词": "index.m3u8#.m3u8#.mp4",
+        "嗅探词": "index.m3u8#.m3u8#.mp4#.ts",
         "跳转播放链接": "var player=*\"url\":\"&&\"",
         "分类": "精选短剧$jingxuanduanju#穿越短剧$chuanyueduanju#古装短剧$guzhuangduanju#逆袭短剧$nixiduanju#都市短剧$dushiduanju", 
         "分类url": "https://www.hongguoguo.tv/vod/show/id/{cateId}/page/{catePg}.html;;d0"
@@ -1264,61 +1374,8 @@
 },
          
 
-    {
-      "key": " 哔嘀影视",
-      "name": " 哔嘀影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-    "主页url": "https://www.wxdr99.com/",
-    //"请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "简介": "detail col-pd\">&&</div>",
-    "数组": "stui-vodlist__thumb lazyload&&</div>",
-    "标题": "title=\"&&\"",
-    "副标题": "pic-text text-right\">&&</span>",
-    "图片": "data-original=\"&&\"",
-    "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-    "播放数组": "stui-content__playlist clearfix\">&&</ul",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
-    "分类url": "https://www.wxdr99.com/wxdtp/{cateId}-{catePg}.html",
-    "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
-    },			 
-		 	 
-         {
-            "key": "一起看",
-            "name": "🐰一起看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-    "主页url": "https://www.zunboli.com/",
-    "数组": "part-2by3&&</li",
-    "嗅探词": ".m3u8#.mp4",
-    "图片": "data-original=\"&&\"",
-    "标题": "html\">&&</a",
-    "副标题": "✨+text-center\">&&</span>",
-    "链接": "href=\"&&\"",
-    "简介": "✨指间的黑客为您介绍剧情✨-+qqmt5-matp-v\">&&</div>",
-    "线路二次截取": "<dt class=\"tabt3\">&&</dt><dd",
-    "线路数组": "<span&&</span>",
-    "线路标题": "✨+png\">&&<+【共+5px; \">&&</+】",
-    "播放链接": "href=\"&&\"",
-    "播放标题": "✨+title=\"&&\"",
-    "倒序": "1",
-    "搜索url": "https://v.zrxgnxddxw.com/search.php?page={pg}&searchword={wd}&searchtype=",
-    "分类": "电影$1#电视剧$2#动漫$4#短剧$30#抖音短剧$43#快手短剧$44#综艺$3",
-    "分类url": "https://www.zunboli.com/ddlt/{cateId}-{catePg}.html",
-    "排序": "时间&人气&评分",
-    "排序值": "time&hits&score"
-            }
-        },
-	
-	
+			 
+		 	 	
     {
       "key": "AGE动漫",
       "name": "🌸AGE☪动漫",
@@ -1357,30 +1414,7 @@
 
 
 
-    {
-      "key": "红果短剧",
-      "name": "🌸红果☪短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.hongguodj1.cc/",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "直接播放": "0",
-        "数组": "<a&&</a>",
-        "标题":"alt=\"&&\"",
-        "副标题":"continu\">&&</span>",
-        "图片":"data-src=\"&&\"",
-        "线路数组":".p-list&&</a>",
-        "线路标题": ">&&</a>",
-        "播放标题":"\">&&</a>",
-        "播放链接": "href=\"&&\"",
-        "倒序": "0",
-        "搜索url": "https://www.hongguodj1.cc/vod/search/wd/{wd}.html",
-        "分类": "短剧大全$duanjudaquan#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi#闪婚离婚$shanhunlihun",
-        "分类url": "https://www.hongguodj1.cc/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
+
 
 
 
@@ -2253,6 +2287,17 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "体育",
+      "type": 0,
+      "url": "https://0701.tv1288.xyz/",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
     {
       "name": "develop202",
       "type": 0,
