@@ -80,6 +80,7 @@
         "播放链接": "href=\"&&\"",
         "倒序": "0",
         "跳转播放链接": "data-jiexi=\"&&\"+data-play=\"&&\"",
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
         "搜索url": "https://www.hongguodj1.cc/vod/search/wd/{wd}.html",
         "分类": "短剧大全$duanjudaquan#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi#闪婚离婚$shanhunlihun",
         "分类url": "https://www.hongguodj1.cc/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
