@@ -67,7 +67,7 @@
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://www.hongguodj1.cc/",
-        "请求头": "User-Agent$手机",
+        "请求头": "User-Agent$手机#Referer$https://www.hongguodj1.cc",
         "编码": "UTF-8",
         "直接播放": "0",
         "数组": "<a&&</a>",
@@ -86,6 +86,34 @@
         "分类url": "https://www.hongguodj1.cc/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },	
+        {
+            "key": "✨红果短剧2✨",
+            "name": "✨红果短剧2✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+    "请求头": "User-Agent$okhttp/3.15",
+    "编码": "UTF-8",
+    "主页url": "https://bjahy.com/",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "✨+pic-text text-right\">&&</span>",
+    "线路数组": "#down1&&</a>",
+    "线路标题": "tab\">&&</a>",
+    "播放数组": "stui-content__playlist clearfix&&</ul>",
+    "播放标题": "✨+>&&</a>",
+    "跳转播放链接": "var vid=*\";var now=\"&&\"",
+    "简介": "✨为您介绍剧情✨+简介：&&</p>",
+    "搜索url": "https://bjahy.com/search.php?searchword={wd}",
+    "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
+    "分类url": "https://bjahy.com/hg/{cateId}-{catePg}.html"
+}},
+
     {
       "key": "VS影视",
       "name": "🍩VS影视",
