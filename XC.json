@@ -2,7 +2,7 @@
 
 
 {
-	"spider": "https://gh-proxy.com/raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	"spider": "https://gh-proxy.com/raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/2607Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
@@ -418,17 +418,17 @@
             "分类": "短剧$44#电影$1#电视剧$2#动漫$4#综艺$3"
       }
 },
-		{
-			"key": "hipy_js_瓜子影视2",
-			"name": "瓜子影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://3027.kstore.space/drpy_js/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
-		},	
+    {
+      "key": "csp_GuaZi",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_GuaZi",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
+    },
 	
 
 	{
