@@ -3,9 +3,37 @@
 
 {
 	"spider": "https://gh-proxy.com/raw.githubusercontent.com/haifeng2777/TVBox3/refs/heads/main/jar/2607Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+
+  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
+
+
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
+    {
+      "key": "tudouGuazi",
+      "name": "tudou瓜子",
+      "type": 3,
+      "api": "csp_Guazi",
+      "jar": "https://d.kstore.dev/download/6741/cs/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
+      "searchable": 1
+    },
+    {
+      "key": "ChangZhang",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "csp_ChangZhang",
+      "jar": "https://d.kstore.dev/download/6741/cs/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": {
+        "site": [
+          "https://www.4kcz.com/"
+        ]
+      }
+    },
+
+
 
     {
       "key": " 哔嘀影视",
@@ -2087,7 +2115,25 @@
 
 
 
-
+    {
+      "name": "🎉Bili|合集",
+      "key": "BiliHeji",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "jar": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png;md5;d02f7cfdf1e595ddd24a5d11b813ed83",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "home": "1",
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-k6DvN2PqNEVLhPeiigkmji.gz",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
     {
       "key": "相声大全",
       "name": "📻相声大全┃BPQ",
@@ -2122,7 +2168,30 @@
 				"分类": "传统相声全集$xsmj#郭德纲全部$gdg#德云社$dys#相声新势$xsxsl#青曲社相声$qqs#马三立$msl#郭德纲单口$gdg-dk#郭德纲于谦$gdg-yq#郭德纲张文顺$gdg-zws#郭德纲李菁$gdg-lj#郭德纲徐德亮$gdg-xdl#郭德纲何云伟$gdg-hyw#郭德纲曹云金$gdg-cyj#郭德纲王玥波$gdg-wyb#郭德纲王文林$gdg-wwl"
       }
     },
-        {
+
+
+    {
+      "name": "📖听书|富强",
+      "key": "TStzg",
+      "type": 3,
+      "api": "csp_TStyAmns",
+      "jar": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png;md5;d02f7cfdf1e595ddd24a5d11b813ed83",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "📖听书|文明",
+      "key": "app.365ting.com",
+      "type": 3,
+      "api": "csp_TStzgAmns",
+      "jar": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png;md5;d02f7cfdf1e595ddd24a5d11b813ed83",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+
+	{
             "key": "m.huanting",
             "name": "📚一夜｜听书",
             "type": 3,
