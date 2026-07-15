@@ -2168,7 +2168,101 @@
 				"分类": "传统相声全集$xsmj#郭德纲全部$gdg#德云社$dys#相声新势$xsxsl#青曲社相声$qqs#马三立$msl#郭德纲单口$gdg-dk#郭德纲于谦$gdg-yq#郭德纲张文顺$gdg-zws#郭德纲李菁$gdg-lj#郭德纲徐德亮$gdg-xdl#郭德纲何云伟$gdg-hyw#郭德纲曹云金$gdg-cyj#郭德纲王玥波$gdg-wyb#郭德纲王文林$gdg-wwl"
       }
     },
-
+    {
+      "key": "肥猫六月有声",
+      "name": "📻 ┇ 六月 ┇ 听书",
+      "type": 3,
+      "api": "csp_TingBook",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "肥猫堇夏有声",
+      "name": "🎙️ ┇ 堇夏 ┇ 听书",
+      "type": 3,
+      "api": "csp_TingBookJinXia",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "肥猫世界听书",
+      "name": "📖 ┇ 世界 ┇ 听书",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "style": {
+        "type": "list"
+      },
+      "filterable": 1
+    },
+    {
+      "key": "肥猫博看听书",
+      "name": "🗣️ ┇ 博看 ┇ 听书",
+      "type": 3,
+      "api": "csp_Bookan",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "filterable": 1
+    },
+    {
+      "key": "肥猫评书随身听",
+      "name": "📖 ┇ 评书 ┇ 听书",
+      "type": 3,
+      "api": "csp_Psmp3",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "filterable": 1
+    },
+    {
+      "key": "肥猫听友",
+      "name": "🗣️ ┇ 听友 ┇ 听书",
+      "type": 3,
+      "api": "csp_TingYou",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "肥猫悦听吧",
+      "name": "🎧 ┇ 悦听吧 ┇ 听书",
+      "type": 3,
+      "api": "csp_YueTingBa",
+      "jar": "https://backup.fukit.cn/autoupload/f/LGrv9XghipvytOKROwEtAtiO_OyvX7mIgxFBfDMDErs/20260714/fZbv/aidaox.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      }
+    },
 
     {
       "name": "📖听书|富强",
