@@ -15,7 +15,7 @@
       "name": "tudou瓜子",
       "type": 3,
       "api": "csp_Guazi",
-      "jar": "https://d.kstore.dev/download/6741/cs/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
+      "jar": "https://gh-proxy.org/https://github.com/haifeng2777/TVBox3/blob/main/jar/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
       "searchable": 1
     },
     {
@@ -23,7 +23,7 @@
       "name": "厂长影视",
       "type": 3,
       "api": "csp_ChangZhang",
-      "jar": "https://d.kstore.dev/download/6741/cs/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
+      "jar": "https://gh-proxy.org/https://github.com/haifeng2777/TVBox3/blob/main/jar/tudou20260706182843.jar;md5;8bb7f5ed8bd109aae5b3ecde8d7c399c",
       "searchable": 1,
       "filterable": 0,
       "ext": {
@@ -32,7 +32,33 @@
         ]
       }
     },
-
+    {
+      "key": "果果┃短剧",
+      "name": "💥果果┃短剧💥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/xbpq.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "简介": "✨+hl-col-xs-12 blurb\">&&</li>",
+        "数组": "hl-item-thumb hl-lazy&&</a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "hl-lc-1 remarks\">&&<",
+        "链接": "href=\"&&\"",
+        "播放数组": "clearfix\" id=\"hl-plays-list\">&&<div",
+        //"播放列表": "<a&&a>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "线路数组": "href=\"javascript:void(0);\"&&</a>",
+        "线路标题": "</i>&&</",
+        "分类": "短剧$Categoryduanju#电影$Categorydianying#电视剧$Categorydianshiju#动漫$Categorydongman",
+    "剧情": "重生民国&穿越年代&现代言情&反转爽文&女恋总裁&闪婚离婚&都市脑洞&古装仙侠||动作&喜剧&爱情&科幻&恐怖&剧情&战争&家庭&奇幻&魔幻&冒险&歌舞&院线&悬疑&惊悚&犯罪&警匪&枪战&网络电影&古装&灾难&传记&华语&纪实&青春&历史||古裝&战争&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&商战||科幻&热血&推理&搞笑&冒险&动作&少女&益智",
+        "剧情值": "*",
+        "分类url": "https://app.ggduanju.com/{cateId}-_{by}_{class}_____{catePg}___{year}.html"
+      }
+    },
 
 
     {
@@ -2108,7 +2134,7 @@
 {"name":"🍭豪堪短剧","key":"HHkk","type":3,"api":"csp_HHkkAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"name":"🛸盒马短剧","key":"Hema","type":3,"api":"csp_HemaAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"name":"🧸拜拜短剧","key":"Bddj","type":3,"api":"csp_BddjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
-{"name":"🎀围观短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
+
 {"name":"🐱喵喵短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
