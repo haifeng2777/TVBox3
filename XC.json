@@ -10,7 +10,12 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-
+    {
+      "key": "爱听音乐",
+      "name": "爱听 • 音乐",
+      "type": 3,
+      "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py"
+    },
     {
       "key": "ChangZhang",
       "name": "厂长影视",
@@ -52,7 +57,52 @@
         "分类url": "https://app.ggduanju.com/{cateId}-_{by}_{class}_____{catePg}___{year}.html"
       }
     },
-
+{
+        "key": "西瓜影视1", 
+        "name": "🦊西瓜┃XBPQ", 
+        "type": 3, 
+        "api": "csp_XBPQ", 
+        "ext": {
+                "请求头": "User-Agent$MOBILE_UA", 
+                "数组": "stui-vodlist__box\">&&/a>", 
+                "图片": "data-original=\"&&\"[替换:/img.php?url=>>https://www.xiguazx.cc/img.php?url=]", 
+                "标题": "title=\"&&\"", 
+                "副标题": "pic-text text-right\"><b>&&</b></span>", 
+                "简介": "desc detail\">&&</p>", 
+                "播放数组": "stui-content__playlist clearfix \">&&</ul>", 
+                "播放标题": ">&&</a>", 
+                "播放链接": "href=\"&&\"", 
+                "嗅探词": ".mp4?#.m3u8#.mp4#.flv#.mp3#.m4a", 
+                "跳转播放链接": "TX,QY,YK,BZ$https://jx.hls.one/?url=||https://hls.xiguadh.com/?url=+var player_aaaa=*\"url\":\"&&\"", 
+                "分类url": "https://www.xiguazx.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html", 
+                "分类": "电影$20#电视剧$37#动漫$43#综艺$45#B站番剧$48#B站国创$49#B站电影$50#B站电视剧$51#人人连续剧$61#人人电影$62#人人动漫$63#人人综艺$64#人人纪录片$66"
+        }
+},
+    {
+      "key": "南瓜影视",
+      "name": "🌸南瓜影视☪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.tgyaqiuji.com/",
+        "请求头": "User-Agent$MOBILE_UA",
+        "播放请求头": "User-Agent$手机",
+        "编码": "UTF-8",
+        "简介": "海风为您剧情+desc hidden-xs\">&&</p>",
+        "数组": "lazyload&&</a>",
+        "标题": "title\"&&\"",
+        "副标题": "module-item-note\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "线路数组": "bottom-line active clearfix\">&&</div>",
+        "线路标题": "/>&&</h3>",
+        "播放数组": "stui-content__playlist clearfix\">&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.tgyaqiuji.com/explore/id/{cateId}/page/{catePg}.html[https://www.tgyaqiuji.com/vodtype/7q{cateId}mw.html]",
+        "分类": "短剧$40#AI短剧$44#电影$1#剧集$2#动漫$4#综艺$3#国产剧$13#香港剧$14#欧美剧$16#日剧$21#韩剧$15#国漫$29#日漫$30"
+      }
+    },
 
     {
       "key": " 哔嘀影视",
@@ -2118,10 +2168,7 @@
 {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"},
 
 
-{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dm84.net"},
-{"key":"番薯","name":"💢番薯动漫","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"},
-{"key":"鸭梨","name":"💢鸭梨动漫（仅搜索）","type":3,"api":"csp_Qiji","ext":"7lj763gg402i7942452h85j1h153i28hl3g4i35hj98772225j4i54khl0195l03559i4kh8964kihji6348k580g5lk40h2g630710jh0kgj7g47kjj68gh6ilk4l18glg192g7g5237g64ii126k"},
-{"name":"☕韩剧","key":"Hxq","type":3,"api":"csp_HxqAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
+
 {"name":"🐲漫剧","key":"MjHggg","type":3,"api":"csp_HgggAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"comic_series","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"name":"😈短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"short_play","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
 {"name":"🍭豪堪短剧","key":"HHkk","type":3,"api":"csp_HHkkAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://zl.wpscdn.cn/2026/07/01/space_img/aeb15895-6d2c-4ced-a59b-deaa51366a05.png"},
@@ -2153,6 +2200,9 @@
         "ratio": 1.433
       }
     },
+
+
+	
     {
       "key": "相声大全",
       "name": "📻相声大全┃BPQ",
@@ -2204,10 +2254,10 @@
     },
     {
       "key": "肥堇夏有声",
-      "name": "🎙️ ┇ 堇夏 ┇ 听书",
+      "name": "🎙️堇夏[听书]",
       "type": 3,
       "api": "csp_TingBookJinXia",
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260729/57m4/fish07292038.jar",
+      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -2217,12 +2267,29 @@
         "type": "list"
       }
     },
+
     {
-      "key": "肥世界听书",
-      "name": "📖 ┇ 世界 ┇ 听书",
+      "key": "肥博看听书",
+      "name": "🗣️博看[听书]",
       "type": 3,
-      "api": "csp_TingShijie",
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260729/57m4/fish07292038.jar",
+      "api": "csp_Bookan",
+      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "filterable": 1
+    },
+    {
+      "key": "肥评书随身听",
+      "name": "📖评书[听书]",
+      "type": 3,
+      "api": "csp_Psmp3",
+      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
+      "searchable": 1,
+      "changeable": 0,
       "style": {
         "type": "list"
       },
@@ -2230,15 +2297,14 @@
     },
 
     {
-      "key": "肥听友",
-      "name": "🗣️ ┇ 听友 ┇ 听书",
+      "key": "肥悦听吧",
+      "name": "🎧悦听吧[听书]",
       "type": 3,
-      "api": "csp_TingYou",
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260729/57m4/fish07292038.jar",
+      "api": "csp_YueTingBa",
+      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
+      "changeable": 1,
       "style": {
         "type": "list"
       }
@@ -2272,7 +2338,31 @@
       "quickSearch": 1,
       "changeable": 0
     },
-
+    {
+      "key": "随身评书",
+      "name": "📚随身┃[听看]",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/%E9%9A%8F%E8%BA%AB%E8%AF%84%E4%B9%A6.js"
+    },
+    {
+      "key": "酷我听书",
+      "name": "📚酷我┃[听看]",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/%E9%85%B7%E6%88%91%E5%90%AC%E4%B9%A6.js"
+    },
+    {
+      "key": "第一故事",
+      "name": "🦁第一┃[听看]",
+      "type": 3,
+      "timeout": 60,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/%E7%AC%AC%E4%B8%80%E6%95%85%E4%BA%8B.js",
+      "style": {
+        "type": "list"
+      }
+    },
 	{
             "key": "m.huanting",
             "name": "📚一夜｜听书",
