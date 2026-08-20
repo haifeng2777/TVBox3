@@ -2202,6 +2202,37 @@
       }
     },
 
+	
+       {
+            "key": "☁i275听书网",
+            "name": "🍙i275听书网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+    "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 ''(KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36#Referer$https://app.365ting.com/",
+    "简介": "mt-3 bg-white p-4\">&&</div>",
+    "主页url": "https://m.i275.com/",
+    "数组": "<a&&</a>",
+    "图片": "src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "✨+status\">&&</span>",
+    "链接前缀": "https://m.i275.com",
+    "链接": "href=\"&&\"",
+    "导演":"作者:+作者：&&</span></p>",    
+    "主演":"播音:+演播：&&</span></p>",
+    "播放数组": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 divide-y md:divide-x border-b\">&&</div>",
+    "播放标题": "text-sm text-gray-700 truncate\">&&</span>",
+    "播放链接": "href=\"&&\"",  
+    "跳转播放链接": "let isRedirecting =*url: '&&'",
+    "嗅探词": ".mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.m4a?#audio.xmcdn.com",
+    "搜索url":"https://m.i275.com/search.php?q={wd}", 
+    "分类": "玄幻奇幻$6#武侠仙侠$10#重生穿越$13#都市言情$7#宫斗女频$8#官场商战$9#刑侦推理$11#探险科幻$12#恐怖惊悚$14#文学历史$15#",
+    "分类url": "https://app.365ting.com/category/{cateId}/2/{catePg}.html;;ak"
+}},	
         {
             "key": "3i275听书",
             "name": "i275听书",
