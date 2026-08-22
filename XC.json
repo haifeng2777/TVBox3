@@ -2202,7 +2202,18 @@
       }
     },
 
-	
+{
+      "key": "星辰大海版听友",
+      "name": "🪆听友FM｜py",
+      "type": 3,
+      "api": "https://dogpan.com/f/BgZPu8/%E5%90%AC%E5%8F%8BFM.py",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1
+    },	
        {
             "key": "☁i275听书网",
             "name": "🍙i275听书网",
@@ -2243,7 +2254,36 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	
+	    {
+      "key": "XBPQ_书听书网",
+      "name": "🌐3┃听书网🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.tingshuwang.cc/book/xuanhuanwuxia/",
+        "请求头": "User-Agent$PC_UA",
+        "简介": "book-desc-text\">&&</div>",
+        "编码": "UTF-8",
+        "数组": "book\">&&</div>",
+        "标题": "title=\"&&\"",        
+        "副标题": "'/>&&</span></dd>",
+        "图片": "src=\"&&\"",        
+        "导演": "作者：+作者：&&</a>", 
+        "主演": "主播：+主播：&&</a></span>", 
+        "倒序": "1",
+        "播放数组": "book-chpater-list\">&&</div>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var chapter_data=*videourl:'&&'",
+        "嗅探词": ".mp3#.m4a",
+        "分类url": "https://www.tingshuwang.cc/book/{cateId}/index_{catePg}.html",
+        "分类": "玄幻武侠$xuanhuanwuxia#恐怖悬疑$kongbuxuanyi#都市言情$dushiyanqing#职场商战$zhichangshangzhan#军事历史$junshilishi#网游竞技$wangyoujingji#推理小说$tuilixiaoshuo#综艺娱乐$zongyiyule"
+      }
+    },
     {
       "key": "相声大全",
       "name": "📻相声大全┃BPQ",
