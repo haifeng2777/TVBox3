@@ -16,6 +16,33 @@
       "type": 3,
       "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py"
     },
+{
+    "key": "XBPQ_短剧大全", 
+    "name": "短剧｜大全(XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "播放请求头": "User-Agent@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36#Referer$https://lssy.net/",
+        "主页url": "https://pan.lssy.net/", 
+        "二次截取": "<!-- 卡片网格 -->&&<!-- 分页 -->",
+        "数组": "<a&&立即观看", 
+        "标题": "title\">&&</div>", 
+        "图片": "src=\"&&\"", 
+        "链接": "https://pan.lssy.net/+href=\"&&\"",
+        "线路数组": "section-header\">&&</div>", 
+        "播放数组": "<div class=\"episode-list\">&&<!-- 返回主页按钮 -->", 
+        "播放列表": "<div&&</div>", 
+        "播放链接": "data-src=\"&&\"", 
+        "播放标题": "第&&集+集", 
+        "嗅探词": "index.m3u8#.m3u8#.mp4#vod.feifei-online.com",
+        "分类url": "https://pan.lssy.net/?p={catePg}&keyword={cateId}", 
+        "分类": "短剧&重生&闪婚&穿越&都市&赘婿&战神&古代&现代&无敌&历史&玄幻&萌宝&神豪&致富&超能&强者&豪门&复仇&长生&神医&马甲&年代&觉醒&逆袭&家庭",
+        "剧情值": "*"
+}},
+
+
+
+
     {
       "key": "csp_风尚影视",
       "name": "🌸风尚影视☪",
