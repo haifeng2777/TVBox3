@@ -39,7 +39,33 @@
         "分类": "短剧&重生&闪婚&穿越&都市&赘婿&战神&古代&现代&无敌&历史&玄幻&萌宝&神豪&致富&超能&强者&豪门&复仇&长生&神医&马甲&年代&觉醒&逆袭&家庭",
         "剧情值": "*"
 }},
-
+{
+    "key": "爱樱花", 
+    "name": "🧿爱樱花┃动漫", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "播放请求头": "User-Agent$MOBILE_UA",
+        "简介": "col-pd\">&&</p>", 
+        "二次截取": "stui-vodlist clearfix\">&&</ul>",
+        "数组": "lazyload&&</p>", 
+        "图片": "data-original=\"&&\"", 
+        "标题": "title=\"&&\"", 	
+		"副标题": "pic-text text-right\">&&</span>",
+        "导演": "导演：&&</span>",
+        "主演": "主演：&&</span>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+		"线路标题": "title\">&&</h3",
+		"播放数组": "stui-content__playlist clearfix&&</ul>",
+		"播放标题": ">&&</a>",
+		"播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player*\"url\":\"&&\"",
+        "嗅探词": "index.m3u8#.m3u8#.mp4",
+        "搜索url": "https://www.duanjuchang.cc/vodsearch/{wd}----------{Pg}---.html",
+        "分类url": "https://www.duanjuchang.cc/vodtype/{cateId}-{catePg}.html", 
+        "分类": "动漫电影$dongmandianying#AI漫剧$AImanju#国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman"
+    }
+},
 
 
 
