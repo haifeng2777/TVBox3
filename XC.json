@@ -66,7 +66,30 @@
         "分类": "动漫电影$dongmandianying#AI漫剧$AImanju#国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman"
     }
 },
-
+{
+    "key": "免费短剧网!", 
+    "name": "🧿免费┃短剧", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    //"jar": "./jar/XBPQ.jar",
+    "ext": {
+        "请求头": "User-Agent$okhttp/4.12.0",
+        "简介": "video-info-item video-info-content\">&&</div>", 
+        "数组": "module-item\">&&</div", 
+        "图片": "data-src=\"&&\"", 
+        "标题": "title=\"&&\"", 	
+        "线路数组": "data-dropdown-value=&&</div>",
+		"线路标题": ">&&</span>",
+		"播放数组": "scroll-content\">&&</div>",
+		"播放标题": ">&&</a>",
+		"播放链接": "href=\"&&\"",
+        "跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "嗅探词": "index.m3u8#.m3u8#.mp4",
+        "分类url": "https://www.communication-solidaire.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}", 
+        "分类": "短剧$29#电影$1#电视剧$2#动漫$4#综艺$3",
+        "类型": "1--空||2--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#纪录片$12||3--国产剧$13#香港剧$14#台湾剧$15#欧美剧$16#韩国剧$25#日本剧$26#泰国剧$27#海外剧$28||4--大陆动漫$34#日本动漫$35#欧美动漫$36#海外动漫$37#动画片$38||5--大陆综艺$30#港台综艺$31#日韩综艺$32#欧美综艺$33"
+    }
+},
 
 
     {
@@ -1682,7 +1705,7 @@
       "key": "星辰大海版听友",
       "name": "🪆听友FM｜py",
       "type": 3,
-      "api": "https://dogpan.com/f/BgZPu8/%E5%90%AC%E5%8F%8BFM.py",
+      "api": "https://3027.kstore.space/py/%E5%90%AC%E5%8F%8BFM.py",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
