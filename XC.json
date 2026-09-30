@@ -90,8 +90,49 @@
         "类型": "1--空||2--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#纪录片$12||3--国产剧$13#香港剧$14#台湾剧$15#欧美剧$16#韩国剧$25#日本剧$26#泰国剧$27#海外剧$28||4--大陆动漫$34#日本动漫$35#欧美动漫$36#海外动漫$37#动画片$38||5--大陆综艺$30#港台综艺$31#日韩综艺$32#欧美综艺$33"
     }
 },
-
-
+{"key":"好好看","name":"好好看","type":3,"api":"http://ai4557481.hk107.naxeoner.com/pack.js","ext":{"appid":"hkan","channelid":"c300000","versionName":"3.3.9","host":"https://vcache.shkjbd.com","package":"com.hkanC300000V250930.T120445","sort":"dujia1,dujia","lineCount":1}},
+    {
+      "key": "西饭短剧-py",
+      "name": "西饭短剧-py",
+      "type": 3,
+      "api": "http://109.244.56.3:8928/FvqFYRZFRlqRNH1M/%E8%A5%BF%E9%A5%AD%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "糖豆广场舞-py",
+      "name": "糖豆广场舞-py",
+      "type": 3,
+      "api": "http://109.244.56.3:8928/FvqFYRZFRlqRNH1M/%E7%B3%96%E8%B1%86%E5%B9%BF%E5%9C%BA%E8%88%9E.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+    "key": "咸鱼影视@", 
+    "name": "🧿咸鱼2┃影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "主页url": "https://www.jxw888.cn/", 
+        "简介": "简介：&&\"",
+        "数组": "<a&&</a>", 
+        "图片": "src=\"&&\"", 
+        "标题": "alt=\"&&\"", 	
+        "副标题": "<b>&&</b> ",
+        "跳转数组": "playbig&&</a>",
+        "跳转链接": "href=\"&&\"",
+        "线路数组": "lines\":[{&&\"",
+		"线路标题": "name\":\"&&\"",
+		"播放数组": "eps\":[&&]",
+        "播放列表": "{&&}",
+		"播放标题": "t\":\"&&\"",
+		"播放链接": "u\":\"&&\"",
+        "搜索url": "https://www.jxw888.cn/?wd={wd}",
+        "分类url": "https://www.jxw888.cn/list/{cateId}-{catePg}.html", 
+        "分类": "🎬短剧$46#🎬电影$1#🎬电视剧$2#🎬动漫$4#🎬综艺$3#🎬电影解说$35#🎬体育$36"
+    }
+},
     {
       "key": "csp_风尚影视",
       "name": "🌸风尚影视☪",
@@ -182,7 +223,59 @@
         "分类": "短剧$?1#AI漫剧$?3#玄幻$?25#剧情$?26#冒险$?28#仙侠$?29#喜剧$?30#动作$?31#悬疑$?32#女频$?33#权谋$?34#豪门$?35#奇幻$?36#宫廷$?37#脑洞$?38#战神$?39#刑侦$?40#恐怖$?43#武侠$?44#爱情$?45"
       }
     },
+
 {
+    "key": "路漫漫!", 
+    "name": "🧿路漫漫🧿", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "jar": "", 
+    "ext": {
+        "请求头": "User-Agent@Mozilla/5.0 (iPhone；； CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E230 Safari/601.1", 
+        "主页url": "http://m.lm6.net/label/new.html", 
+        "简介": "video-info-item video-info-content\">&&</div>", 
+        "二次截取": "<section&&<!-- 分页-->", 
+        "数组": "img-box cover-md\">&&</p>", 
+        "图片": "data-src=\"&&\"", 
+        "标题": "</a>&&</h6>", 
+        "副标题": "label\">&&</span>", 
+        "主演": "主演&&</div>[替换:的所有作品>>空]",
+        "线路数组": "data-dropdown-value=&&</div>", 
+        "线路标题": ">&&</span>", 
+        "播放数组": "module-blocklist scroll-box scroll-box-y\">&&</div>", 
+        "播放标题": "<span>&&</span>", 
+        "跳转播放链接": "urlDecode(url\":\"&&\")", 
+        "分类url": "https://m.lm6.net/vod/show/id/{cateId}/page/{catePg}/year/{year}.html[https://m.lm6.net/type/{cateId}.html]", 
+        "分类": "🎬国产动漫$guochandongman#🎬日本动漫$ribendongman#🎬欧美动漫$oumeidongman#🎬动态漫画$dongtaiman#🎬日本特摄剧$teshepian#🎬国产动画电影$guochandonghuadianying#🎬日本动画电影$ribendonghuadianying#🎬欧美动画电影$oumeidonghuadianying"
+    }
+},	
+{
+    "key": "大海影视", 
+    "name": "🧿大海┃影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA#Referer$https://www.vsyy520.net/",
+        "主页url": "https://www.vsyy520.net/", 
+        "简介": "desc detail hidden-xs\">&&</p>",
+        "数组": "lazyload&&</p>", 
+        "图片": "data-original=\"&&\"", 
+        "标题": "title=\"&&\"", 	
+        "副标题": "pic-text text-right\">&&</span>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+		"线路标题": ">&&</h3>",
+		"播放数组": "stui-content__playlist clearfix\">&&</ul>",
+		"播放标题": ">&&</a>[不包含:дрр滈凊]",
+		"播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player*\"url\":\"&&\"",
+        "嗅探词": "index.m3u8#.m3u8#.mp4#.ts#vv.jisuzyv.com",
+        "搜索url": "https://www.vsyy520.net/dahaisc/-------------.html?wd={wd}&submit=",
+        "分类url": "https://www.vsyy520.net/dahaisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+        "分类": "🎬短剧$5#🎬电影$1#🎬电视剧$2#🎬动漫$4#🎬综艺$3"
+    }
+},	
+	
+	{
     "key": "柠檬视频", 
     "name": "🧿歪片┃星球", 
     "type": 3, 
@@ -1705,7 +1798,7 @@
       "key": "星辰大海版听友",
       "name": "🪆听友FM｜py",
       "type": 3,
-      "api": "https://3027.kstore.space/py/%E5%90%AC%E5%8F%8BFM.py",
+      "api": "https://dl.kstore.dev/download/3027/py/%E5%90%AC%E5%8F%8BFM.py",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
