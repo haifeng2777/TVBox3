@@ -14,7 +14,7 @@
       "key": "爱听音乐",
       "name": "爱听 • 音乐",
       "type": 3,
-      "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py"
+      "api": "https://dl.kstore.dev/download/3027/py/%5B%E9%9F%B3%5D%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
     },
 {
     "key": "XBPQ_短剧大全", 
@@ -95,7 +95,7 @@
       "key": "西饭短剧-py",
       "name": "西饭短剧-py",
       "type": 3,
-      "api": "http://109.244.56.3:8928/FvqFYRZFRlqRNH1M/%E8%A5%BF%E9%A5%AD%E7%9F%AD%E5%89%A7.py",
+      "api": "https://dl.kstore.dev/download/3027/py/%E8%A5%BF%E9%A5%AD%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -103,7 +103,7 @@
       "key": "糖豆广场舞-py",
       "name": "糖豆广场舞-py",
       "type": 3,
-      "api": "http://109.244.56.3:8928/FvqFYRZFRlqRNH1M/%E7%B3%96%E8%B1%86%E5%B9%BF%E5%9C%BA%E8%88%9E.py",
+      "api": "https://dl.kstore.dev/download/3027/py/%E7%B3%96%E8%B1%86%E5%B9%BF%E5%9C%BA%E8%88%9E.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1793,7 +1793,14 @@
         "ratio": 1.433
       }
     },
-
+{
+      "key": "起点有声-py",
+      "name": "起点有声-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/%E8%B5%B7%E7%82%B9%E6%9C%89%E5%A3%B02.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 {
       "key": "星辰大海版听友",
       "name": "🪆听友FM｜py",
@@ -1806,7 +1813,19 @@
       "filterable": 1,
       "playerType": 1
     },	
-       {
+
+{
+      "key": "易听书网-py",
+      "name": "易听书网-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%E6%98%93%E5%90%AC%E4%B9%A6%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
+
+	{
             "key": "☁i275听书网",
             "name": "🍙i275听书网",
             "type": 3,
