@@ -17,6 +17,62 @@
       "api": "https://dl.kstore.dev/download/3027/py/%5B%E9%9F%B3%5D%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
     },
     {
+      "key": "糖豆广场舞-py",
+      "name": "糖豆广场舞-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%E7%B3%96%E8%B1%86%E5%B9%BF%E5%9C%BA%E8%88%9E.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": " 哔嘀影视!",
+      "name": " 哔嘀影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "主页url": "https://www.yudingdz.com/",
+    "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； MI 9 Build/PQ3B.190801.10161630；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Safari/537.36",
+    "编码": "UTF-8",
+    "简介": "detail-intro-text text-row ewave-collapse-content\">&&</p>",
+    "数组": "vod-item-img shining&&</p>",
+    "标题": "</a>&&vod-item-desc hidden-xs",
+    "副标题": "vod-item-status text-row-1\">&&</span></a>",
+    "图片": "data-original=\"&&\"",
+    "线路数组": "#ewave-playlist&&</li>",
+    "播放数组": "row ewave-tab-content ewave-playlist-content ewave-playlist-sort-content&&</ul",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&</a",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "var player_*\"url\":\"&&\"", 
+    "分类url": "https://www.yudingdz.com/yudtp/{cateId}-{catePg}.html;;mrc",
+    "分类": "短剧$5#电影$1#电视剧$2#动漫$3#综艺$4"}
+    },
+{
+    "key": "麒麟影视!!", 
+    "name": "🧿麒麟┃影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "请求头": "User-Agent@Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0  Mobile/15E148 Safari/604.1",
+        "主页url": "https://www.qlys.cc/", 
+        "简介": "descInner\">&&</div>",
+        "数组": "movie-card\">&&</p>", 
+        "图片": "src=\"&&\"", 
+        "标题": "title=\"&&\"", 	
+        "副标题": "ep-badge\">&&</span>",
+        "链接": "href=\"&&\"",
+        "线路数组": "#epList&&</a>",
+		"线路标题": ">&&</a>",
+        "播放数组": "episode-scroll&&</div>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": ">&&</a",
+        "跳转播放链接": "var player_data=*\"url\":\"&&\"",
+        "搜索url": "https://www.qlys.cc/index.php/vod/search.html?wd={wd}",
+        "分类url": "https://www.qlys.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mrc", 
+        "分类": "🎬短剧$3#🎬电影$1#🎬电视剧$2#🎬动漫$4#🎬综艺$5"
+    }
+},
+    {
       "name": "🍉瓜子",
       "key": "csp_Guazi",
       "type": 3,
@@ -99,14 +155,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "糖豆广场舞-py",
-      "name": "糖豆广场舞-py",
-      "type": 3,
-      "api": "https://dl.kstore.dev/download/3027/py/%E7%B3%96%E8%B1%86%E5%B9%BF%E5%9C%BA%E8%88%9E.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+
 {
     "key": "咸鱼影视@", 
     "name": "🧿咸鱼2┃影视", 
@@ -156,33 +205,7 @@
         "分类": "短剧$3#网飞新剧$48#AI漫剧$47#电影$1#电视剧$2#动漫$4#综艺$5#"
       }
     },
-    {
-      "key": "果果┃短剧",
-      "name": "💥果果┃短剧💥",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/xbpq.jar",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "简介": "✨+hl-col-xs-12 blurb\">&&</li>",
-        "数组": "hl-item-thumb hl-lazy&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "hl-lc-1 remarks\">&&<",
-        "链接": "href=\"&&\"",
-        "播放数组": "clearfix\" id=\"hl-plays-list\">&&<div",
-        //"播放列表": "<a&&a>",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "线路数组": "href=\"javascript:void(0);\"&&</a>",
-        "线路标题": "</i>&&</",
-        "分类": "短剧$Categoryduanju#电影$Categorydianying#电视剧$Categorydianshiju#动漫$Categorydongman",
-    "剧情": "重生民国&穿越年代&现代言情&反转爽文&女恋总裁&闪婚离婚&都市脑洞&古装仙侠||动作&喜剧&爱情&科幻&恐怖&剧情&战争&家庭&奇幻&魔幻&冒险&歌舞&院线&悬疑&惊悚&犯罪&警匪&枪战&网络电影&古装&灾难&传记&华语&纪实&青春&历史||古裝&战争&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&商战||科幻&热血&推理&搞笑&冒险&动作&少女&益智",
-        "剧情值": "*",
-        "分类url": "https://app.ggduanju.com/{cateId}-_{by}_{class}_____{catePg}___{year}.html"
-      }
-    },
+
 {
         "key": "西瓜影视1", 
         "name": "🦊西瓜┃XBPQ", 
@@ -210,7 +233,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "请求头": "User-Agent$PC_UA",
         "简介": "data-label\">&&</p>",
         "数组": "video-card\">&&</div>",
         "标题": ">&&</h3>",
@@ -219,11 +241,10 @@
         "播放标题": ">&&/a>",
         "播放链接": "href=\"&&\"",
         "跳转播放链接": "var vid=*\";var now=\"&&\"",
-        "分类url": "https://www.dmduanju.com/list/{cateId}-{catePg}.html",
+        "分类url": "https://www.dmduanju.com/list/{cateId}-{catePg}.html;;mrc",
         "分类": "短剧$?1#AI漫剧$?3#玄幻$?25#剧情$?26#冒险$?28#仙侠$?29#喜剧$?30#动作$?31#悬疑$?32#女频$?33#权谋$?34#豪门$?35#奇幻$?36#宫廷$?37#脑洞$?38#战神$?39#刑侦$?40#恐怖$?43#武侠$?44#爱情$?45"
       }
     },
-
 {
     "key": "路漫漫!", 
     "name": "🧿路漫漫🧿", 
@@ -275,7 +296,7 @@
     }
 },	
 	
-	{
+{
     "key": "柠檬视频", 
     "name": "🧿歪片┃星球", 
     "type": 3, 
@@ -292,65 +313,12 @@
 		"播放数组": "module-play-list\">&&</div>",
 		"播放标题": ">&&</span>",
 		"播放链接": "href=\"&&\"",
-        "跳转播放链接": "https://nmsp1.cc/player/?url=+urlDecode(var player*\"url\":\"&&\")",
-        "嗅探词": "cdn4.ryplay4.com#index.m3u8#.m3u8#.mp4",
-        "分类url": "https://nmsp1.cc/show-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/", 
+        "跳转播放链接": "https://nmsp1.cc/player/?url=+urlDecode(url\":\"&&\")",
+        "分类url": "https://nmsp1.cc/show-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;mrc", 
         "分类": "短剧$duanju#电影$dianying#电视剧$juji#动漫$dongman#Netflix影片$https://nmsp1.cc/show---year-Netflix--------2024/#综艺$zongyi#纪录片$jilupian"
     }
 },
-    {
-      "key": " 哔嘀影视",
-      "name": " 哔嘀影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-    "主页url": "https://www.wxdr99.com/",
-    //"请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "简介": "detail col-pd\">&&</div>",
-    "数组": "stui-vodlist__thumb lazyload&&</div>",
-    "标题": "title=\"&&\"",
-    "副标题": "pic-text text-right\">&&</span>",
-    "图片": "data-original=\"&&\"",
-    "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-    "播放数组": "stui-content__playlist clearfix\">&&</ul",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
-    "分类url": "https://www.wxdr99.com/wxdtp/{cateId}-{catePg}.html",
-    "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"}
-    },
-         {
-            "key": "一起看",
-            "name": "🐰一起看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-    "主页url": "https://www.zunboli.com/",
-    "数组": "part-2by3&&</li",
-    "嗅探词": ".m3u8#.mp4",
-    "图片": "data-original=\"&&\"",
-    "标题": "html\">&&</a",
-    "副标题": "✨+text-center\">&&</span>",
-    "链接": "href=\"&&\"",
-    "简介": "✨指间的黑客为您介绍剧情✨-+qqmt5-matp-v\">&&</div>",
-    "线路二次截取": "<dt class=\"tabt3\">&&</dt><dd",
-    "线路数组": "<span&&</span>",
-    "线路标题": "✨+png\">&&<+【共+5px; \">&&</+】",
-    "播放链接": "href=\"&&\"",
-    "播放标题": "✨+title=\"&&\"",
-    "倒序": "1",
-    "跳转播放链接": "var vid=*\";var now=\"&&\"",
-    "搜索url": "https://v.zrxgnxddxw.com/search.php?page={pg}&searchword={wd}&searchtype=",
-    "分类": "电影$1#电视剧$2#动漫$4#短剧$30#抖音短剧$43#快手短剧$44#综艺$3",
-    "分类url": "https://www.zunboli.com/ddlt/{cateId}-{catePg}.html",
-    "排序": "时间&人气&评分",
-    "排序值": "time&hits&score"
-            }
-        },	
+	
     {
       "key": "红果短剧",
       "name": "🌸红果☪短剧",
@@ -358,7 +326,7 @@
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://www.hongguodj1.cc/",
-        "请求头": "User-Agent$手机#Referer$https://www.hongguodj1.cc",
+        "请求头": "User-Agent$MOBILE_UA#Referer$https://www.hongguodj1.cc",
         "编码": "UTF-8",
         "直接播放": "0",
         "数组": "<a&&</a>",
@@ -1805,10 +1773,10 @@
 
 	{
             "key": "☁i275听书网",
-            "name": "🍙i275听书网",
+            "name": "🍙i275听书-XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1833,11 +1801,40 @@
     "分类": "玄幻奇幻$6#武侠仙侠$10#重生穿越$13#都市言情$7#宫斗女频$8#官场商战$9#刑侦推理$11#探险科幻$12#恐怖惊悚$14#文学历史$15#",
     "分类url": "https://app.365ting.com/category/{cateId}/2/{catePg}.html;;ak"
 }},	
+       {
+            "key": "☁i275听m.i275.com2",
+            "name": "🍙i275听书-2XP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+    "请求头": "User-Agent@Mozilla/5.0 (iPhone；； CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E230 Safari/601.1#Referer@https://m.i275.com/",
+    "简介": "mt-3 bg-white p-4\">&&</div>",
+    "主页url": "https://m.i275.com/",
+    "数组": "<a&&</a>",
+    "图片": "src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "✨+status\">&&</span>",
+    "链接前缀": "https://m.i275.com",
+    "链接": "href=\"&&\"",
+    "导演":"作者:+作者：&&</span></p>",    
+    "主演":"播音:+演播：&&</span></p>",
+    "播放数组": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 divide-y md:divide-x border-b\">&&</div>",
+    "播放标题": "text-sm text-gray-700 truncate\">&&</span>",
+    "播放链接": "href=\"&&\"",  
+    "跳转播放链接": "let isRedirecting =*url: '&&'cover: '",
+    "搜索url":"https://m.i275.com/search.php?q={wd}", 
+    "分类": "玄幻奇幻$6#武侠仙侠$10#重生穿越$13#都市言情$7#宫斗女频$8#官场商战$9#刑侦推理$11#探险科幻$12#恐怖惊悚$14#文学历史$15#",
+    "分类url": "https://app.365ting.com/category/{cateId}/2/{catePg}.html;;akmrc"
+}},
+
         {
             "key": "3i275听书",
-            "name": "i275听书",
+            "name": "i275听书—PY",
             "type": 3,
-            "api": "https://3027.kstore.space/py/275%E5%90%AC%E4%B9%A6.py",
+            "api": "https://dl.kstore.dev/download/3027/py/275%E5%90%AC%E4%B9%A6.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
