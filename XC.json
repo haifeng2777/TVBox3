@@ -155,7 +155,20 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
+{
+    "key": "55影视", 
+    "name": "🧿55┃影视", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {   
+    "站名":"55影视",    
+    "主页url":"https://www.55kan.com/",    
+    "简介":"请勿信片中广告，以免受骗。+<p class=\"col-pd\"&&</p>",    
+    "线路数组":"<h3 class=\"title\">&&/h3>",    
+    "线路标题":"🌸+>&&<",    
+    "分类url":"https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+  },
 {
     "key": "咸鱼影视@", 
     "name": "🧿咸鱼2┃影视", 
@@ -1739,7 +1752,29 @@
         "ratio": 1.433
       }
     },
+
 {
+      "key": "[书]喜马拉雅-py",
+      "name": "[书]喜马拉雅-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%5B%E4%B9%A6%5D%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },	
+	
+	
+	
+	
+	
+{
+      "key": "[书]悦听吧-py",
+      "name": "[书]悦听吧-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%5B%E4%B9%A6%5D%E6%82%A6%E5%90%AC%E5%90%A7.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },	
+	{
       "key": "起点有声-py",
       "name": "起点有声-py",
       "type": 3,
