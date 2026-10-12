@@ -1765,7 +1765,14 @@
 	
 	
 	
-	
+{
+      "key": "[书]书音FM-py",
+      "name": "[书]书音FM-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%E4%B9%A6%E9%9F%B3FM.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },	
 {
       "key": "[书]悦听吧-py",
       "name": "[书]悦听吧-py",
