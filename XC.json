@@ -24,6 +24,20 @@
       "searchable": 1,
       "quickSearch": 1
     },
+
+{
+      "key": "4K电影网(5)-py",
+      "name": "🌀4K电影网(5)-py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/4K%E7%94%B5%E5%BD%B1%E7%BD%91%285%29.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
+
+
+
     {
       "key": " 哔嘀影视!",
       "name": " 哔嘀影视",
@@ -1811,7 +1825,72 @@
       "quickSearch": 1
     },
 
-
+{
+      "key": "XBPQ_中华听书网",
+      "name": "🌐中华┃听书网🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.tingshucn.com/list/1.html",
+        "请求头": "User-Agent$PC_UA",
+        "播放请求头": "User-Agent@Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+        "编码": "UTF-8",
+        "简介": "idDIV\">&&</div>",
+        "数组": "<A&&</P>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "状态：&&</SPAN>",
+        "图片": "src=\"&&\"",        
+        "链接": "href=\"&&\"",
+        "导演":"作者:+作者：&&</LI>",    
+        "主演":"播音:+小说主播：&&</LI>",
+        "线路数组": "content_jrtop\">&&</div>",
+        "线路标题": "<span>&&</span>",
+        "播放数组": "videourl\">&&</div>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
+        //"跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "分类url": "https://www.tingshucn.com/list/{cateId}-{catePg}.html;;d0",
+        "分类": "玄幻·网游$1#都市·言情$2#仙侠·武侠$3#恐怖·悬疑$4#穿越·同人$5#历史·军事$6#刑侦·推理$7#社会·情感$8#人文·社科$9#官场·商战$10#其他·类别$11#儿童·读物$12#幽默·笑话$13#健康·养生$14#文学·名著$15#相声·戏剧$16#名家·评书$17#职业·技能$18#外语·学习$19#财经·时评$20#广播剧$21"
+      }
+    },
+   {
+      "key": "XBPQ_有听网",
+      "name": "🌐有听网┃收费🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.ting15.com/",
+        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 9; M973Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
+        "编码": "UTF-8",
+        "图片代理":"1",
+        "简介": "intro\">&&</div>",
+        "链接前缀":"https://m.ting15.com",
+        "链接": "href=\"&&\"",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+<p>播音：&&</p>",
+        "图片": "src=\"&&\"",        
+        "导演":"作者:+<p>作者：&&</p>",    
+        "主演":"播音:+<p>播音：&&</p>",
+        //"线路数组": "playlist\">&&</div>",
+        //"线路标题": "<h2>&&<h2>", 
+        "播放数组": "plist\">&&</div>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#voice/getvoice?mediaid=",
+        "搜索url":"https://m.ting15.com/?s=ting-search-wd-{wd}-p-{pg}.html",
+        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;d0",
+        "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
+      }
+    },
 
 	{
             "key": "☁i275听书网",
