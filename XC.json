@@ -1803,24 +1803,13 @@
       "searchable": 1,
       "quickSearch": 1
     },
-{
-      "key": "星辰大海版听友",
-      "name": "🪆听友FM｜py",
-      "type": 3,
-      "api": "https://dl.kstore.dev/download/3027/py/%E5%90%AC%E5%8F%8BFM.py",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1
-    },	
+
 
 {
       "key": "易听书网-py",
       "name": "易听书网-py",
       "type": 3,
-      "api": "https://dl.kstore.dev/download/3027/py/%E6%98%93%E5%90%AC%E4%B9%A6%E7%BD%91.py",
+      "api": "https://dl.kstore.dev/download/3027/py/%5B%E4%B9%A6%5D%E6%98%93%E5%90%AC%E4%B9%A6%E7%BD%91.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1892,6 +1881,136 @@
       }
     },
 
+
+{
+            "key": "BookAi23TingShu",
+            "name": "🎃‍二小爱上┃听书🎃",
+            "type": 3,
+            "api": "csp_BookAi23TingShuGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/08/31/a1e1f168a2a59d5786c5518dd82397f5.jpg",
+            "searchable": 1,
+            "changeable": 0
+        },
+
+{
+            "key": "BookHongGuo",
+            "name": "🎃‍小红┃听书🎃",
+            "type": 3,
+            "api": "csp_BookHongGuoGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
+            "searchable": 1,
+            "changeable": 0
+        },  {
+            "key": "BookAiShiJie",
+            "name": "🎃‍二小极品┃听书🎃",
+            "type": 3,
+            "api": "csp_BookAiShiJieGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
+            "searchable": 1,
+            "changeable": 0
+        }, 
+
+
+
+
+
+
+
+
+
+	{
+            "key": "m.huanting",
+            "name": "📚一夜｜听书",
+            "type": 3,
+            "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "简介": "内容介绍：&&</p>",
+                "导演":"作者：+作者：&&</a>",    
+                "主演":"播音：+播音：&&</a>",
+	            "数组": "style-img clearfix\">&&</div>",
+	            "图片": "src=\"&&\"",
+	            "标题": "alt=\"&&\"",
+                "播放数组": "ul-36 clearfix\">&&</ul>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var vid=\"*\";var now=\"&&\"",
+                "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
+                "分类": "玄幻$221#言情$222#都市$223#恐怖$224#惊悚$225#推理$226#武侠$227#历史$228#军事$229#穿越$2210#科幻$2211#网游$2212#评书$2213#戏曲$2214#笑话$2215#儿童$2216#财经$2217#广播$2218#诗歌$2219#文学$2220#粤语$2221#经典$2222#相声小品$2223#百家讲坛$2224",
+                "分类url": "https://22ting.com/html/{cateId}-{catePg}.html"
+            }
+        },
+
+
+
+	{
+      "key": "XBPQ_念音听书",
+      "name": "🌐念音┃收费🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.ting15.com/",
+        "请求头": "User-Agent$手机",
+        "编码": "UTF-8",
+        "简介": "intro\">&&</div>",
+        "链接前缀":"https://m.ting15.com",
+        "链接": "href=\"&&\"",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音：&&</p>",
+        "图片": "src=\"&&\"",        
+        "线路数组": "playlist\">&&</div>", 
+        "播放数组": "<div class=\"plist\">&&</div>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": "voice/getvoice?mediaid=#.mp3#.m4a",
+        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;ak",
+        "分类": "武侠玄幻$wuxiaxuanhuan#恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue"
+      }
+    },
+
+
+
+   {
+      "key": "XBPQ_有听网1",
+      "name": "🌐有听网┃收费🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.ting15.com/",
+        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 9; M973Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
+        "编码": "UTF-8",
+        "图片代理":"1",
+        "简介": "intro\">&&</div>",
+        "链接前缀":"https://m.ting15.com",
+        "链接": "href=\"&&\"",
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+<p>播音：&&</p>",
+        "图片": "<img src=\"&&\"",        
+        "导演":"作者:+<p>作者：&&</p>",    
+        "主演":"播音:+<p>播音：&&</p>",
+        "线路数组": "playlist\">&&</div>",
+        "线路标题": "<h2>&&<h2>", 
+        "播放数组": "class=\"plist\">&&</div>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#voice/getvoice?mediaid=",
+        "搜索url":"https://m.ting15.com/?s=ting-search-wd-{wd}-p-{pg}.html",
+        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;d0",
+        "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
+      }
+    },
 	{
             "key": "☁i275听书网",
             "name": "🍙i275听书-XBPQ",
@@ -1922,35 +2041,19 @@
     "分类": "玄幻奇幻$6#武侠仙侠$10#重生穿越$13#都市言情$7#宫斗女频$8#官场商战$9#刑侦推理$11#探险科幻$12#恐怖惊悚$14#文学历史$15#",
     "分类url": "https://app.365ting.com/category/{cateId}/2/{catePg}.html;;ak"
 }},	
-       {
-            "key": "☁i275听m.i275.com2",
-            "name": "🍙i275听书-2XP",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-    "请求头": "User-Agent@Mozilla/5.0 (iPhone；； CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E230 Safari/601.1#Referer@https://m.i275.com/",
-    "简介": "mt-3 bg-white p-4\">&&</div>",
-    "主页url": "https://m.i275.com/",
-    "数组": "<a&&</a>",
-    "图片": "src=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "✨+status\">&&</span>",
-    "链接前缀": "https://m.i275.com",
-    "链接": "href=\"&&\"",
-    "导演":"作者:+作者：&&</span></p>",    
-    "主演":"播音:+演播：&&</span></p>",
-    "播放数组": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 divide-y md:divide-x border-b\">&&</div>",
-    "播放标题": "text-sm text-gray-700 truncate\">&&</span>",
-    "播放链接": "href=\"&&\"",  
-    "跳转播放链接": "let isRedirecting =*url: '&&'cover: '",
-    "搜索url":"https://m.i275.com/search.php?q={wd}", 
-    "分类": "玄幻奇幻$6#武侠仙侠$10#重生穿越$13#都市言情$7#宫斗女频$8#官场商战$9#刑侦推理$11#探险科幻$12#恐怖惊悚$14#文学历史$15#",
-    "分类url": "https://app.365ting.com/category/{cateId}/2/{catePg}.html;;akmrc"
-}},
 
+{
+      "key": "星辰大海版听友",
+      "name": "🪆听友FM｜py",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/3027/py/%E5%90%AC%E5%8F%8BFM.py",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1
+    },	
         {
             "key": "3i275听书",
             "name": "i275听书—PY",
@@ -2025,158 +2128,6 @@
 				"分类": "传统相声全集$xsmj#郭德纲全部$gdg#德云社$dys#相声新势$xsxsl#青曲社相声$qqs#马三立$msl#郭德纲单口$gdg-dk#郭德纲于谦$gdg-yq#郭德纲张文顺$gdg-zws#郭德纲李菁$gdg-lj#郭德纲徐德亮$gdg-xdl#郭德纲何云伟$gdg-hyw#郭德纲曹云金$gdg-cyj#郭德纲王玥波$gdg-wyb#郭德纲王文林$gdg-wwl"
       }
     },
-{
-            "key": "BookAi23TingShu",
-            "name": "🎃‍二小爱上┃听书🎃",
-            "type": 3,
-            "api": "csp_BookAi23TingShuGuard",
-            "jar": "http://oss4liview.moji.com/thd_file/2026/08/31/a1e1f168a2a59d5786c5518dd82397f5.jpg",
-            "searchable": 1,
-            "changeable": 0
-        },
-
-{
-            "key": "BookHongGuo",
-            "name": "🎃‍小红┃听书🎃",
-            "type": 3,
-            "api": "csp_BookHongGuoGuard",
-            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
-            "searchable": 1,
-            "changeable": 0
-        },  {
-            "key": "BookAiShiJie",
-            "name": "🎃‍二小极品┃听书🎃",
-            "type": 3,
-            "api": "csp_BookAiShiJieGuard",
-            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
-            "searchable": 1,
-            "changeable": 0
-        }, 
-
-
-
-
-
-
-
-
-
-	{
-            "key": "m.huanting",
-            "name": "📚一夜｜听书",
-            "type": 3,
-            "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "简介": "内容介绍：&&</p>",
-                "导演":"作者：+作者：&&</a>",    
-                "主演":"播音：+播音：&&</a>",
-	            "数组": "style-img clearfix\">&&</div>",
-	            "图片": "src=\"&&\"",
-	            "标题": "alt=\"&&\"",
-                "播放数组": "ul-36 clearfix\">&&</ul>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var vid=\"*\";var now=\"&&\"",
-                "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
-                "分类": "玄幻$221#言情$222#都市$223#恐怖$224#惊悚$225#推理$226#武侠$227#历史$228#军事$229#穿越$2210#科幻$2211#网游$2212#评书$2213#戏曲$2214#笑话$2215#儿童$2216#财经$2217#广播$2218#诗歌$2219#文学$2220#粤语$2221#经典$2222#相声小品$2223#百家讲坛$2224",
-                "分类url": "https://22ting.com/html/{cateId}-{catePg}.html"
-            }
-        },
-
-
-
-
-
-
-
-
-    {
-      "key": "饭有声小说",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "csp_Tingshu275Guard",
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f1ed874619a1f75d84cb7027e460300a.jpg",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
-
-
-	{
-      "key": "XBPQ_念音听书",
-      "name": "🌐念音┃收费🌐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://m.ting15.com/",
-        "请求头": "User-Agent$手机",
-        "编码": "UTF-8",
-        "简介": "intro\">&&</div>",
-        "链接前缀":"https://m.ting15.com",
-        "链接": "href=\"&&\"",
-        "数组": "<a&&</a>",
-        "标题": "alt=\"&&\"",        
-        "副标题": "播音：&&</p>",
-        "图片": "src=\"&&\"",        
-        "线路数组": "playlist\">&&</div>", 
-        "播放数组": "<div class=\"plist\">&&</div>",
-        "播放列表": "<a&&</a>",
-        "播放标题": ">&&</a>",
-        "播放链接": "href=\"&&\"",
-        "嗅探词": "voice/getvoice?mediaid=#.mp3#.m4a",
-        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;ak",
-        "分类": "武侠玄幻$wuxiaxuanhuan#恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue"
-      }
-    },
-
-
-
-   {
-      "key": "XBPQ_有听网1",
-      "name": "🌐有听网┃收费🌐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.com/https://github.com/haifeng2777/TVBox3/raw/refs/heads/main/jar/xXBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://m.ting15.com/",
-        "请求头": "User-Agent@Mozilla/5.0 (Linux; Android 9; M973Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
-        "编码": "UTF-8",
-        "图片代理":"1",
-        "简介": "intro\">&&</div>",
-        "链接前缀":"https://m.ting15.com",
-        "链接": "href=\"&&\"",
-        "数组": "<a&&</a>",
-        "标题": "alt=\"&&\"",        
-        "副标题": "播音:+<p>播音：&&</p>",
-        "图片": "<img src=\"&&\"",        
-        "导演":"作者:+<p>作者：&&</p>",    
-        "主演":"播音:+<p>播音：&&</p>",
-        "线路数组": "playlist\">&&</div>",
-        "线路标题": "<h2>&&<h2>", 
-        "播放数组": "class=\"plist\">&&</div>",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "嗅探词": ".m4a?#.mp3#.m4a#.mp3?#voice/getvoice?mediaid=",
-        "搜索url":"https://m.ting15.com/?s=ting-search-wd-{wd}-p-{pg}.html",
-        "分类url": "https://m.ting15.com/{cateId}/index{catePg}.html;;d0",
-        "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
-      }
-    },
-
 
 {"key":"斗鱼","name":"🐟斗鱼直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 
