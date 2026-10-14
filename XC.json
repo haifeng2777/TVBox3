@@ -2025,132 +2025,42 @@
 				"分类": "传统相声全集$xsmj#郭德纲全部$gdg#德云社$dys#相声新势$xsxsl#青曲社相声$qqs#马三立$msl#郭德纲单口$gdg-dk#郭德纲于谦$gdg-yq#郭德纲张文顺$gdg-zws#郭德纲李菁$gdg-lj#郭德纲徐德亮$gdg-xdl#郭德纲何云伟$gdg-hyw#郭德纲曹云金$gdg-cyj#郭德纲王玥波$gdg-wyb#郭德纲王文林$gdg-wwl"
       }
     },
-    {
-      "key": "肥六月有声",
-      "name": "📻 ┇ 六月 ┇ 听书",
-      "type": 3,
-      "api": "csp_TingBook",
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260729/57m4/fish07292038.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "https://app.365ting.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "肥堇夏有声",
-      "name": "🎙️堇夏[听书]",
-      "type": 3,
-      "api": "csp_TingBookJinXia",
-      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "https://m.ting15.com",
-      "style": {
-        "type": "list"
-      }
-    },
+{
+            "key": "BookAi23TingShu",
+            "name": "🎃‍二小爱上┃听书🎃",
+            "type": 3,
+            "api": "csp_BookAi23TingShuGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/08/31/a1e1f168a2a59d5786c5518dd82397f5.jpg",
+            "searchable": 1,
+            "changeable": 0
+        },
 
-    {
-      "key": "肥博看听书",
-      "name": "🗣️博看[听书]",
-      "type": 3,
-      "api": "csp_Bookan",
-      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "filterable": 1
-    },
-    {
-      "key": "肥评书随身听",
-      "name": "📖评书[听书]",
-      "type": 3,
-      "api": "csp_Psmp3",
-      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1
-    },
+{
+            "key": "BookHongGuo",
+            "name": "🎃‍小红┃听书🎃",
+            "type": 3,
+            "api": "csp_BookHongGuoGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
+            "searchable": 1,
+            "changeable": 0
+        },  {
+            "key": "BookAiShiJie",
+            "name": "🎃‍二小极品┃听书🎃",
+            "type": 3,
+            "api": "csp_BookAiShiJieGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
+            "searchable": 1,
+            "changeable": 0
+        }, 
 
-    {
-      "key": "肥悦听吧",
-      "name": "🎧悦听吧[听书]",
-      "type": 3,
-      "api": "csp_YueTingBa",
-      "jar": "https://backup.fukit.cn/autoupload/f/pog6q/20260731/tftz/aidaox-20260731-224304.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
 
-    {
-      "key": "Wexlaobaitingshu!",
-      "name": "🎃‍白兔┃听书🎃",
-      "type": 3,
-      "api": "csp_WexlaobaitingshuGuard",
-      "jar": "https://nos.netease.com/ysf/7aec50c47e5248528ba5cb0d6b3d9daf.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wex275tingshu!",
-      "name": "🎃‍极品┃听书🎃",
-      "type": 3,
-      "api": "csp_Wex275tingshuGuard",
-      "jar": "https://nos.netease.com/ysf/7aec50c47e5248528ba5cb0d6b3d9daf.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "name": "📖听书|365",
-      "key": "app.365ting.com",
-      "type": 3,
-      "api": "csp_TStzgAmns",
-      "jar": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png;md5;d02f7cfdf1e595ddd24a5d11b813ed83",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "随身评书",
-      "name": "📚随身┃[听看]",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/%E9%9A%8F%E8%BA%AB%E8%AF%84%E4%B9%A6.js"
-    },
-    {
-      "key": "酷我听书",
-      "name": "📚酷我┃[听看]",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/%E9%85%B7%E6%88%91%E5%90%AC%E4%B9%A6.js"
-    },
-    {
-      "key": "第一故事",
-      "name": "🦁第一┃[听看]",
-      "type": 3,
-      "timeout": 60,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/%E7%AC%AC%E4%B8%80%E6%95%85%E4%BA%8B.js",
-      "style": {
-        "type": "list"
-      }
-    },
+
+
+
+
+
+
+
 	{
             "key": "m.huanting",
             "name": "📚一夜｜听书",
@@ -2177,59 +2087,12 @@
         },
 
 
-    {
-      "key": "评书@",
-      "name": "📻评书@┃BPQ",
-      "type": 3,
-      "searchable": 0,
-      //"style": {
-        //"type": "rect",
-        //"ratio": 1.597
-      //},
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "ext":{ 
-				"主页url": "https://www.psmp3.com",
-				//"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-				"数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-				"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-				"标题": "title=\"&&\"",
-				"副标题": ">&&</a",
-				"链接": "href=\"&&\"",
-				//"播放二次截取": "autoplay&&;</script>",
-				"播放数组": "\\[&&\\]",
-				"播放列表": "{&&}",
-				"播放链接": "url*\"&&\"",
-				"播放标题": "name*\"&&\"",
-				"播放副标题": "artist*\"&&\"",
-				"线路数组": "评书随身听",
-				"线路标题": "评书随身听",
-				"导演": "小米",
-				"主演": "评书明星",
-				"简介": "评书合集",
-				"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy#相声随身听$https://www.xsmp3.com/"
-      }
-    },
 
 
 
 
 
-    {
-      "key": "天微世界听书",
-      "name": "📚世界🔹听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/tw.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "BookTing"
-      },
-      "timeout": 10
-    },
+
     {
       "key": "饭有声小说",
       "name": "🎧有声┃小说",
@@ -2277,67 +2140,10 @@
       }
     },
 
-    {
-      "key": "XBPQ_评书大全",
-      "name": "🌐单田芳┃评书🌐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "http://www.pingshu5.net/",
-        //"请求头": "User-Agent$MOBILE_UA",
-        "简介": "col-pd\">&&</div>",
-        "编码": "UTF-8",
-        "链接前缀":"http://www.pingshu5.net",
-        "数组": "thumbnail\">&&</div>",
-        "标题": "title=\"&&\"",        
-        //"副标题": "pic-text text-right\">&&</span>",
-        "图片": "src=\"&&\"",        
-        "直接播放": "0", 
-        "播放数组": "<ul>&&</ul>",
-        "播放列表": "<a&&</a>",
-        "播放标题": ">&&</a>",
-        "播放链接": "href=\"&&\"",
-        "嗅探词": ".mp3#.m4a",
-        "分类url": "http://www.pingshu5.net/{cateId}/",
-        "分类": "单田芳评书$pbook#袁阔成评书$ykc#连丽如评书$llr#刘兰芳评书$llf"
-      }
-    },
-    {
-      "key": "XBPQ_海洋听书2",
-      "name": "🌸海洋☪听书[手机]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "http://m.ychy.org/",
-        "简介": "book_intro\">&&</div>",
-        //"请求头": "User-Agent$okhttp/3.12.11",
-        "编码": "gb2312",
-        "数组": "<a&&</p>[不包含:海洋听书网首页]",
-        "图片": "<img src=\"&&\"",
-        "标题": ">&&</span>",
-        "副标题": "info\">&&</span>",
-        "导演":"作者:+播音：<span>&&</span>",    
-        "主演":"播音:+作者：<span>&&</span>",
-        "线路数组": "bookbutton\">&&</div>",
-        "播放数组": "playlist\">&&</div>",
-        "播放标题": "_blank\">&&</a>",
-        "播放链接": "href='&&'",
-        "链接前缀":"http://m.ychy.org",
-        "嗅探词": ".mp3#.m4a#.mp3?#.m4a?",
-        "搜索url":"http://www.ychy.org/so.asp",
-        "分类":"盗墓探险&网络玄幻&传统武侠&都市言情&恐怖悬疑&相声戏曲&历史文学&职场商战&评书&广播剧&人物传记&百家讲坛",
-        "分类值":"45&52&12&13&17&7&15&81&3&18&16&32",
-        "分类url": "http://m.ychy.org/list/{cateId}-{catePg}.html;;ak"
-      }
-    },
+
+
    {
-      "key": "XBPQ_有听网",
+      "key": "XBPQ_有听网1",
       "name": "🌐有听网┃收费🌐",
       "type": 3,
       "api": "csp_XBPQ",
@@ -2370,7 +2176,7 @@
         "分类": "武侠玄幻$wuxiaxuanhuan# 恐怖灵异$kongbulingyi#推理悬疑$tuilixuanyi#都市言情$dushiyanqing#家庭伦理$jiatinglunli#官场职场$wenxuemingzhu#经典评书$jingdianpingshu#曲艺戏曲$quyixiqu#相声小品$xiangshengxiaopin#助眠音频$yinyue#"
       }
     },
-{"key":"有声小说吧","name":"📚有声小说吧","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"},
+
 
 {"key":"斗鱼","name":"🐟斗鱼直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 
