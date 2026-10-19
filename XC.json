@@ -1865,9 +1865,10 @@
         "播放数组": "videourl\">&&</div>",
         "播放标题": ">&&</a",
         "播放链接": "href=\"&&\"",
-        //"嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
-        "跳转播放链接": "var now=FonHen_JieMa(\"&&\")",
-        "分类url": "https://www.tingshucn.com/list/{cateId}-{catePg}.html;;mrc",
+        ??"嗅探词": ".m4a?#.mp3#.m4a#.mp3?#aod.cos.tx.xmcdn.com",
+        "跳转播放组": "player\">&&</div>",
+        "跳转播放链接": "var n*=FonHen_JieMa(\"&&\")",
+        "分类url": "https://www.tingshucn.com/list/{cateId}-{catePg}.html;;m0rc",
         "分类": "玄幻·网游$1#都市·言情$2#仙侠·武侠$3#恐怖·悬疑$4#穿越·同人$5#历史·军事$6#刑侦·推理$7#社会·情感$8#人文·社科$9#官场·商战$10#其他·类别$11#儿童·读物$12#幽默·笑话$13#健康·养生$14#文学·名著$15#相声·戏剧$16#名家·评书$17#职业·技能$18#外语·学习$19#财经·时评$20#广播剧$21"
       }
     },
