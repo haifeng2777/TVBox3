@@ -44,7 +44,14 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
+    {
+      "key": "埋堆堆-py",
+      "name": "🌀埋堆堆-py",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/haifeng2777/tv2/raw/master/PY/%E5%9F%8B%E5%A0%86%E5%A0%86%E5%8A%A0%E5%88%86%E7%B1%BB.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 {
       "key": "4K电影网(5)-py",
       "name": "🌀4K电影网(5)-py",
@@ -2033,8 +2040,88 @@
         "分类": "玄幻修真$book1#都市言情$book4#悬疑推理$book3#恐怖惊悚$book2#军事历史$book5#职场商场$book6#评书大全$book7#经典戏曲$book8#曲艺小品$book9#助眠音频$book0"
     }
 },
-
-
+   {
+      "key": "XBPQ_囧贼听书网",
+      "name": "🌐囧贼┃听书网🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://jiongzei.com/",
+        "简介": "介绍：&&</p>",
+        "链接": "href=\"&&\"",
+        "二次截取": "row3 row-b\">&&</ul>",
+        "数组": "style-img clearfix\">&&</p>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+</i>&&</span>",
+        "图片": "src=\"&&\"",        
+        "导演":"作者:+作者：&&</a>",    
+        "主演":"播音:+播音：&&</a>",
+        "播放数组": "clearfix\">&&</ul>",
+        "播放标题": "_self\">&&</a",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "分类url": "https://jiongzei.com/jiongzei/{cateId}-{catePg}.html;;mrc",
+        "分类": "言情$61#武侠$62#悬疑$63#评书$66#相声小品$67#百家讲坛$68#历史$64#军事$65#商业财经$69#健康养生$610"
+      }
+    },
+{
+      "key": "XBPQ_乐听吧",
+      "name": "🌐乐听┃吧🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.leting8.com/",
+        "简介": "介绍：&&</p>",
+        "链接": "href=\"&&\"",
+        "二次截取": "row3 row-b\">&&</ul>",
+        "数组": "style-img clearfix\">&&</p>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+</i>&&</span>",
+        "图片": "src=\"&&\"",        
+        "导演":"作者:+作者：&&</a>",    
+        "主演":"播音:+播音：&&</a>",
+        "播放数组": "clearfix\">&&</ul>",
+        "播放标题": "_self\">&&</a",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "搜索url":"https://www.leting8.com/search.php?searchword={wd}",
+        "分类url": "https://www.leting8.com/le/{cateId}-{catePg}.html;;mrc",
+        "分类": "玄幻$1#言情$2#都市$3#恐怖$4#惊悚$5#推理$6#武侠$7#历史$8#军事$9#穿越$10#科幻$11#网游$12#评书$13#戏曲$14#笑话$15#儿童$16#财经$17#广播$18#诗歌$19#文学$20#粤语$21#经典$22#相声小品$23#百家讲坛$24"
+      }
+    },
+   {
+      "key": "XBPQ_七八听书网",
+      "name": "🌐七八┃听书🌐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.ting78.com/",
+        "简介": "介绍：&&</p>",
+        "链接": "href=\"&&\"",
+        "二次截取": "row3 row-b\">&&</ul>",
+        "数组": "style-img clearfix\">&&</p>",
+        "标题": "alt=\"&&\"",        
+        "副标题": "播音:+</i>&&</span>",
+        "图片": "src=\"&&\"",        
+        "导演":"作者:+作者：&&</a>",    
+        "主演":"播音:+播音：&&</a>",
+        "播放数组": "clearfix\">&&</ul>",
+        "播放标题": "_self\">&&</a",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var vid=*\";var now=\"&&\"",
+        "分类url": "https://www.ting78.com/books/{cateId}-{catePg}.html;;mrc",
+        "分类": "玄幻$1#言情$2#都市$3#恐怖$4#惊悚$5#推理$6#武侠$7#历史$8#军事$9#穿越$10#科幻$11#网游$12#评书$13#戏曲$14#笑话$15#儿童$16#财经$17#广播$18#诗歌$19#文学$20#粤语$21#经典$22#相声小品$23#百家讲坛$24"
+      }
+    },
 
 
 
